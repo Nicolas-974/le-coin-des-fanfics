@@ -70,7 +70,7 @@ function renderParagraph(block) {
 }
 
 function renderParagraphWithCharacters(block, fanficId) {
-  return `<p>${block.parts.map((part) => renderPart(part, fanficId, block.style)).join('')}</p>`;
+  return `<p>${block.parts.map((part) => renderPart(part, fanficId, block.style)).join(' ')}</p>`;
 }
 
 function renderPart(part, fanficId, blockStyle) {
@@ -89,10 +89,10 @@ function renderPart(part, fanficId, blockStyle) {
 
 function renderDialogue(block, fanficId) {
   const speaker = block.speaker_parts
-    ? block.speaker_parts.map((part) => renderPart(part, fanficId, block.style || 'bold')).join('')
+    ? block.speaker_parts.map((part) => renderPart(part, fanficId, block.style || 'bold')).join(' ')
     : wrapStyle(block.style || 'bold', `<span data-i18n="${block.speaker_key}"></span>`);
   const line = block.line_parts
-    ? `<br>${block.line_parts.map((part) => renderPart(part, fanficId)).join('')}`
+    ? `<br>${block.line_parts.map((part) => renderPart(part, fanficId)).join(' ')}`
     : block.line_key
       ? `<br><span data-i18n="${block.line_key}"></span>`
       : '';
