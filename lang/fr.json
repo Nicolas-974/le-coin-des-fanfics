@@ -1,0 +1,19 @@
+{
+  "tagline": "Bienvenue ! Je ne suis qu'un lecteur passionné qui, au fil de ses lectures, est tombé sur des histoires qui l'ont marqué — et qui a eu envie de les faire découvrir à d'autres fans. Je les traduis avec soin et je leur offre ici un écrin de lecture à leur hauteur : ambiances sonores, images de personnages et thème visuel propre à chaque univers.",
+  "credit_note": "Un mot important : ces histoires ne sont pas les miennes. Elles sont l'œuvre d'auteurs et autrices que j'admire, et que j'ai contactés pour obtenir leur autorisation avant de les traduire et de les publier ici. Si un texte vous touche, tout le mérite leur revient — je ne suis qu'un fan qui a voulu, à sa modeste échelle, rendre hommage à leur travail et le partager avec d'autres passionnés.",
+  "status_en_cours": "En cours",
+  "status_termine": "Terminé",
+  "status_en_pause": "En pause",
+  "modal_universes_title": "Univers croisés",
+  "modal_original_title": "Œuvre originale",
+  "written_by": "Écrit par",
+  "author_profile_link": "Profil de l'auteur",
+  "official_wiki": "Wiki officiel",
+  "read_original": "Lire l'histoire originale (version anglaise)",
+  "start_reading": "Commencer la lecture",
+  "close": "Fermer",
+  "theme_toggle_label": "Changer de thème",
+  "lang_toggle_label": "Changer de langue",
+  "theme_light": "Thème clair",
+  "theme_dark": "Thème sombre"
+}

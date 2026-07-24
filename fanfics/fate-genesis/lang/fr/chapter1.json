@@ -1,0 +1,830 @@
+{
+  "chapter_list": "Liste des chapitres:",
+  "project_title": "Fate Genesis",
+  "chapter_title": "Chapitre 01 : Sonic Boom",
+
+  "audio_title10": "Fate/stay night OST - Unmei no Yoru (Night of Fate)",
+  "audio_title11": "Fate/Stay Night Unlimited Blade Works OST - Rin: Remembrance (Shoukan)",
+  "audio_title12": "Fate/stay night OST - Ikai no Fuchi",
+  "audio_title13": "Fate/Stay Night Hollow Ataraxia OST - Back to the Night",
+  "audio_title14": "Fate/Stay Night Hollow Ataraxia OST - Whisper of Darkness",
+
+  "zone_title": "Egg Saucer Zone",
+  "p1": "Haut dans le ciel, il volait. Il maintenait son altitude et sa vitesse en tournoyant, sa forme de disque rappelant une pizza faite d’acier et de silicium. Un observateur le regardant de loin aurait pu croire à une invasion extraterrestre — une observation inexacte.",
+  "p2": "Du moins, en ce qui concernait le mot \"extraterrestre\".",
+  "p3a": "C’était l'Egg Saucer, et il était au cœur du tout dernier et plus audacieux plan de domination mondiale© du ",
+  "eggman_name": "Dr. Ivo « Eggman » Robotnik",
+  "p3b": ". Il renfermait une arme d’une puissance inimaginable : le Rayon Genesis. Une fois activé, la planète entière tomberait sous sa coupe.",
+  "audio_title": "Sonic The Hedgehog - His World",
+  "p4a": "Pas si ",
+  "sonic_name": "Sonic The Hedgehog",
+  "p4b": " et ses amis avaient leur mot à dire !",
+  "p5": "Sonic courait à travers les installations de l'Egg Saucer, esquivant les tirs ennemis et détruisant tous les robots qui s’approchaient trop près. Il bondissait par-dessus les tapis roulants et évitait les fosses garnies de piques acérées. Il savait qu’il devait faire vite — Sonic était toujours rapide, mais cette fois, il avait une raison supplémentaire de se dépêcher. Eggman s’était emparé des sept ",
+  "chaos_emeralds": "Chaos Emeralds",
+  "p6b": ", et il comptait utiliser leur énergie pour alimenter ses armes. Sonic devait l’arrêter avant qu’il n’ait l’occasion de tirer sur quoi que ce soit !",
+  "p7a": "Dehors, ",
+  "tails_name": "Miles « Tails » Prower",
+  "p7b": " volait autour de l'Egg Saucer dans son avion biplan, le ",
+  "tornado_name": "Tornado",
+  "p7c": ". Après avoir déposé ses amis, il commença à harceler le vaisseau pour attirer ses tirs de canons, tout en ripostant avec quelques salves bien placées. Un tir du Saucer frôla l’appareil, le secouant violemment, mais Tails garda son sang-froid.",
+  "p8a": "Dans une autre section du Saucer, ",
+  "knuckles_name": "Knuckles The Echidna",
+  "p8b": " était une véritable machine de destruction, réduisant les Badniks en miettes à coups de poings hérissés de pointes. Tandis que l’armée à lui seul affrontait les hordes de robots, ",
+  "amy_name": "Amy Rose",
+  "p8c": " sautait d’un œuf-pod à l’autre. Avec une précision redoutable, elle atterrissait sur les boutons jaunes des capsules, les ouvrant pour libérer les petites créatures piégées à l’intérieur.",
+  "amy1": "Amy : Allez-y ! Vous êtes libres !",
+  "amy1b": "Cria Amy aux animaux en fuite.",
+  "amy2": "Amy : Knuckles, c’était le dernier ! On y va !",
+  "p9": "Knuckles écrasa un dernier Crabmeat avant de répondre :",
+  "knuckles1": "Knuckles: On ne peut pas partir maintenant. On doit s’occuper d’Eggman !",
+  "amy3": "Amy: Sonic s’en occupe ! Il va brouiller les plans du doc !",
+  "amy3b": "Insista Amy, les yeux brillants en pensant à son cher Sonic.",
+  "p10": "Mais Knuckles n’était pas si sûr de la réussite de Sonic.",
+  "knuckles2": "Knuckles: Mais Eggman a les Émeraudes… !",
+
+  "p11": "Le Dr Eggman afficha un sourire maléfique en regardant la jauge de carburant du Rayon Genesis grimper. Il était impressionné par la vitesse à laquelle la machine absorbait l’énergie des Émeraudes. À ce rythme, le Rayon serait pleinement chargé avant même qu’ils n’atteignent une ville.",
+  "p12": "Avant qu’Eggman puisse décider s’il voulait ou non asseoir sa domination totale sans public pour l’admirer, les portes de sa salle de commande explosèrent. La poussière retomba, révélant Sonic, aussi audacieux que jamais, aussi bleu que de la peinture fraîche. Le hérisson souriait.",
+  "eggman1": "Eggman : Sonic...",
+  "eggman1b": "Grogna Eggman.",
+  "eggman2": "Eggman : Cette fois, tu ne m’arrêteras pas !",
+  "sonic1": "Sonic : Je l’ai déjà fait plusieurs fois Crâne d'Oeuf.",
+  "sonic1b": "Répondit Sonic avec insolence.",
+  "sonic2": "Sonic : Pourquoi rompre avec une tradition ?",
+  "p13": "La réponse d’Eggman fut d’activer les armes de son Eggmobile. L’aéroglisseur s’éleva dans les airs, armé d’une gigantesque pince sur le flanc gauche et d’un canon sur la droite.",
+  "p14": "Sonic se mit à courir partout dans la salle, esquivant les tirs lasers et les missiles, sautant de temps en temps pour éviter la pince qu’Eggman lançait dans sa direction. Lorsque la pince finit par se coincer dans le mur (résultat inévitable d’une visée trop enthousiaste), Sonic saisit l’occasion pour attaquer le corps principal de l’Eggmobile. Il se roula en boule et tourbillonna à super-vitesse, percutant violemment l’avant du véhicule — encore un duel entre Sonic le Hérisson et le Dr Eggman.",
+  "p15": "Mais quelque chose tourna mal.",
+  "p16": "La force de l’attaque de Sonic secoua Eggman dans son cockpit, le faisant appuyer sur certains contrôles par erreur. Ces contrôles désactivèrent les sécurités empêchant les armes d’Eggman de viser les systèmes cruciaux, et désormais, rien ne pouvait empêcher les missiles d’atteindre le moteur principal du Rayon Genesis. Le pauvre Eggman ne s’en rendit compte qu’après avoir tenté de viser Sonic — qui était, comme toujours, bien trop rapide.",
+  "eggman3": "Eggman : Oh non !",
+  "eggman3b": "S’écria Eggman alors que les machines crépitaient et émettaient des étincelles électriques.",
+  "eggman4": "Eggman : Non, non, non !",
+  "p17": "Sonic fit un salut moqueur et détala. Tandis que le moteur Genesis commençait à exploser, le Dr Eggman poussa un dernier hurlement, aussi habituel que célèbre :",
+  "eggman5": "Eggman : JE DÉTESTE CE HÉRISSON !",
+  "p18": "Sonic courait, bien décidé à retrouver ses amis et à les faire sortir de l'Egg Saucer avant que la dernière invention d’Eggman ne lui explose au visage. Mais Sonic sous-estimait le Rayon Genesis ; ce n’était pas un simple canon laser. C’était quelque chose de bien plus grand, et en tant que tel, sa réaction aux dommages dépassait de loin une simple explosion.",
+  "p19": "Il y eut un grand bruit, puis une lumière.",
+  "p20": "Il y eut un grand silence, puis la lumière disparut.",
+  "p21": "Et l'Egg Saucer avait disparu... de ce monde.",
+
+  "chapter2_title": "Première Nuit",
+  "audio_title2": "Fate/Stay Night OST - Aintsuberun No Mori",
+  "p22": "Fuyuki, une petite ville du Japon. Sa seule notoriété provenait d’un événement tragique : le Grand Incendie de Fuyuki, comme l’avaient baptisé les médias. Une partie de la ville avait été dévorée par les flammes, un acte criminel digne de l’incendie de Rome. La cause exacte de l’incendie n’avait jamais été découverte — les versions officielles parlaient d’une fuite de gaz — mais ceux qui savaient lire entre les lignes avaient remarqué que plusieurs meurtres — certains aussi attribués à des fuites de gaz, d’autres non — avaient eu lieu dans les jours précédant la catastrophe. De nos jours, ces mêmes personnes (toujours ignorées) constataient que des morts mystérieuses — là encore mises sur le compte de fuites de gaz — se produisaient à nouveau, et ils se demandaient s’il y avait un motif. Ils avaient raison.",
+  "p23": "Sonic ne savait rien de tout cela. Mais il savait — TRÈS BIEN — à quoi ressemblait le bitume, puisque son visage venait d’y atterrir. Se relevant, il secoua la tête pour chasser les petits oiseaux qui tournaient autour de lui.",
+  "sonic3": "Sonic : Ugh… Grosse gamelle…",
+  "sonic3b": "Grogna Sonic.",
+  "sonic4": "Sonic : Qu’est-ce qui s’est passé… ?",
+  "p24": "Il regarda autour de lui. La ville qui l’entourait semblait anormalement calme. Soit la métropole faisait une sieste collective, soit le hérisson venait d’atterrir dans une ville fantôme.",
+  "sonic5": "Sonic : Où est-ce que je suis ?",
+  "p25": "Demanda-t-il à voix haute. Il leva les yeux vers le ciel nocturne… et ne reconnut pas les étoiles. La destruction de la machine d’Eggman l’aurait-elle envoyé dans un autre monde… ?",
+  "sonic6": "Sonic : J’espère que Tails, Knux et Amy vont bien…",
+  "sonic6b": "Murmura-t-il.",
+  "p26": "Un cri déchira alors le silence au loin. Sortant aussitôt de sa rêverie, Sonic fonça en direction du bruit, effectuant quelques figures de Parkour au passage, sautant de bâtiment en bâtiment avec agilité.",
+
+  "audio_title3": "Fate/Zero OST – Point Zero",
+  "btn_show_image": "Click Me",
+  "p27": "Dans une ruelle sombre (évidemment), un homme en combinaison bleue, armé d’une lance, se tenait au-dessus de sa prochaine victime.",
+  "p28": "Le cadavre de la précédente, morte depuis à peine trois secondes, gisait non loin.",
+  "man1": "Homme : P-pitié…",
+  "man1b": "Sanglotait l’homme, tremblant de peur.",
+  "man2": "Homme : Ne faites pas ça…",
+  "lancer1": "Lancer : Désolé, j’ai pas trop le choix.",
+  "lancer1b": "Répondit Lancer, grattant l’arrière de sa tête avec sa main libre. De l’autre, il pointa sa lance vers la poitrine de l’homme.",
+  "lancer2": "Lancer : Faut bien que je reprenne des forces.",
+  "p29": "Et il en avait grand besoin. Lancer avait été invoqué en tant que Servant — un Esprit Héroïque dont la présence physique dans le monde était maintenue par un mage, son Master. Sept Servants, invoqués par sept Masters, s’affrontaient pour un prix ultime.",
+  "p30": "Malheureusement, le Master actuel de Lancer ne disposait pas de Mana (énergie magique) suffisant pour le maintenir correctement, forçant le Servant à se régénérer en drainant l’énergie vitale d’êtres humains. Littéralement, son Master lui avait donné cet ordre. Et comme si cela ne suffisait pas, ce lâche refusait de le laisser se battre ! Jusqu’à présent, la stratégie consistait à échanger quelques coups avec d’autres Servants, balancer deux-trois piques verbales, puis battre en retraite. Même si le faux prêtre avait affirmé que cela faisait partie d’un « plan de victoire », Lancer n’était pas convaincu. Quelle manière ennuyeuse de faire la guerre…",
+  "p31": "Il leva sa lance, et s’arrêta. Tendant l’oreille, il crut entendre un bruit… ?",
+  "p32": "Sonic percuta Lancer de plein fouet avec un GROS WHAM, l’envoyant valdinguer contre un mur.",
+  "sonic7": "Sonic : Refusé !",
+  "sonic7b": "Lança Sonic avec entrain. Puis, se tournant vers la victime potentielle :",
+  "sonic8": "Sonic : Ça va, monsieur ?",
+  "p33": "L’homme, tremblant et hébété, jeta un regard à Sonic, puis à Lancer, avant de s’enfuir en criant :",
+  "man3": "Homme : J’en peux plus de tout ça !",
+  "sonic9": "Sonic : De rien !",
+  "sonic9b": "Lui lança Sonic en guise d’au revoir.",
+  "p34": "Sonic se baissa juste à temps — la lance de Lancer passa à quelques centimètres au-dessus de sa tête. Effectuant une roulade, le hérisson se déplaça d’un mètre avant de se remettre debout d’un bond.",
+  "sonic10": "Sonic : Hé ! C’était quoi, ça ?!",
+  "p35": "Lancer rétracta son arme et adopta une posture de combat.",
+  "lancer3": "Lancer : Désolé pour ça. J’ai juste tendance à m’énerver quand quelqu’un interrompt mon repas.",
+  "sonic11": "Sonic : Repas ?",
+  "sonic11b": "Répéta Sonic, confus — jusqu’à ce que ses yeux tombent sur le corps.",
+  "p36": "Ils s’écarquillèrent tandis qu’il prenait soudain conscience de toute l’horreur de ce qu’il venait d’empêcher… et de ce qu’il n’avait pas pu empêcher.",
+  "sonic12": "Sonic : C’est toi qui as fait ça ?",
+  "sonic12b": "Demanda Sonic à Lancer, tentant de garder sa voix stable malgré la tempête qui faisait rage dans son esprit.",
+  "p37": "Lancer haussa les épaules, ce qui ne fit qu’attiser la colère de Sonic.",
+  "lancer4": "Lancer : Ouais. C’est pas très joli, je sais, mais faut bien que je trouve du Mana quelque part.",
+
+  "audio_title4": "Fate/Stay Night OST - Sonic Barrage",
+  "p38": "Sonic et Lancer commencèrent à tourner autour l’un de l’autre, sans jamais se lâcher du regard. Lancer arborait un sourire enthousiaste — il n’avait aucune idée de ce que Sonic était (même s’il lui rappelait vaguement ces espèces de chats dans ce café… comment ça s’appelait déjà ?), mais il sentait bien que cette créature possédait bien plus de Mana et de puissance que les civils qu’il était obligé de traquer.",
+  "p39": "Sonic, lui, ne souriait pas. S’il avait connu Sonic, Lancer aurait compris que c’était très significatif. Le hérisson avait d’abord cru interrompre un simple vol… mais il avait réalisé qu’il était tombé sur un meurtre — le deuxième, et qu’il avait été trop tard pour le premier. Il ne laisserait pas ce type s’en sortir !",
+  "p40": "Sonic se projeta vers Lancer à une vitesse à laquelle le Servant ne s’attendait pas. Lancer tenta une estocade, mais Sonic glissa sous la lame, sa vitesse le propulsant vers les jambes du lancier. Ce dernier sauta pour éviter d’être déséquilibré. Sonic rebondit contre un mur, effectuant un saut en arrière vers le guerrier. Mais Lancer s’était déjà retourné, lance prête. Sonic évita de justesse la lame, prit appui sur le manche, et balança une série de coups de poing au visage de son adversaire.",
+  "p41": "Lancer recula en se frottant la mâchoire. Loin d’être furieux, il était plutôt impressionné par la performance du hérisson.",
+  "lancer5": "Lancer : T’es un petit gars agile.",
+  "lancer5b": "Commenta l’Esprit Héroïque.",
+  "lancer6": "Lancer : Mais je commence à piger ton style. C’est qu’une question de temps avant que je t’attrape.",
+  "p42": "Sonic fit tournoyer la lance rouge d’un air décontracté.",
+  "sonic13": "Sonic : Ça risque de prendre plus de temps que tu crois, mon pote.",
+  "p43": "Lancer blêmit. Il ne s’était même pas rendu compte qu’il avait lâché sa lance !",
+  "lancer7": "Lancer : Toi, espèce de… Rends-moi ça !",
+  "p44": "Lancer se précipita vers Sonic — mais le hérisson était déjà en train de filer hors de la ruelle, bien trop rapide. Il s’arrêta un instant pour regarder derrière lui et lancer un regard moqueur au chien de garde.",
+  "sonic14": "Sonic : Attrape-moi si tu peux !",
+  "sonic14b": "Cria-t-il avant de repartir à toute vitesse.",
+  "p45": "Lancer grogna et se lança à sa poursuite.",
+  "p46": "On ne plaisantait pas avec la lance d’un homme !",
+
+  "shirou_name": "Emiya Shirou",
+  "saber_name": "Saber",
+  "lancer_name": "Lancer",
+  "archer_name": "Archer",
+  "rin_name": "Rin Tohsaka",
+  "kirei_name": "Kirei Kotomine",
+  "illya_name": "Illya",
+  "berserker_name": "Berserker",
+
+  "p47a": "Dans une autre partie de Fuyuki, un trio de jeunes gens — techniquement, ils étaient quatre, mais le quatrième se trouvait en forme astrale — marchait dans les rues, deux d’entre eux portant le troisième. Quelques heures plus tôt, le lycéen et mage amateur ",
+  "p47b": " avait invoqué, par accident et sans le vouloir, le Servant ",
+  "p47c": ", une magnifique chevalière, qui lui avait sauvé la vie face à ",
+  "p47d": ". Juste après, Saber avait attaqué ",
+  "p47e": ", ce qui avait permis à Shirou de découvrir que l’idole de son école, ",
+  "p47f": ", était la Maîtresse d’Archer — et une mage bien plus accomplie que lui. Plutôt que de continuer le combat, Rin avait conduit Shirou à l’église de Fuyuki pour qu’il s’enregistre en tant que participant à la Guerre du Saint Graal. De la bouche du responsable de l’église, ",
+  "p47g": ", Shirou apprit la vérité sur le Grand Incendie d’il y a dix ans : il s’agissait du résultat final de la précédente Guerre du Graal. Réalisant que les morts actuelles n’étaient pas dues à des fuites de gaz, mais à un Servant se nourrissant du mana de ses victimes, Shirou choisit de se battre aux côtés de Saber. Il n’était pas intéressé par le Graal lui-même, mais ne pouvait pas laisser une autre tragédie se produire.",
+
+  "p48a": "Puis ",
+  "p48b": " arriva. En quittant l’église, Shirou et sa petite équipe furent confrontés à Illyasviel von Einzbern, une fillette aussi adorable que cruelle, dotée d’un Servant à la taille imposante : ",
+  "p48c": ", un amas de muscles incarnant le héros Héraclès. Saber et Archer combattirent, mais leurs attaques faisaient à peine reculer l’Esprit Héroïque. Alors que Saber allait être frappée par la lame de Berserker, Shirou fit ce qui était unanimement reconnu comme une très mauvaise idée : il s’interposa et prit le coup à sa place. Or, étant donné que c’était sa vie qui permettait à Saber de rester incarnée dans le monde physique, ce sacrifice héroïque était… plutôt inutile. Et pourtant, au lieu de mourir logiquement, Shirou survécut, son corps frôlant la séparation en deux parties, mais encore en un seul morceau. Intriguée par les actions de Shirou et impressionnée par les talents d’Archer, Illya déclara la fin de l’affrontement, promettant de revenir une autre fois.",
+
+  "p49": "À présent, Rin et Saber ramenaient Shirou chez lui, malgré les protestations d’Archer qui conseillait fortement à sa Maîtresse d’abandonner « cet idiot » là où il était tombé. Si Shirou avait été conscient, il aurait sans doute eu une réaction peu chevaleresque à cette remarque.",
+  "p50": "Rin jeta pour la énième fois un coup d’œil à Shirou. Même maintenant, son corps se régénérait à une vitesse incroyable. C’était incompréhensible. Normalement, les gens meurent quand ils se font tuer. Elle savait ça. Et pourtant, Shirou, un mage aux circuits magiques si faibles qu’ils en étaient quasiment inexistants, défiait cette loi universelle. Cela n’avait aucun sens.",
+  "p51": "Mais Rin ignorait encore que le reste de cette guerre serait une attaque continue contre tout ce qu’elle croyait savoir du fonctionnement du monde.",
+
+  "audio_title6": "Fate/stay night OST - Fuji-nee Theme",
+
+  "p52": "Les trois jeunes gens étaient presque arrivés au pont lorsqu’une forme bleue passa soudain devant eux à toute vitesse, suivie par une seconde forme, également bleue. Les deux silhouettes virevoltaient et couraient tout autour de Rin, Saber et Shirou, engagés dans un jeu de chat perché complètement désorganisé, digne d’un flipper géant.",
+  "p53": "Rin et Saber observaient la scène, la tête commençant à leur tourner alors qu’elles tentaient de suivre ce spectacle visuellement épuisant. Bien que les deux formes bougeaient trop vite pour être distinguées, on pouvait reconnaître l’une d’elles à sa voix, tandis qu’il échangeait ce brillant dialogue avec l’autre silhouette :",
+
+  "lancer8": "Lancer : Reviens ici !",
+  "sonic15": "Sonic : Nan.",
+  "lancer9": "Lancer : Rends-le moi !",
+  "sonic16": "Sonic : Pas question.",
+  "lancer10": "Lancer : GRAAAAH !",
+  "sonic17": "Sonic : Trop lent !",
+  "saber3": "Saber : Lancer ?",
+
+  "p54": "Demanda Saber, clignant des yeux. Elle se demanda si elle ne s’était pas cogné la tête durant le combat contre Berserker. Une scène aussi absurde ne pouvait pas être réelle.",
+  "p55": "Lancer bondit vers un espace vide une nouvelle fois, grognant au sol alors que Sonic sortait de sa portée comme une fusée. Puis il remarqua qu’il avait un public. Se redressant, il afficha un air décontracté ; il tenait à sa réputation, et voulait la préserver.",
+
+  "lancer11": "Lancer : Yo, Saber.",
+  "lancer11b": "Lança Lancer d’un ton détaché, hochant la tête vers Rin.",
+  "lancer12": "Lancer : Et Maître d’Archer.",
+  "lancer12b": "Il jeta un coup d'œil à Shirou.",
+  "lancer13": "Lancer : Qu’est-ce qu’il a, lui ?",
+
+  "p56": "Shirou gémit. S’il avait été conscient, il aurait sûrement eu une réponse sarcastique en réserve.",
+  "saber4": "Saber : Cela ne te regarde pas.",
+  "p57": "Répliqua Saber froidement, se tenant prête. C’était mauvais signe. Si Lancer décidait de se battre maintenant, elle serait en grave désavantage. Attendez… Lancer pouvait-il même se battre ?",
+  "saber5": "Saber : Où est ta lance ?",
+  "p58": "Lancer grimaça. Le sujet qu’il espérait éviter à tout prix.",
+  "lancer14": "Lancer : Euuuuuh…",
+  "pow": "POW !",
+  "p59": "Sonic retomba sur Lancer depuis les airs, écrasant le lancier dans le bitume sous ses baskets.",
+
+  "sonic18": "Sonic : C’est moi qui t’ai !",
+  "sonic18b": "Déclara fièrement le hérisson.",
+  "p60": "Puis il remarqua le trio devant lui. Les yeux de Shirou — troubles, à peine ouverts — croisèrent brièvement ceux de Sonic.",
+  "sonic19": "Sonic : Wow, qu’est-ce qui lui est arrivé ? Il va bien ?",
+  "p61": "Saber et Rin ne répondirent rien. Elles n’étaient pas sûres de comment répondre — ni même à quoi.",
+
+  "lancer15": "Lancer : Lâche-moi !",
+  "lancer15b": "Hurla Lancer en se relevant brusquement.",
+  "p62": "Sonic tomba de son dos, roula sur plusieurs mètres pour éviter d’être blessé, et laissa échapper la lance rouge. Lancer la ramassa rapidement et se remit en garde, la pointe dirigée droit vers la poitrine du hérisson. S’il aimait un bon combat, ce jeu de poursuite à grande vitesse n’avait rien d’un duel digne de ce nom. Et son lâche de Maître, qui refusait de le laisser combattre sérieusement, n’aidait en rien. Mais ce Sonic… ce n’était pas un vrai guerrier. C’était un clown, un acrobate, qui traitait leur affrontement comme un numéro de cirque, évitant le face-à-face direct, contrairement à Saber. Il se contentait de virevolter, de provoquer, n’attaquant que lorsqu’on ne s’y attendait pas — comme à l’instant !",
+  "p63": "Il était temps de mettre fin à cette mascarade.",
+  "lancer16": "Lancer : Gae Bolg !",
+
+  "power_rings": "anneaux de pouvoir",
+
+  "p64": "En tant que guerrier choisi pour combattre dans le Heaven's Feel, le Saint Graal avait accordé à Lancer des pouvoirs et une arme issus de sa légende — un Noble Phantasme. Celui de Lancer, sa lance maudite, transperçait infailliblement le cœur de sa cible, même si cela impliquait de briser la causalité elle-même. Une fois le nom prononcé, la mort était certaine… sauf si la cible disposait d’une protection équivalente ou supérieure.",
+  "p65": "Mais là, quelque chose de nouveau venait d’apparaître.",
+  "p66": "La lance transperça Sonic — ou du moins, c’est ce que Lancer crut. Au lieu de voir le hérisson empalé, son corps fut repoussé en arrière par la pointe de l’arme. Des anneaux dorés explosèrent de son torse, chutant au sol avant de disparaître. Pas une goutte de sang.",
+
+  "sonic20": "Sonic : AAAARRGGHH !",
+  "sonic20b": "Hurla Sonic. Bien que les ",
+  "sonic20c": " aient empêché son corps d’être blessé, la douleur, elle, était bien réelle — plus atroce que toutes les fois où il s’était empalé sur des pics.",
+
+  "p67": "Autour de Sonic, tous étaient figés, sidérés. Mais Lancer l'était encore plus.",
+  "lancer17": "Lancer : Quoi !? Comment t’as survécu à ça !?",
+  "p68": "C’était déjà humiliant que Shirou ait survécu à Gae Bolg, mais ce hérisson… il n’était même pas blessé !",
+  "sonic21": "Sonic : Tu... tu bougeais pas comme ça tout à l’heure… Comment… ?",
+  "p69": "Sonic secoua la tête, encore sonné, puis ses yeux se plissèrent.",
+  "sonic22": "Sonic : Attends… C’est pas ta vitesse. Tu utilises cette lance pour te téléporter, pas vrai ? Tu t’en sers pour plier l’espace.",
+
+  "lancer18": "Lancer : Merde…",
+  "lancer18b": "Lancer serra sa lance, prêt à réattaquer. Sonic n’était peut-être pas ensanglanté, mais il avait clairement été affaibli par l’impact précédent. En répétant l’attaque, il finirait par l’avoir…",
+  "lancer19": "Lancer : Gae—",
+  "pow2": "POW !",
+  "p70": "Lancer tituba en arrière, les pieds de Sonic venant s’écraser en plein dans son visage. Le hérisson ne comptait pas lui laisser une deuxième chance. Alors que ses semelles étaient toujours pressées contre le visage du Chien de Chasse, il tenta une nouvelle fois de s’emparer de la lance, mais Lancer réussit à le repousser.",
+
+  "lancer20": "Lancer : Arrête avec ça !",
+  "lancer20b": "Grogna Lancer en balayant l’air avec sa lance. Sonic esquiva l’attaque avec une pirouette arrière qui le plaça entre Lancer et le reste du groupe. Jetant un coup d’œil à Saber, Rin et Shirou, Sonic comprit qu’il ne pourrait pas se battre sérieusement s’ils risquaient d’être blessés. Lancer, lui, n’avait pas ce genre de scrupules.",
+
+  "p71": "Il fallait éloigner le combat.",
+  "p72": "Esquivant une nouvelle attaque, Sonic fonça droit sur Lancer et lui décocha un coup de poing bien placé.",
+  "sonic23": "Sonic : Touché ! C'est toi le chat !",
+  "p73": "Et sur ce, il détala à toute allure, laissant Lancer hurler de frustration en lui courant après.",
+  "p73a": "Puis, le silence revint. Un calme pesant, troublé seulement par la voix faible de Shirou, désormais assez rétabli pour reprendre conscience.",
+  "shirou2": "Shirou : Qu’est-ce… qu’est-ce qui vient de se passer ?",
+
+  "audio_title7": "Sonic X OST – Sonic’s Fight (Track 2)",
+
+  "p75": "Sonic guida Lancer vers une autoroute. À cette heure avancée de la nuit, aucune voiture ne circulait sur la route. Pour Sonic, c'était l'endroit parfait pour un affrontement musclé.",
+  "p76": "Les deux adversaires se poursuivaient le long de l'asphalte, s’échangeant des coups rapides, dans une sorte de duel improvisé mêlant vitesse et tactique de harcèlement. Lancer tenta à plusieurs reprises de transpercer Sonic avec sa lance, mais le hérisson esquivait chaque attaque avec aisance. Entre deux assauts, Sonic contre-attaquait avec ses propres coups, utilisant notamment son attaque téléguidée dès qu’une ouverture se présentait.",
+  "p77": "Techniquement, Sonic avait l’avantage : il réussissait à placer plus de coups que son adversaire. Mais curieusement, les attaques du hérisson semblaient avoir peu d’effet sur Lancer. Au contraire, le Servant devenait de plus en plus excité, galvanisé par le combat. Sonic comprit alors qu’il lui faudrait sortir l’artillerie lourde.",
+  "p78": "Il s’arrêta brusquement, et Lancer, emporté par son élan, le dépassa de plusieurs centaines de mètres avant de s’arrêter, confus. Il plissa les yeux pour tenter de voir ce que préparait cette étrange créature bleue à l’horizon.",
+
+  "lancer21": "Lancer : Qu’est-ce qu’il manigance, encore ?",
+  "lancer21b": "Pensa-t-il.",
+
+  "p79": "Sonic fonça droit vers lui. Mais cette fois, il n’allait pas à sa vitesse habituelle : il allait beaucoup, beaucoup plus vite.",
+  "p80": "C’était rare pour lui d’aller aussi vite — mais surtout trop dangereux. Cela risquait de causer des dégâts considérables, surtout dans des zones habitées. De plus, il fallait un espace dégagé et suffisamment long pour atteindre une telle vélocité sans risque. Mais l’aspect le plus crucial, c’était le timing. Il fallait que Sonic frappe exactement en passant devant Lancer, ou ce serait un échec total.",
+  "p81": "En voyant Sonic approcher à toute allure, les instincts de Lancer s’éveillèrent. Ce n’était pas une simple charge — Sonic comptait tout donner dans cet assaut. Mais si Lancer parvenait à calculer correctement son coup… il pourrait empaler le hérisson à l’aide de sa propre vitesse.",
+  "p82": "Mais alors que Sonic atteignait Lancer, quelque chose d’inattendu se produisit.",
+
+  "boom": "BOOM",
+
+  "p83": "L’air autour de Lancer explosa dans un vacarme assourdissant. Une onde de choc colossale balaya le Servant comme une poupée de chiffon, l’envoyant valser hors de l’autoroute. Son corps percuta le sol à plusieurs reprises avant de s’arrêter quelque part dans la pénombre. Ses tympans bourdonnant, son esprit embué, le Héros légendaire Cú Chulainn eut une dernière pensée avant de sombrer dans l’inconscience :",
+  "lancer22": "Lancer : Je déteste ce hérisson.",
+  "p84": "Sonic, lui, arborait un large sourire en regardant Lancer voler dans les airs. Mais ce qu’il ne vit pas… c’était le panneau qu’il venait de dépasser :",
+  "unfinished": "\"Route Inachevée.\"",
+  "p85": "Un instant plus tard, Sonic remarqua que la route s’interrompait brusquement, formant une rampe improvisée.",
+  "p86": "Trop tard pour freiner.",
+  "p87": "Porté par l'élan de sa propre vitesse supersonique, le hérisson bleu fut projeté hors du bitume, s’élançant dans les airs…",
+  "p88": "…Sa silhouette se détachant presque en ombre chinoise sur le fond lumineux de la lune… …Avant qu’il ne commence à redescendre vers Fuyuki…",
+
+  "audio_title8": "Fate/Stay Night (Heaven's Feel) OST - Calm and Quite Days",
+
+  "p89": "Emiya Shirou poussa un soupir. La nuit avait été extrêmement stressante. Même cuisiner, habituellement un bon moyen pour lui de se détendre, ne parvenait pas à le calmer. Le poids de tout ce qu’il avait vécu ne cessait de le hanter :",
+  "p90": "Il avait failli mourir face à Lancer, invoqué Saber par accident, découvert la Guerre du Saint Graal grâce à Kotomine… et ensuite, il avait presque encore été tué, cette fois par le monstrueux Berserker. C'était un miracle qu’il soit encore en vie.",
+  "p91": "Et puis, il y avait cette créature bleue.",
+  "p92": "Au début, Shirou avait cru à une hallucination provoquée par la douleur, mais après avoir (d’une manière ou d’une autre) récupéré, Rin et Saber lui avaient confirmé que oui, un petit animal bipède en baskets avait réellement affronté Lancer… et l’avait même projeté dans tous les sens.",
+  "p93": "Mais au moins, une bonne chose était sortie de tout cela :",
+  "p94": "Face à tous ces événements, Rin avait proposé une alliance temporaire pour faire face à Berserker, et à la créature bleue (le mot \"hérisson\" avait brièvement traversé l'esprit de Shirou avant de s’évanouir). Shirou était soulagé d’avoir son aide — il ne voulait pas du Graal, mais il savait qu’il lui faudrait du soutien pour protéger les civils. Et si Rin maîtrisait la magie aussi bien qu’elle brillait à l’école, alors elle serait un atout inestimable.",
+  "p95": "Shirou termina de cuisiner et servit à lui et à Saber un dîner tardif. Le repas était simple : un assortiment de poisson avec du riz. Pourtant, Saber s’y plongea avec un appétit féroce, demandant des seconds services avant que Shirou n’ait fini sa propre assiette.",
+  "p96": "Après que son Maître eut obéi, Saber déclara avec franchise :",
+
+  "saber6": "Saber : Shirou, si j’avais eu un cuisinier comme toi à mon époque… les repas auraient été un rêve éveillé.",
+  "shirou3": "Shirou : Vraiment ?",
+  "shirou3b": "Répondit Shirou, flatté.",
+  "shirou4": "Shirou : Comment étaient les cuisiniers de ton époque ?",
+
+  "p97": "L’air devint soudain glacial. L’expression de Saber se durcit aussitôt.",
+  "saber7": "Saber : Pas aussi bons que toi.",
+  "saber7b": "Dit-elle avec un calme glacial.",
+  "p98": "Le ton de Saber était plus tranchant que l’épée qu’elle avait brandie plus tôt. À cet instant, Shirou jura intérieurement de ne plus jamais aborder le sujet, et surtout, de toujours servir les repas à l’heure.",
+  "p99": "Le malaise passé, le dîner reprit son cours. Avant que Saber ne puisse sérieusement sermonner Shirou pour avoir stupidement sauté devant l’épée de Berserker, un \"Whump !\" sonore retentit dehors.",
+
+  "shirou5": "Shirou : C’était quoi, ça ?",
+  "shirou5b": "Demanda Shirou, se levant.",
+  "p100": "Saber était déjà sur pied.",
+  "saber8": "Saber : Shirou, reste ici !",
+  "p101": "Ordonna-t-elle en se dirigeant vers le jardin. Mais à peine avait-elle franchi la porte qu’elle sentit la présence de son Maître sur ses talons. Elle soupira intérieurement.",
+  "p102": "Dehors, ils virent ce qui avait causé le bruit. Étendu face contre terre, on retrouvait… l’adversaire de Lancer.",
+
+  "audio_title9": "Fate/stay night OST - Ie nu Kizuato",
+
+  "p103": "Shirou et Saber emmenèrent Sonic dans le dojo du domaine Emiya et attendirent qu’il se réveille. Ils n’eurent pas à patienter longtemps. Les paupières de Sonic frémirent légèrement, puis il se redressa. Saber et Shirou se raidirent, incertains de ce qui allait suivre.",
+
+  "sonic24": "Sonic : Ugh… Où est-ce que je suis… ?",
+  "p104": "Demanda Sonic en regardant autour de lui d’un air vaseux. Lorsqu’il vit le Maître et le Servant, il lui fallut quelques secondes pour se rappeler les avoir déjà vus, et dans quel contexte.",
+  "sonic25": "Sonic : Hé, je vous ai vu tous les deux, vous êtes…",
+
+  "shirou6": "Shirou : Tu es dans la salle d'entraînement de la maison de ma famille.",
+  "shirou6b": "Expliqua Shirou.",
+  "shirou7": "Shirou : On t’a trouvé évanoui dans mon jardin et on t’a amené ici.",
+
+  "sonic26": "Sonic : Oh, cool. Merci pour ça.",
+  "sonic26b": "Dit-il avant de faire une pirouette arrière pour se remettre debout.",
+  "sonic27": "Sonic : Moi, c’est Sonic. Sonic The Hedgehog, au fait.",
+
+  "shirou8": "Shirou : Emiya Shirou...",
+  "shirou8b": "Répondit le rouquin, en désignant Saber.",
+  "shirou9": "Shirou : Et voici Saber.",
+
+  "saber9": "Saber : Enchantée de faire ta connaissance.",
+  "saber9b": "Salua Saber d’un ton formel en hochant la tête.",
+  "saber10": "Saber : Sonic… pourrais-tu nous expliquer comment tu es apparu sur cette propriété ?",
+
+  "sonic28": "Sonic : Eh bien, vous avez vu le type que j’étais en train de bastonner, non ?",
+  "sonic28b": "Commença Sonic.",
+  "sonic29": "Sonic : Quand j’ai vu que les coups normaux ne lui faisaient rien, j’ai décidé de lui balancer un Sonic Boom. Le problème, c’est que j’allais trop vite, et j’ai fini par m’envoler hors de l’autoroute.",
+
+  "shirou10": "Shirou : Qu’est-ce que tu faisais sur l’autoroute ?",
+  "shirou10b": "Demanda Shirou.",
+
+  "sonic30": "Sonic : Moins de dégâts matériels.",
+  "sonic30b": "Expliqua Sonic, en souriant d’un air espiègle.",
+  "sonic31": "Sonic : Tu vois, quand j’appelle ça un Sonic Boom, c’est pas juste de l’égo… enfin pas trop.",
+
+  "p105": "Shirou le regarda, abasourdi par ce que Sonic sous-entendait.",
+  "shirou11": "Shirou : …Tu peux te déplacer assez vite pour franchir le mur du son ?",
+  "p106": "Mais qui est-il au juste ?",
+
+  "sonic32": "Sonic : Ouais, mais j’évite de faire ça en ville. Pour toutes ces vitres brisées, tu vois le tableau ?",
+
+  "p107": "Un bref silence s’installa, pendant lequel le Maître et la Servant tentèrent de digérer l’information.",
+
+  "saber11": "Saber : Qu’est-ce que tu es, Sonic ?",
+  "saber11b": "Demanda Saber, exprimant tout haut ce que Shirou pensait.",
+  "saber12": "Saber : Je n’ai jamais vu de créature comme toi dans ce monde, et tu es capable de tenir tête à un Servant à armes égales.",
+
+  "sonic33": "Sonic : Dans ce monde ?",
+  "p108": "Répéta Sonic. Il croisa les bras et tapota du pied, songeur. Après un moment, il se frappa le front.",
+  "sonic34": "Sonic : Awww, mec ! J’ai dû être projeté dans une autre dimension ! Je déteste quand ça arrive !",
+
+  "p109": "Voyant la confusion sur les visages de Shirou et Saber, Sonic leur raconta son aventure à bord de l’Egg Saucer. Mais une fois son récit terminé… leur confusion n’avait pas diminué. En réalité, elle n’en était que plus grande.",
+
+  "shirou19": "Shirou : Mais, comment une machine pourrait-elle t’envoyer de ton monde jusqu’au nôtre ?",
+  "p110": "Demanda Shirou, tentant de comprendre. À sa connaissance, voyager entre les univers relevait d’une des rares Vraies Magies, un type de sorcellerie que la technologie ne pouvait tout simplement pas reproduire.",
+
+  "sonic35": "Sonic : Les Chaos Emeralds.",
+  "sonic35b": "Répondit Sonic.",
+  "sonic36": "Sonic : Ce sont des gemmes avec toutes sortes de pouvoirs. Il y en a sept, et si tu les rassembles toutes, tu libères un pouvoir ultime. Eggman les utilisait pour alimenter son Rayon Genesis.",
+
+  "shirou20": "Shirou : Incroyable…",
+  "p111": "Fut tout ce que Shirou réussit à dire. Un peu plus tôt, il aurait dit que c’était impossible, mais après tout ce qu’il avait vu cette nuit, et surtout en parlant avec Sonic, il ne pouvait plus se permettre ce genre de scepticisme. Sa logique avait été brûlée jusqu’à la racine.",
+
+  "sonic37": "Sonic : Maintenant, c’est à moi de poser quelques questions,",
+  "sonic37b": "Déclara Sonic.",
+  "sonic38": "Sonic : Ce Servant dont vous parliez… je suppose que vous ne parliez pas d’un majordome ou d’une femme de ménage.",
+
+  "p112": "Il y eut un bref silence, tandis que Shirou et Saber réfléchissaient à leur prochaine décision. Finalement, ce fut Shirou qui le rompit :",
+  "shirou21": "Shirou : Un Servant est un Esprit Héroïque, un guerrier légendaire invoqué par la magie dans le monde physique pour combattre au nom du Saint Graal.",
+  "p113": "Saber lança un regard surpris à son Maître.",
+  "saber13": "Saber : Shirou— !",
+
+  "shirou22": "Shirou : Saber, il vaut mieux qu’il soit au courant.",
+  "shirou22b": "Répondit Shirou.",
+  "shirou23": "Shirou : Il a déjà affronté Lancer et l’a battu – ça ne changera rien de lui dire toute la vérité.",
+  "saber14": "Saber : Mais…",
+  "shirou24": "Shirou : Je connais les règles, et c’est justement pour ça qu’on doit l’informer.",
+  "shirou24b": "Expliqua Shirou.",
+  "shirou25": "Shirou : Sinon, il risque de révéler l’existence de la Guerre par accident.",
+
+  "p114": "Saber fronça les sourcils, mais ne répondit pas. Elle n’aimait pas l’admettre, mais Sonic s’était nettement mieux débrouillé face à Lancer qu’elle-même durant leur brève escarmouche. Cependant, il semblait arborer une attitude insouciante, nourrie par une certaine arrogance – et ce genre de comportement menait invariablement à la catastrophe.",
+  "p115": "Heureusement, Sonic et Lancer s’étaient battus de nuit. Si leur duel avait eu lieu en plein jour, il aurait été impossible de dissimuler leur existence ; rien que l’apparence de Sonic aurait pu révéler l’existence de la Magie. Il devait être mis au courant afin d’agir avec plus de discrétion.",
+  "p115a": "Et ainsi, Shirou expliqua à Sonic ce qu’il savait de la Magie, ce qu’il avait appris de Kotomine au sujet de la Guerre du Saint Graal.",
+  "sonic39": "Sonic : Donc ce gars, Lancer, c’est quoi ? Un genre de fantôme magique ?",
+  "sonic39b": "Demanda Sonic, tapotant du pied.",
+  "shirou26": "Shirou : Si ça t’aide à mieux comprendre…",
+  "shirou26b": "Répondit Shirou.",
+  "shirou27": "Shirou : Les Servants peuvent être tués, et à part les capacités spéciales que leur donne leur légende, ils ont les mêmes faiblesses que les humains.",
+  "sonic40": "Sonic : Ok, mais pourquoi tout ce truc de noms de code ?",
+
+  "saber15": "Saber : Le Saint Graal donne aux Esprits Héroïques invoqués en tant que Servants des pouvoirs et capacités basés sur leur légende,",
+  "saber15b": "Expliqua Saber.",
+  "saber16": "Saber : Cela inclut aussi leurs faiblesses. Si quelqu’un connaît la légende d’un Servant, il peut aussi deviner ses forces et ses points faibles.",
+
+  "sonic41a": "Sonic : Genre, si tu sais que tu te bats contre ",
+  "achilles": "Achille",
+  "sonic41b": ", tu sauras qu’il faut viser son talon ?",
+  "sonic41c": "Demanda Sonic.",
+
+  "saber17": "Saber : Exact.",
+  "saber17b": "Acquiesça Saber, ravie de voir que Sonic comprenait.",
+  "saber18": "Saber : C’est pour cela que je suis connue uniquement sous le nom de Saber durant cette Guerre. Il est dans mon intérêt de garder mon véritable nom secret.",
+
+  "p116": "Sonic se frotta le nez en réfléchissant.",
+
+  "sonic42": "Sonic : Donc, y’a un moyen de deviner la légende d’un Servant ? Ou bien on doit juste leur demander gentiment ?",
+
+  "saber19": "Saber : Il suffit d’être observateur.",
+  "saber19b": "Répondit Saber.",
+  "saber20": "Saber : Si connaître leur nom peut nous permettre de déterminer leurs capacités, alors l’inverse est aussi vrai. Cela dit, on pourrait avoir de la chance et tomber sur un Servant trop sûr de lui qui révèlera son nom pour faire bonne impression.",
+
+  "p117": "Elle ne put s’empêcher de penser au Rider de la Quatrième Guerre, qui s’était vanté ouvertement d’être ",
+  "alexander": "Alexandre le Grand",
+  "p118": ". Il était peu probable qu’un tel fanfaron se manifeste cette fois-ci, mais comme elle l’avait déjà vu, le monde pouvait parfois réserver des surprises inattendues.",
+  "p118a": "Sonic poussa un petit grognement et ferma les yeux.",
+  "sonic43": "Sonic : Mais est-ce que ces Servants sont vraiment des héros ? J’ai surpris Lancer en train d’essayer de tuer quelqu’un,",
+  "sonic43b": "Dit-il, ouvrant légèrement les yeux pour regarder le sol.",
+  "sonic44": "Sonic : Et ce, après avoir déjà éventré un autre type…",
+
+  "p119": "Shirou vit la douleur dans les yeux de Sonic. C’était la même douleur qu’il ressentait lui-même chaque fois qu’il entendait parler des « morts mystérieuses » aux infos. À cet instant, Shirou ressentit une sorte de lien avec cette créature anormale venue d’un autre monde.",
+
+  "saber21": "Saber : Sonic, tu dois comprendre que même si les Esprits Héroïques sont célébrés en chansons et en légendes comme des parangons de vertu, ils étaient, ou sont encore, des êtres humains.",
+  "saber21b": "Expliqua Saber.",
+  "saber22": "Saber : Et ils ont vécu dans des époques turbulentes, constamment entourés par la mort. Je comprends que tu réprouves cela, mais pour certains de ces Esprits, la mort de civils dans la quête du Graal est une conséquence négligeable.",
+
+  "sonic45": "Sonic : Mais pourquoi ?",
+  "sonic45b": "Demanda Sonic.",
+  "sonic46": "Sonic : Les Servants sont censés se battre entre eux, non ? Quel est l’intérêt de s’en prendre à des gens normaux ?",
+
+  "shirou28": "Shirou : J’en ai parlé avec un autre Maître que je connais.",
+  "shirou28b": "Ajouta Shirou. Il décida de ne pas mentionner Rin pour l’instant. Elle allait probablement piquer une crise en apprenant qu’il avait parlé de la Guerre à un « étranger ».",
+  "shirou29": "Shirou : On pense que c’est parce que le Maître de Lancer ne peut pas lui fournir assez de mana. Chaque Servant est censé recevoir du mana de son Maître, mais certains Maîtres ne sont pas assez puissants pour leur en donner suffisamment, surtout pour utiliser leur Noble Phantasme.",
+  "shirou30": "Shirou : Je sais que moi, je ne le suis pas.",
+
+
+  "sonic47": "Sonic : Ah oui, le coup de l’arme magique.",
+  "sonic47b": "Dit Sonic en frottant sa poitrine.",
+  "sonic48": "Sonic : Je crois que j’ai un bleu là où Lancer a essayé de me transpercer.",
+
+  "p125": "C’était le moment idéal pour Saber de poser la question qui la préoccupait le plus.",
+  "saber23": "Saber : Sonic, comment as-tu survécu au Noble Phantasme de Lancer ?",
+  "p126": "Sonic plongea sa main dans le gant de sa main gauche et en sortit un objet doré.",
+  "sonic49": "Sonic : Des Anneaux de Pouvoir. Ces petits trucs te protègent de n’importe quel dégât, surtout ceux venant d’objets pointus.",
+
+  "p127": "Il lança un Anneau à Saber, qui l’examina attentivement. L’objet était petit, mais elle pouvait y percevoir une certaine énergie. Si elle ne l’avait pas vu de ses propres yeux, elle n’aurait jamais cru qu’un simple anneau puisse stopper le Gáe Bolg de Lancer. Elle le tendit à Shirou pour qu’il puisse l’observer. Ce dernier se dit qu’il aurait bien aimé en avoir un lors des attaques de Lancer et Berserker — à cette pensée, la zone blessée par l’épée de Berserker se remit à le lancer, et Shirou tressaillit légèrement.",
+
+  "shirou31": "Shirou : Jusqu’à quel point ça protège, un Anneau ?",
+  "shirou31b": "Demanda Shirou, émerveillé.",
+
+  "sonic50": "Sonic : Un seul suffit contre n’importe quoi.",
+  "sonic50b": "Répondit Sonic.",
+  "sonic51": "Sonic : Mais dès que tu prends un coup, l’anneau tombe de là où tu le portais et disparaît après quelques secondes. Plus t’en as, plus tu as de chances d’en récupérer quelques-uns.",
+
+  "p128": "Un seul…",
+
+  "shirou32": "Shirou : Tu me permets de garder celui-là ?",
+  "shirou32b": "Demanda Shirou en prenant l’Anneau que Saber lui tendait.",
+
+  "p129": "Sonic haussa les épaules.",
+  "sonic52": "Sonic : Pas de souci. J’en ai encore douze. En fait…",
+  "sonic52b": "Il lança un deuxième Anneau à Saber.",
+  "p130": "Sonic : Tiens, tu peux en avoir un aussi. Un peu d’assurance, ça fait jamais de mal, pas vrai ?",
+
+  "saber24": "Saber : …Non, en effet, ça ne fait pas de mal.",
+  "p131": "Saber referma lentement sa main sur l’Anneau.",
+  "p132": "Même si elle n’aimait pas avoir à dépendre du pouvoir d’un autre, après son échec durant la Quatrième Guerre et la perte de son fourreau, Saber ne voulait prendre aucun risque. Et si Shirou continuait à se jeter au-devant du danger comme un inconscient, il allait bien avoir besoin d’une protection supplémentaire.",
+  "p132a": "Bien que si son intuition était correcte",
+  "sonic53": "Sonic : Hé, y’a un truc qui me turlupine.",
+  "sonic53b": "Intervint Sonic.",
+  "sonic54": "Sonic : Si tous les Maîtres de cette Guerre sont des sortes de sorciers—",
+
+  "shirou33": "Shirou : Mages.",
+  "shirou33b": "Corrigea Shirou automatiquement.",
+  "sonic55": "Sonic : Hein ?",
+  "shirou34": "Shirou : Les Maîtres sont des mages, pas des sorciers.",
+  "shirou34b": "Expliqua Shirou.",
+
+  "shirou35": "Shirou : Les mages utilisent la Thaumaturgie, une forme de magie qui peut, en théorie, être reproduite par la technologie. Un sorcier, lui, peut utiliser l’un des Vrais Magies—",
+
+  "p135": "Sonic leva la main.",
+  "sonic56": "Sonic : Ok… j’m’en fiche un peu, en vrai. Ce que je veux savoir, c’est : est-ce que toi, tu peux faire de la magie ?",
+
+  "p136": "Shirou hocha la tête, un peu frustré que son exposé ait été interrompu.",
+  "shirou36": "Shirou : Oui, je suis un mage… enfin, pas un très bon. J’ai invoqué Saber par accident. Et la moitié du temps, les sorts que je connais ne marchent pas.",
+
+  "p137": "Sonic tapota son pied en réfléchissant.",
+  "sonic57": "Sonic : Donc… quel genre de magie tu peux faire ?",
+
+  "shirou37": "Shirou : Juste trois types.",
+  "shirou37b": "Répondit Shirou, en levant trois doigts.",
+  "shirou38": "Shirou : Renforcement, Analyse Structurelle et Projection.",
+
+  "sonic58": "Sonic : Quoi, quoi et quoi ?",
+
+  "shirou39": "Shirou : Le Renforcement consiste, en gros, à améliorer un objet physique. Plus précisément, c’est pousser ses propriétés de base au maximum,",
+  "shirou39b": "Expliqua Shirou.",
+
+  "p138": "Ça lui faisait bizarre de parler de ça avec quelqu’un qui n’y connaissait rien. Avant de découvrir que Rin était aussi une mage, la seule autre personne à qui il en avait parlé était son père adoptif décédé, ",
+  "kiritsugu": "Kiritsugu",
+  "p139": ".",
+
+  "shirou40": "Shirou : Par exemple, je peux rendre un journal aussi dur qu’une barre d’acier, ou rendre un couteau plus tranchant, ou même améliorer ma vue.",
+
+  "p140": "Sonic fit un petit « hmm », puis disparut dans un éclair bleu. Moins d’une seconde plus tard, il était de retour, tenant quelque chose dans la main.",
+  "p141": "Un journal roulé.",
+
+  "sonic59": "Sonic : Tu peux me montrer ça ?",
+  "p141b": "Disait le hérisson.",
+  "p142": "Shirou prit le journal et se concentra.",
+
+  "shirou41": "Shirou : Trace On.",
+
+  "p143": "Comme toujours lorsqu’il pratiquait la Thaumaturgie, il ressentit cette sensation désagréable, comme si on enfonçait une barre de métal chauffée à blanc dans sa colonne vertébrale lorsqu’il activait ses Circuits Magiques. Cette fois-ci, toutefois, il perçut un léger bourdonnement, qu’il ignora à peine…",
+
+  "mystery_voice": "I .. … …. .. .. sw..d…",
+
+  "p144": "Shirou tendit le journal à Sonic.",
+  "shirou44": "Shirou : Essaie de le plier.",
+
+  "p145": "Sonic s’exécuta. Le journal se plia facilement entre ses doigts. Il leva un sourcil, mais son visage resta neutre. Un peu plus loin, Saber baissa la tête.",
+
+  "shirou45": "Shirou : ...J’ai dit que j’étais pas très bon en magie.",
+  "shirou45b": "Se défendit Shirou, un peu honteux.",
+
+  "sonic60": "Sonic : Et donc… les deux autres trucs ?",
+
+  "p146": "Toujours embarrassé par son échec, Shirou répondit :",
+
+  "shirou46": "Shirou : Analyse Structurelle et Projection. Le premier, c’est comme ça sonne — j’utilise ma magie pour analyser un objet physique : ce dont il est fait, son histoire, ce genre de choses.",
+
+  "sonic61": "Sonic : Mouais… ça a l’air un peu barbant.",
+  "sonic61b": "Nota Sonic.",
+
+  "shirou47": "Shirou : C’est en fait ma magie la plus utile.",
+  "shirou47b": "Se défendit Shirou.",
+
+  "shirou48": "Shirou : J’ai pu réparer toutes sortes de trucs grâce à…",
+
+  "p147": "Il s’interrompit en voyant le regard peu impressionné de Sonic. Il décida de changer de sujet.",
+
+  "shirou49": "Shirou : La Projection, c’est la matérialisation d’un objet physique dans le monde. En gros, c’est créer quelque chose à partir de rien.",
+
+  "p148": "Le visage de Sonic s’illumina.",
+
+  "sonic62": "Sonic : Ça, c’est stylé ! Tu claques des doigts si t’as besoin d’un truc et pouf, il est là ?",
+
+  "shirou50": "Shirou : C’est… pas aussi simple que ça en a l’air.",
+  "shirou50b": "Répondit Shirou d’un ton un peu défait.",
+
+  "shirou51": "Shirou : Je n’ai jamais été doué pour ça. Et mon mentor disait toujours que c’était un talent inutile de toute façon.",
+
+  "sonic63": "Sonic : Pourquoi ?",
+
+  "p149": "Shirou poussa un soupir.",
+
+  "shirou52": "Shirou : Tout ce que le sort crée est plus faible que l’original, et son existence est instable. Ça ne sert à rien.",
+
+  "sonic64": "Sonic : Pff, pas étonnant que tu sois nul avec une mentalité pareille.",
+  "sonic64b": "Grogna Sonic.",
+
+  "sonic65": "Sonic : Écoute, je connais rien à la magie, mais je sais que tu peux pas progresser si t’as pas un minimum de confiance en toi. Je sais que ça fait cliché, mais tu peux accomplir beaucoup de choses si tu crois en toi.",
+
+  "p150": "Shirou allait protester, dire à Sonic qu’il était trop idéaliste… mais il n’y arriva pas. Il jeta un regard vers Saber, qui le fixait à présent avec une intensité froide. Son visage restait neutre, mais elle semblait… chercher quelque chose ? Shirou détourna les yeux vers Sonic, l’air perdu.",
+
+  "sonic66": "Sonic : J’viens de dire que t’étais nul, mec.",
+  "sonic66b": "Lui rappela Sonic.",
+
+  "sonic67": "Sonic : Tu vas vraiment laisser passer ça ?",
+
+  "p151": "Et c’est à ce moment-là que Shirou comprit pourquoi il ne pouvait pas ignorer Sonic. Il rêvait de devenir un héros un jour, mais ses aspirations n’étaient pas prises au sérieux par ses camarades. « Ça n’existe plus, » lui disaient les plus moqueurs. Même ses amis proches considéraient ses objectifs comme enfantins. Mais là, devant lui, se tenait un héros. Il avait peut-être l’air d’un personnage sorti d’un dessin animé américain, et une arrogance trop proche de celle de son ancien ami Shinji Matou, mais dans les yeux de Sonic, Shirou voyait une force, une conviction… une volonté semblable à la sienne.",
+  "p152": "Et maintenant, ce héros venu d’un autre monde cherchait à tester sa force. Shirou ne pouvait pas se permettre de passer pour un minable !",
+
+  "shirou53": "Shirou : …Non, je ne suis pas nul.",
+
+  "p153": "Déclara le Maître de Saber. Mais que projeter ? Puisqu’ils étaient dans un dojo, il opta pour un sabre d’entraînement en bois, un bokken.",
+  "p154": "Tendant la main et activant ses circuits magiques, Shirou récita son incantation :",
+
+  "shirou54": "Shirou : Trace On.",
+
+  "p155": "Dans le jardin arrière du domaine Emiya se trouvait un cabanon. De l’extérieur, il n’avait rien de particulièrement intéressant. Actuellement, Shirou l’utilisait à la fois comme remise pour divers travaux de réparation, et comme lieu d'entraînement à son art magique. Au centre du sol du cabanon, entouré de piles d’objets réparés, un cercle magique avait été tracé. Il avait été formé par l’ancien occupant du domaine.",
+  "p156": "Et à présent, il brillait.",
+  "p157": "Sous les planches du sol, il était là, attendant simplement d’être découvert. Le joyau jaune n’était apparu que quelques heures plus tôt, mais on aurait dit qu’il avait toujours été là.",
+  "p158": "Sa lumière commença à vaciller.",
+
+  "p159": "Shirou ressentit soudain quelque chose comme une explosion au fond de lui. Ce fut suivi d’une sensation comparable à ses nerfs qui prenaient feu — non, pas comme s’ils brûlaient, mais comme s’ils devenaient eux-mêmes du feu. Mais ce qui arriva ensuite fut bien, bien pire.",
+
+  "shirou55": "Shirou : AAAARRRGGHH !",
+
+  "p160": "Hurla Shirou de douleur alors que des épées — de l’énergie jaune en forme d’épées — commencèrent à jaillir de son corps. Saber et Sonic se précipitèrent à son secours, seulement stupéfaits une demi-seconde par cet événement.",
+  "p161": "Et aussi soudainement que cela avait commencé, cela cessa. Les épées d’énergie jaune disparurent et Shirou s’effondra. Saber et Sonic le rattrapèrent avant que son corps ne touche le sol, et après l’avoir délicatement posé, ils virent à quel point son état était grave. Contrairement à l'immense entaille que Berserker lui avait infligée auparavant, les blessures actuelles de Shirou étaient moins nettes mais bien plus nombreuses. Malgré sa rage, Berserker avait été efficace en tentant de le trancher en deux. Brutal, mais professionnel. Cette fois-ci, cependant, le corps de Shirou ressemblait à une vraie boucherie (sans mauvais jeu de mots), couvert de trous sanglants et malformés… qui étaient en train de se refermer ?",
+  "p162": "Sonic était flou à force de trépigner à la vitesse du son.",
+
+  "sonic68": "Sonic : Ohnonononon ! Où est l’hôpital ?! Je vais le transporter fissa là-bas !",
+
+  "saber25": "Saber : Sonic !",
+  "saber25b": "Ordonna Saber.",
+  "saber26": "Saber : Il y a une trousse de secours dans la cuisine, sous l’évier !",
+
+  "p163": "Sonic avait disparu dès que Saber avait prononcé « cuisine », et était de retour avant qu’elle ne termine « évier ». Il tenait aussi un téléphone dans l’autre main, ainsi qu’un rouleau d’essuie-tout coincé sous le bras. Les deux se mirent à soigner Shirou, tandis que Sonic n’arrêtait pas de parler :",
+
+  "sonic69": "Sonic : …est-ce-que-le-numéro-d’urgence-est-bien-le-9-1-1-ici-ce-type-a-besoin-d’aide-peut-être-qu’on-peut-bricoler-un-fauteuil-roulant—",
+
+
+  "saber27": "Saber : Ce ne sera pas nécessaire.",
+  "saber27b": "Coupa Saber en appliquant du désinfectant. Elle vit Shirou grimacer de douleur, soulagée qu’il ait encore assez de force pour réagir.",
+
+  "sonic70": "Sonic : Qu’est-ce que tu racontes ? Shirou est en train de… guérir ?",
+
+  "p164": "Sonic s’arrêta, stupéfait par ce qu’il voyait. Mais il ne pouvait pas nier l’évidence : la chair déchirée de Shirou était en train de se reconstituer !",
+
+  "sonic71": "Sonic : Mais… comment ?",
+  "sonic71b": "Sonic ferma les yeux et tapota sa tempe.",
+  "sonic72": "Sonic : Ah, oui, magie.",
+
+  "p165": "Oui, c’était bien de la magie, et plus précisément une magie que Saber connaissait trop bien. Elle n’avait plus aucun doute. La seule manière pour un mage aussi amateur de l’avoir invoquée, et maintenant de survivre à de telles blessures, était qu’il possédait Avalon — son fourreau perdu. Le fait que Shirou partage le même nom de famille que son ancien maître, Kiritsugu (aussi connu sous le nom de « l’assassin double-face qui lui avait volé la victoire alors qu’elle la touchait du doigt »), renforçait encore plus cette idée.",
+  "p166": "Mais pourquoi Avalon agissait-il avec une telle puissance, comme si son effet avait doublé ? L'Anneau de Pouvoir que Sonic avait prêté à Shirou amplifiait-il les effets du fourreau ?",
+  "p167": "Quoi qu’il en soit, Sonic et Saber ne pouvaient rien faire de plus qu’attendre que Shirou se régénère, l’aidant du mieux qu’ils pouvaient. Une demi-heure passa avant que Shirou n’ouvre les yeux.",
+
+  "shirou56": "Shirou : Saber… ?",
+  "shirou56b": "Murmura le jeune mage.",
+
+  "saber28": "Saber : Shirou.",
+
+  "p168": "Le visage stoïque de Saber s’adoucit légèrement. Elle était à genoux près de lui, alors qu’il était allongé sur le sol du dojo. De l’autre côté se trouvait Sonic, assis par terre. Il avait l’air coupable — il se sentait probablement responsable de l’incident, après avoir incité Shirou à lancer le sort.",
+
+  "sonic73": "Sonic : Tu tiens le coup, mec ?",
+  "sonic73b": "Demanda timidement le hérisson, tendant la main vers Shirou.",
+
+  "shirou57": "Shirou : Ouais...",
+  "shirou57b": "Répondit Shirou. Voyant l’expression de Sonic, il ajouta.",
+  "shirou58": "Shirou : Je sais pas ce qui s’est passé. Le sort n’a jamais fait ça avant.",
+
+  "p169": "Sonic esquissa un sourire sans joie.",
+
+  "sonic74": "Sonic : Eh bien, euh… heureusement que tu peux guérir, hein ?",
+
+  "shirou59": "Shirou : …Ouais, heureusement.",
+
+  "p170": "Shirou sentit un sourire naître à son tour. Son corps le faisait encore souffrir par endroits, mais la douleur s’estompait rapidement. Et désormais, il savait que lui et Saber avaient un nouvel allié dans cette Guerre du Saint Graal.",
+  "p171": "Pendant ce temps, le regard de Saber se porta vers les Sceaux de Commandement sur la main de Shirou. Ils symbolisaient le lien entre eux deux, et permettaient à Shirou de donner trois « Ordres Absolus », des commandements transmis par le rituel qu’elle ne pouvait pas désobéir. C’était peut-être son imagination, mais il lui semblait que les sceaux brillaient…",
+
+  "saber29": "Saber : Cette guerre sera très différente des autres.",
+  "saber29b": "Pensa l’Esprit Héroïque.",
+
+  "p172": "Elle était loin de se douter à quel point elle avait raison.",
+
+  "p173": "Ayant constaté à la fois que Shirou n’allait pas mourir et qu’une alliance avec l’Équipe Saber avait été formée, Rin décida qu’il était temps, pour elle et Archer, de rentrer pour la nuit. Trop de choses s’étaient produites ce soir, et ils avaient tous les deux besoin de faire le point sur ce qu’ils avaient vu. La rencontre avec Illya et son monstre de Servant avait été suffisamment terrifiante, mais voir cette étrange créature bleue se battre contre Lancer avait complètement bouleversé tout ce qu’elle s’attendait à vivre dans la Guerre du Saint Graal — mais pour des raisons bien différentes.",
+  "p174": "Rin ne pouvait que supposer que l’adversaire de Lancer — quoi que ce fût — était un esprit animal, ou peut-être un familier invoqué par le Caster de cette guerre. Elle devrait consulter la bibliothèque familiale à ce sujet, et espérer y trouver une réponse. Elle se rappela les horribles monstres invoqués par le Caster de la Quatrième Guerre, et frissonna légèrement en repensant à la façon dont elle avait failli être tuée, à la fois par ces bêtes et par le Maître tordu de ce Caster. Elle espérait simplement que cette fois-ci, le Caster — et son Maître — seraient d’un caractère un peu plus stable.",
+  "p175": "De son côté, Archer avait une autre préoccupation. Il était un Esprit Héroïque particulier, venant du futur. Invoqué à travers le temps par la tentative de Rin de convoquer « le Servant le plus puissant » (un rituel qu’il croyait avoir réussi, de façon privée mais arrogante), Archer espérait changer son futur misérable en assassinant son propre moi du passé, croyant que ce paradoxe le ferait disparaître. Tout serait préférable à l’enfer vivant dans lequel ses idéaux naïfs l’avaient plongé.",
+  "p176": "Mais l’apparition de ce type bleu hérissé, en baskets, venait de mettre un sacré coup de frein à ses espoirs. Les souvenirs qu’il avait de la Cinquième Guerre étaient peut-être vagues, mais il était presque certain qu’une telle créature n’y était jamais apparue. Soit son invocation avait modifié la ligne temporelle bien plus qu’il ne le pensait, soit il se trouvait dans un univers alternatif complet.",
+  "p177": "Avant qu’Archer ne puisse pousser plus loin ses réflexions, il vit une colonne de fumée au loin — exactement dans la direction du manoir Tohsaka !",
+
+  "archer1": "Archer : Rin, reste ici !",
+  "archer1b": "Ordonna Archer, fonçant en avant avant que sa Maître ne puisse répondre.",
+
+  "p178": "En renforçant ses jambes, il gagna rapidement du terrain et vit, heureusement, que la grande maison de style occidental n’était pas en feu. Les terrains derrière la maison, en revanche, étaient totalement dévastés. Et au centre de ce champ de ruines, un véhicule endommagé, de la fumée s’échappant là où devait se trouver le moteur.",
+
+  "rin1": "Rin : Archer, qu’est-ce qu’il y a ?",
+  "rin1b": "Demanda Rin par leur lien télépathique.",
+  "rin2": "Rin : Qu’est-ce qui se passe ?",
+  "archer2": "Archer : Quelqu’un a écrasé un avion dans ton jardin.",
+  "rin3": "Rin : Quoi ?!",
+
+  "p179": "C’était un biplan rouge, de haute technologie. Sur son flanc était écrit « SONIC », et sur sa dérive, un dessin représentant une étoile dans un anneau rouge ailé. Les ailes de l’appareil s’étaient détachées lors du crash, et des morceaux de métal étaient éparpillés un peu partout dans la cour. Et dans le cockpit, affaissée et inconsciente, se trouvait une petite créature poilue… une sorte de petit renard humanoïde.",
+  "p180": "Avec deux queues.",
+
+  "archer3": "Archer : Un kitsune ?",
+  "archer3b": "Pensa Archer.",
+
+  "p183": "Contrairement à ce qu’on voit à la télévision, entrer dans une autre dimension n’était pas un tour de passe-passe. Selon la méthode employée, une telle action pouvait provoquer des vibrations que n’importe qui pouvait ressentir. Puisque cela s’était produit pendant leur affrontement contre Berserker, ni l’Équipe Saber ni l’Équipe Archer n’avaient senti le choc des mondes se déchirant pour laisser Sonic et ses compagnons entrer. En revanche, les autres mages de Fuyuki avaient parfaitement compris qu’il s’était passé quelque chose d’énorme. Le simple fait que, pendant un bref instant, toute la magie dans la ville ait été renforcée leur avait suffi pour envoyer toutes sortes de familiers et de divinations enquêter sur ce phénomène.",
+
+  "p184a": "À la porte du temple Ryuudou, le Servant ",
+  "assassin_img": "Assassin",
+  "p184b": " soupira. Il avait ressenti les étranges vibrations dans la région, immédiatement suivies d’un bruit d’explosion provenant de l’autoroute. Il aurait adoré aller voir ce qui s’était passé — n’importe quelle excuse pour s’éloigner de sa « maîtresse » actuelle et de son admiration obsessionnelle envers son propre Maître — mais il était lié à son poste de sentinelle… un vulgaire chien de garde.",
+
+  "assassin1": "Assassin : Je m’ennuie tellement.",
+  "assassin1b": "Pensa Assassin.",
+
+  "assassin2a": "Assassin : Peut-être que je devrais demander au garçon ",
+  "issei_img": "Issei",
+  "assassin2b": " de m’apporter un livre ou quelque chose…",
+
+  "p185": "Puis Assassin aperçut une petite silhouette gravir les marches menant à la porte. C’était une sorte de petit être anthropomorphe, à la fourrure rouge, portant des gants à pointes et des baskets. Autour de sa tête pendaient plusieurs sortes de dreadlocks ressemblant à des piques.",
+
+  "assassin3": "Assassin : Oh ? Ce n’est pas souvent que nous recevons de la visite à cette heure-ci.",
+  "assassin3b": "Fit remarquer Assassin à voix haute.",
+
+  "assassin4": "Assassin : Puis-je faire quelque chose pour t’aider, mon petit ?",
+
+  "p186": "Knuckles grimaça au mot petit et répondit :",
+
+  "knuckles3": "Knuckles : Ouais, je suis un peu perdu. Où est-ce que je suis ?",
+
+  "assassin5": "Assassin : Tu es à l’entrée du temple Ryuudou, dans la ville de Fuyuki, mon ami rouge.",
+
+  "p187": "Knuckles haussa un sourcil.",
+
+  "knuckles4": "Knuckles : Fuyuki ? C’est situé où par rapport à Station Square ?",
+
+  "p188": "Le sourire d’Assassin s’effaça légèrement.",
+
+  "assassin6": "Assassin : Je crains de n’avoir jamais entendu parler d’un tel endroit. C’est de là que tu viens ?",
+  "p188a": "Knuckles grogna et se frotta le visage. Donc l’explosion l’avait envoyé dans un autre monde… Évidemment.",
+  "p188b": "Assassin dit alors :",
+  "assassin6a": "Assassin : Je vois à ta tête que tu es loin de chez toi.",
+
+  "knuckles5": "Knuckles : Mec, t’as pas idée.",
+
+  "p189": "Assassin afficha un sourire compatissant.",
+
+  "assassin7": "Assassin : J’aimerais pouvoir t’offrir un endroit où te reposer, mais malheureusement, la vieille dame que je dois appeler mon Maître a une politique très stricte contre les visiteurs. Elle est un peu radine, vois-tu.",
+
+  "unknown1": "??? : Allons, Assassin, ne dis pas de mensonges.",
+  "assassin8": "",
+
+
+  "p190": "Assassin tourna la tête, et Knuckles regarda par-dessus son épaule. Une belle femme adulte s’approchait d’eux, ses traits au-dessus du nez dissimulés sous une capuche violette prolongée en une cape élaborée.",
+
+  "caster1": "Caster : J’aime ma tranquillité, c’est vrai, mais je ne pourrais jamais abandonner une âme perdue dans la nuit.",
+  "caster1b": " Disait",
+  "caster_img": "Caster",
+  "caster1c": " . Puis, s’adressant à Knuckles :",
+
+  "caster2": "Caster : Pourquoi ne viendrais-tu pas à l’intérieur me dire ce qui te tracasse ? Peut-être pourrais-je t’aider.",
+
+  "p191": "Knuckles jeta un œil à Assassin, qui haussa les épaules en réponse. Le Servant pseudo-samouraï n’avait pas vraiment d’intérêt dans ce qui allait se passer, mais Knuckles interpréta ce geste comme un : \"Elle est digne de confiance, vas-y.\"",
+
+  "knuckles6": "Knuckles : D’accord, faut que je remette mes idées en place de toute façon. Merci.",
+  "knuckles7": "Répondit Knuckles, passant devant Assassin.",
+
+  "p192": "Le sourire de Caster s’élargit encore.",
+
+
+  "p194": "Amy Rose marchait dans une ruelle sombre. Bien qu’elle ne le sache pas, elle se trouvait dans un quartier dangereux de Fuyuki, mais ce qu’elle savait, c’était que ses amis étaient introuvables. Heureusement, il n’y avait pas de robots maléfiques à l’horizon — mais ce n’était qu’un maigre réconfort. Seule dans un endroit inconnu, Amy ne devait son calme qu’à l’expérience acquise au fil des années face à l’inconnu.",
+  "p195": "La hérissonne rose frissonna. Il faisait peut-être trop frais. Il y avait un froid dans l’air qu’elle n’aimait pas du tout.",
+
+  "amy4": "Amy : Je me demande comment Sonic et les autres font pour se balader juste avec des gants et des chaussures…",
+  "amy4b": "Pensa Amy, avant de remarquer quelque chose d’étrange au loin.",
+
+  "p196": "C’était un être humain aux cheveux courts et rouge clair, vêtu d’un costume rouge foncé. En s’approchant, Amy vit qu’il s’agissait d’une femme, même si la distinction n’était pas évidente dans l’obscurité — les courbes légères de sa silhouette l’aidaient à s’en rendre compte. Une des manches de son costume avait disparu, arrachée apparemment. Elle semblait assise contre un mur, fixant son bras nu.",
+
+  "amy5": "Amy : Euh… vous allez bien ?",
+
+  "p197": "Appela Amy en s’approchant de la femme. Elle réalisa rapidement que la question était un peu bête, car cette inconnue, au vu de l’état de ses vêtements, avait clairement été dans une bagarre. Et d’après les bleus et les coupures qui couvraient son corps, ça n’avait pas été une petite bagarre…",
+  "p198": "Amy sentit quelque chose de collant sous son talon, et baissa les yeux. Il faisait sombre, mais il semblait que c’était un liquide rouge…",
+  "p199": "Amy entendit un bruit sourd, et vit que la femme venait de s’effondrer. En associant le liquide rouge et l’état de la femme, Amy comprit…",
+  "p200": "Elle poussa un cri de surprise et se précipita au secours de l’inconnue. La soulevant tant bien que mal avec sa petite carrure, Amy regarda autour d’elle, tentant de déterminer quoi faire et où aller.",
+
+  "amy6": "Amy : Hé ! Il y a quelqu’un ?!",
+  "amy6b": "Cria Amy dans la nuit.",
+
+  "amy7": "Amy : Quelqu’un ?!",
+
+  "p201": "Comme personne ne répondait, elle décida que la seule chose logique à faire était de s’en occuper elle-même. Traînant la blessée hors de la ruelle aussi confortablement que possible, Amy lui dit :",
+
+  "amy8": "Amy : Ne t’inquiète pas, je vais te trouver de l’aide, tiens bon !",
+
+  "p202": "Elle était tellement concentrée sur sa tâche, Amy n’entendit pas Bazett Fraga McRemitz murmurer :",
+
+  "bazett1": "Bazett : Mon… bras…",
+
+  "p203": "Le chaos n’était pas la destruction. Le chaos n’était pas l’anarchie. Et il ne s’écrivait certainement pas avec un K. Le chaos, c’était le changement. Que ce soit une légère brise devenant un raz-de-marée, un énorme météore ayant peut-être anéanti les dinosaures, ou même une simple décision, le chaos représentait le facteur inconnu qui faisait en sorte que les plans les mieux préparés — ceux des souris comme ceux des hommes (et des femmes aussi, certaines étant très pointilleuses sur les détails inutiles) — ne se déroulent jamais sans accroc. Des bosses sur la route de la vie.",
+
+  "p204a": "L’une de ces bosses était en train de se former dans l’inquiétante demeure Matou, déclenchée par l’énergie libérée par la tentative déformée de Projection de Shirou. Dans sa chambre lugubre, ",
+  "sakura_img": "Sakura Matou",
+  "p204b": " se réveilla en sursaut. Frissonnante, elle tenta de comprendre ce qui venait de se passer. Elle avait senti une étrange secousse, comme une décharge statique… mais à l’intérieur de son esprit. Elle espérait que son grand-père n’avait pas décidé de lui offrir une nouvelle \"séance d’entraînement complémentaire\". Dieu savait qu’il en faisait déjà bien assez…",
+
+  "unknown2": "??? : Tu n’arrives pas à dormir, hein ?",
+
+  "p205": "Les yeux de Sakura s’agrandirent et elle alluma la lampe. Elle regarda autour d’elle et vit quelque chose de… particulier.",
+
+  "p206": "Une silhouette obscure se trouvait maintenant dans sa chambre. Non, ce n’était pas une silhouette obscure… c’était une ombre. Elle ressemblait à une forme vaguement humanoïde assise au centre du sol. Au début, elle était totalement noire, sans aucun détail… puis un croissant rouge apparut sur ce qui semblait être sa \"tête\", formant une sorte de sourire étrange.",
+
+  "sakura1": "Sakura : Qu’est-ce que tu es… ?",
+  "sakura1b": "Chuchota Sakura.",
+
+  "p207": "La chose-ombre se mit à trembler, émettant un bruit de « hn-hn-hn ». La première pensée de Sakura fut que la créature pleurait, mais elle se rendit vite compte que c’était tout le contraire : l’ombre était en train de rire.",
+
+  "sakura2": "Sakura : Qu’est-ce que tu es ?",
+  "sakura2b": "Répéta Sakura, cette fois plus fort.",
+
+  "p208": "L’ombre pencha sa tête informe, puis se tourna vers Sakura. Sans yeux, la jeune fille n’arrivait pas à discerner ses intentions.",
+  "p209": "Puis une voix s’éleva depuis l’ombre. Elle était faible, mais sa résonance toucha quelque chose au plus profond de Sakura.",
+
+  "unknown3": "??? : J’ai entendu l’appel et j’ai répondu à l’invocation.",
+  "unknown3b": "Disait l’ombre.",
+
+  "avenger1": "Avenger : Je suis le Servant Avenger.",
+
+  "tbc": "TO BE CONTINUED",
+  "tigerdojo": "Tiger Dojo",
+
+
+  "taiga1": "Taiga : Hoohhh ! Bienvenue, les petits ! Vous allez bien ? Apparaissant maintenant des confins de l’espace, voici le Tiger Dojo ! Je suis votre instructrice, ",
+  "taiga_img": "Fujimura Taiga",
+  "taiga1b": ", Gaaow !",
+
+  "illya1": "Illya : Et l’élève numéro un, Illya ! Merci de me traiter avec respect !",
+
+  "taiga2": "Taiga : Je suppose que vous vous demandez ce qu’on est en train de faire. Élève numéro un, à toi de répondre !",
+
+  "illya2": "Illya : Entendu ! Dans le visual novel original Fate/Stay Night, le Tiger Dojo était un coin spécial qui donnait des astuces et des conseils aux joueurs idiots dont les mauvaises décisions avaient conduit Shirou à une mauvaise fin. Mais maintenant, nous sommes ici pour répondre à toutes vos questions concernant ce crossover. En résumé, nous sommes la structure qui permet à la maison “Fate” de tenir fièrement debout !",
+
+  "taiga3": "Taiga : Excellent ! Oui, ce Dojo est le fondement qui soutient “Fate” ! Maintenant, notre première question nous vient de Mademoiselle Miyu. Elle écrit : ",
+
+  "taiga3b": "« Cher Tiger Dojo, comment se fait-il que Sonic puisse affronter Lancer si facilement ? Les Servants ne sont-ils pas censés être hors de portée des capacités humaines ? » ",
+
+  "taiga3c": "La réponse est simple : Sonic est tout simplement génial !",
+
+  "illya3": "Illya : Cette réponse est trop simpliste…",
+
+  "taiga4": "Taiga : Sonic combat des robots tueurs, des démons destructeurs, des mutants, des génies maléfiques, et même des dieux ! Il dépasse de loin tout ce qu’un humain peut faire ! Lancer était surclassé dès le départ !",
+
+  "illya4": "Illya : Je ne sais pas… avant le Boom, Sonic ne semblait pas vraiment blesser Lancer… c’était plus comme s’il l’agaçait.",
+
+  "taiga5": "Taiga : Faux ! (frappe Illya)",
+
+  "illya5": "Illya : Aïe… le redoutable Tora-Shina… ! Le sortir comme ça, sans prévenir… !",
+
+  "taiga6": "Taiga : Sonic prolongeait le combat parce qu’il croyait que Lancer était un humain ordinaire. Une fois qu’il a compris que retenir ses coups ne suffirait pas, il a sorti sa technique fatale et a gagné haut la main. En plus, il est possible que l’arrivée des Chaos Emeralds à Fuyuki ait perturbé le flux naturel d’énergie magique.",
+
+  "illya6": "Illya : Comme lorsque Shirou a failli se tuer en tentant de faire de la magie ?",
+
+  "taiga7": "Taiga : Exactement. Et souvenez-vous : même si Sonic est habitué à combattre des types bizarres comme Lancer, Lancer, lui, n’a jamais affronté quelqu’un comme Sonic. C’était une question d’expérience supérieure. Leur prochain combat pourrait être plus équilibré, maintenant que Lancer sait à quoi s’en tenir. À toi de lire la prochaine question, élève numéro un !",
+
+  "illya7": "Illya : Celle-ci vient de quelqu’un qui s’appelle Ruby. Elle écrit : ",
+
+  "illya7b": "« Je veux que Saber se batte contre un robot ! » ",
+
+  "illya7c": "Hé, ce n’est même pas une question !",
+
+  "taiga8": "Taiga : Saber se battra contre un robot, c’est certain ! Et les autres aussi ! Élève numéro un, donne l’avertissement légal !",
+
+  "illya8": "Illya : Sonic appartient à SEGA, et Fate appartient à Type-Moon.",
+
+  "taiga9": "Taiga : Cela conclut notre session de questions-réponses ! Je vous retrouve à la prochaine séance d’entraînement !",
+
+  "illya9": "Illya : À bientôt tout le monde !",
+
+  "chapter": "Chapitre 01 sur 30 ",
+
+  "chapter_next": " Suivant >>>"
+}

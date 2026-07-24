@@ -1,0 +1,29 @@
+/* Styles spécifiques à Kingdom Hearts: Familia Myth */
+:root {
+  --accent: #1e90ff;
+}
+
+@font-face {
+  font-family: 'Games Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Games Regular'), url('/src/assets/fonts/Games.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Games Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Games Italic'), url('/src/assets/fonts/Games-Italic.woff') format('woff');
+}
+
+body {
+  background: linear-gradient(135deg, #121212 0%, #0d324d 40%, #1e90ff 100%);
+  color: #f0f0f0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Noms de personnages mentionnés (première apparition / hover) */
+.card {
+  font-family: 'Games Regular', system-ui, sans-serif;
+}

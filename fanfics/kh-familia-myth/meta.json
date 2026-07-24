@@ -1,0 +1,24 @@
+{
+  "id": "kh-familia-myth",
+  "title": "Kingdom Hearts: Familia Myth",
+  "author": "Keybladewielder97",
+  "original_language": "en",
+  "translated_by": "Nicolas",
+  "source_url": "https://www.fanfiction.net/s/14016032/1/Kingdom-Hearts-Familia-Myth",
+  "demoCharacter": { "img": "Sora_KHIII.png", "name": "Sora" },
+  "chapters": [
+    { "number": 1, "title": { "fr": "Bienvenue dans le Monde des Dieux", "en": "Welcome to the World of Gods" } },
+    { "number": 2, "title": { "fr": "La Clé du Foyer", "en": "The Hearth's Key" } },
+    { "number": 3, "title": { "fr": "Monsterphilia", "en": "Monsterphilia" } }
+  ],
+  "themes": {
+    "default": 0,
+    "backgrounds": [
+      { "css": "linear-gradient(135deg, #121212 0%, #0d324d 40%, #1E90FF 100%)", "name": "Kingdom Familia", "textColor": "#f0f0f0" },
+      { "css": "linear-gradient(to bottom, #87CEFA 0%, #FFFFFF 100%)", "name": "Ciel d'Orario", "textColor": "#1a1a1a" },
+      { "css": "linear-gradient(135deg, #4B0082 0%, #FF4500 100%)", "name": "Crépuscule des Cœurs", "textColor": "#f5f5f5" },
+      { "css": "linear-gradient(135deg, #ffffff 0%, #d4af37 100%)", "name": "L'Argonaute", "textColor": "#2c2c2c" },
+      { "css": "linear-gradient(135deg, #000000 0%, #2c2c2c 100%)", "name": "Organisation XIII", "textColor": "#f5f5f5" }
+    ]
+  }
+}

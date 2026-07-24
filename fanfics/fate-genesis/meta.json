@@ -1,0 +1,25 @@
+{
+  "id": "fate-genesis",
+  "title": "Fate Genesis",
+  "author": "Cybertoy00",
+  "original_language": "en",
+  "translated_by": "Nicolas",
+  "source_url": "https://www.fanfiction.net/s/11150281/1/Fate-Genesis",
+  "demoCharacter": { "img": "SXSG_Sonic.png", "name": "Sonic" },
+  "chapters": [
+    { "number": 1, "title": { "fr": "Sonic Boom", "en": "Sonic Boom" } },
+    { "number": 2, "title": { "fr": "Disillusion", "en": "Disillusion" } },
+    { "number": 3, "title": { "fr": "Kick the Rock!", "en": "Kick the Rock!" } },
+    { "number": 4, "title": { "fr": "To The Beginning", "en": "To The Beginning" } }
+  ],
+  "themes": {
+    "default": 0,
+    "backgrounds": [
+      { "css": "linear-gradient(to right, #1E90FF, #0B0C2A)", "name": "Fusion Sonic/Fate", "textColor": "#f5f5f5" },
+      { "css": "linear-gradient(135deg, #1E90FF 0%, #0B0C2A 50%, #C0A060 100%)", "name": "Éclat Doré", "textColor": "#f5f5f5" },
+      { "css": "linear-gradient(to right, #0B0C2A, #4A0020)", "name": "Fuyuki Night", "textColor": "#f5f5f5" },
+      { "css": "linear-gradient(135deg, #1E90FF 0%, #0B0C2A 50%, #1B5E20 100%)", "name": "Green Hill", "textColor": "#f5f5f5" },
+      { "css": "linear-gradient(to right, #8B0000, #0B0C2A)", "name": "Command Spell", "textColor": "#f5f5f5" }
+    ]
+  }
+}

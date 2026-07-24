@@ -1,0 +1,5310 @@
+{
+  "meta": {
+    "fanfic": "kh-familia-myth",
+    "chapter": 3,
+    "title_key": "chapter_title"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "key": "disclaimer",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora1",
+      "line_parts": [
+        {
+          "text_key": "sora1b_1"
+        },
+        {
+          "character": "sora",
+          "name_key": "sora_name",
+          "img": "Sora_KHIII.png"
+        },
+        {
+          "text_key": "sora1b_2"
+        },
+        {
+          "character": "bell",
+          "name_key": "bell_name",
+          "img": "Bell_Cranel_DanMachi.png"
+        },
+        {
+          "text_key": "sora1b_3"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST -  Souguu.mp3",
+      "title_key": "audio_title1"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell1",
+      "line_key": "bell1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "sora2a"
+        },
+        {
+          "character": "neo_shadow",
+          "name_key": "neo_shadow_name",
+          "img": "Crypto_Ombre_KHIII.png"
+        },
+        {
+          "text_key": "sora2b"
+        }
+      ],
+      "line_key": "sora2c"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell2",
+      "line_key": "bell2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p1"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell3",
+      "line_key": "bell3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora3",
+      "line_key": "sora3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p2"
+        },
+        {
+          "text_key": "p3"
+        },
+        {
+          "text_key": "p4"
+        },
+        {
+          "text_key": "p5"
+        },
+        {
+          "text_key": "p6"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora4",
+      "line_key": "sora4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell5",
+      "line_key": "bell5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora5",
+      "line_key": "sora5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell6",
+      "line_key": "bell6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell6c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p7"
+        },
+        {
+          "text_key": "p8"
+        },
+        {
+          "text_key": "p9"
+        },
+        {
+          "text_key": "p10"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora6",
+      "line_key": "sora6b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p11a"
+        },
+        {
+          "character": "large_body",
+          "name_key": "large_body_name",
+          "img": "Large_Body_KHIII.png"
+        },
+        {
+          "text_key": "p11b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p12"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line1",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p13a"
+        },
+        {
+          "character": "hestia",
+          "name_key": "hestia_name",
+          "img": "Hestia_full_body.png"
+        },
+        {
+          "text_key": "p13b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p14"
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST - Realis Frese.mp3",
+      "title_key": "audio_title2"
+    },
+    {
+      "type": "stat_box",
+      "title_key": "bell_status_title3",
+      "stats_key": "bell_stats3",
+      "note_key": "liaris_freese_desc2"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_thought1",
+      "line_key": "hestia_thought1b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p15"
+    },
+    {
+      "type": "paragraph",
+      "key": "p16"
+    },
+    {
+      "type": "paragraph",
+      "key": "p17"
+    },
+    {
+      "type": "paragraph",
+      "key": "p18"
+    },
+    {
+      "type": "paragraph",
+      "key": "p19"
+    },
+    {
+      "type": "paragraph",
+      "key": "p20"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p21a"
+        },
+        {
+          "character": "rapunzel",
+          "name_key": "rapunzel_name",
+          "img": "Raiponce_KHIII.png"
+        },
+        {
+          "text_key": "p21b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p22"
+    },
+    {
+      "type": "paragraph",
+      "key": "p23"
+    },
+    {
+      "type": "paragraph",
+      "key": "p24"
+    },
+    {
+      "type": "paragraph",
+      "key": "p25"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_thought2",
+      "line_key": "hestia_thought2b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p26"
+    },
+    {
+      "type": "paragraph",
+      "key": "p27"
+    },
+    {
+      "type": "paragraph",
+      "key": "p28"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_thought3",
+      "line_key": "hestia_thought3b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p29"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia1",
+      "line_key": "hestia1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell7",
+      "line_key": "bell7b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora7",
+      "line_key": "sora7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p30"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia2",
+      "line_key": "hestia2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p31"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell8",
+      "line_key": "bell8b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora8",
+      "line_key": "sora8b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell9",
+      "line_key": "bell9b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia3",
+      "line_key": "hestia3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora_bell_surprise",
+      "style": "bold-italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia4",
+      "line_key": "hestia4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora9",
+      "line_key": "sora9b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia5",
+      "line_key": "hestia5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia6",
+      "line_key": "hestia6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia6c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora10",
+      "line_key": "sora10b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell10",
+      "line_key": "bell10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p32"
+    },
+    {
+      "type": "paragraph",
+      "key": "p33"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_thought4",
+      "line_key": "hestia_thought4b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p34"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line2",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "p35"
+    },
+    {
+      "type": "paragraph",
+      "key": "p36"
+    },
+    {
+      "type": "paragraph",
+      "key": "p37"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p38a"
+        },
+        {
+          "character": "ganesha",
+          "name_key": "ganesha_name",
+          "img": "Ganesha_God_of_the_Masses.png"
+        },
+        {
+          "text_key": "p38b"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST - Kamigami no Seikurabe.mp3",
+      "title_key": "audio_title3"
+    },
+    {
+      "type": "paragraph",
+      "key": "p39"
+    },
+    {
+      "type": "paragraph",
+      "key": "p40"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_thought5",
+      "line_key": "hestia_thought5b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia_thought5c",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos1",
+      "line_key": "hephaistos1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p41"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p42a"
+        },
+        {
+          "text_key": "p42b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "hestia11"
+        },
+        {
+          "character": "hephaistos",
+          "name_key": "hephaistos_name",
+          "img": "Hephaistos.png"
+        },
+        {
+          "text_key": "hestia11a"
+        }
+      ],
+      "line_key": "hestia11b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos2",
+      "line_key": "hephaistos2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia12",
+      "line_key": "hestia12b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos3",
+      "line_key": "hephaistos3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia13",
+      "line_key": "hestia13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia13c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos4",
+      "line_key": "hephaistos4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia14",
+      "line_key": "hestia14b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos5",
+      "line_key": "hephaistos5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia15",
+      "line_key": "hestia15b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p43"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p44a"
+        },
+        {
+          "character": "freya",
+          "name_key": "freya_name",
+          "img": "Freya_Banquet_Queen.png"
+        },
+        {
+          "text_key": "p44b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "freya1",
+      "line_key": "freya1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia16",
+      "line_key": "hestia16b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "freya2",
+      "line_key": "freya2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia17",
+      "line_key": "hestia17b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p45"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "freya3",
+      "line_key": "freya3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p46"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia18",
+      "line_key": "hestia18b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p47a"
+        },
+        {
+          "character": "loki",
+          "name_key": "loki_name",
+          "img": "loki.png"
+        },
+        {
+          "text_key": "p47b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos6",
+      "line_key": "hephaistos6b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia19",
+      "line_key": "hestia19b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki2",
+      "line_key": "loki2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p48"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos7",
+      "line_key": "hephaistos7b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki3",
+      "line_key": "loki3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "freya4",
+      "line_key": "freya4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos8",
+      "line_key": "hephaistos8b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki4",
+      "line_key": "loki4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "freya5",
+      "line_key": "freya5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki5",
+      "line_key": "loki5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p49"
+    },
+    {
+      "type": "paragraph",
+      "key": "p50"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia20",
+      "line_key": "hestia20b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki6",
+      "line_key": "loki6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki6c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia21",
+      "line_key": "hestia21b"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki7",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia22",
+      "line_key": "hestia22b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p51"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos9",
+      "line_key": "hephaistos9b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia23",
+      "line_key": "hestia23b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki8",
+      "line_key": "loki8b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia24",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p52"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line8",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia25",
+      "line_key": "hestia25b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki9",
+      "line_key": "loki9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p53"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos10",
+      "line_key": "hephaistos10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos10c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "freya6",
+      "line_key": "freya6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "freya6c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p54"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos11",
+      "line_key": "hephaistos11b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p55"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia26",
+      "line_key": "hestia26b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos12",
+      "line_key": "hephaistos12b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia27",
+      "line_key": "hestia27b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p56"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia28",
+      "line_key": "hestia28b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos13",
+      "line_key": "hephaistos13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p57"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos14",
+      "line_key": "hephaistos14b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos14c",
+      "line_key": "hephaistos14d"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line8",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST -  Sakusen Kaigi.mp3",
+      "title_key": "audio_title5"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos15",
+      "line_key": "hephaistos15b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p58"
+    },
+    {
+      "type": "paragraph",
+      "key": "p59"
+    },
+    {
+      "type": "paragraph",
+      "key": "p60"
+    },
+    {
+      "type": "paragraph",
+      "key": "p61"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia29",
+      "line_key": "hestia29b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos16",
+      "line_key": "hephaistos16b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia30",
+      "line_key": "hestia30b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos17",
+      "line_key": "hephaistos17b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p62"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia31",
+      "line_key": "hestia31b"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line8",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line9",
+      "style": "italic-underline",
+      "align": "center"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora114",
+      "line_key": "sora114b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia32",
+      "line_key": "hestia32b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p63"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora115",
+      "line_key": "sora115b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia33",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora116",
+      "line_key": "sora116b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia34",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p64"
+        },
+        {
+          "character": "kingdom_key",
+          "name_key": "kingdom_key_name",
+          "img": "Kingdom_Key_KHIII.png"
+        },
+        {
+          "text_key": "p64b"
+        }
+      ],
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora117",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "sora117b"
+        },
+        {
+          "character": "heros_origin",
+          "name_key": "heros_origin_name",
+          "img": "Genese_Heroique_KHIII.png"
+        },
+        {
+          "text_key": "sora117c"
+        }
+      ],
+      "style": "italic"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "sora117d"
+        },
+        {
+          "character": "zeus",
+          "name_key": "zeus_name",
+          "img": "Zeus_KHIII.png"
+        },
+        {
+          "text_key": "sora117e"
+        },
+        {
+          "character": "hades",
+          "name_key": "hades_name",
+          "img": "Hades_KHIII.png"
+        },
+        {
+          "text_key": "sora117f"
+        }
+      ],
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65c"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65d"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65e"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65f"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65g"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65h"
+    },
+    {
+      "type": "paragraph",
+      "key": "p66"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia35",
+      "line_key": "hestia35b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia35c",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora118",
+      "line_key": "sora118b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia36",
+      "line_key": "hestia36b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora119",
+      "line_key": "sora119b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia37",
+      "line_key": "hestia37b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora120",
+      "line_key": "sora120b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia38",
+      "line_key": "hestia38b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p67"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "sora121a"
+        },
+        {
+          "character": "moogle",
+          "name_key": "moogle_name",
+          "img": "Moogle_KHIII.png"
+        },
+        {
+          "text_key": "sora121b"
+        }
+      ],
+      "line_key": "sora121c",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p68"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia39",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora122",
+      "line_key": "sora122b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p69"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia40",
+      "line_key": "hestia40b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora123",
+      "line_key": "sora123b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_thought6",
+      "line_key": "hestia_thought6b",
+      "style": "italic"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line8",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line10",
+      "style": "underline",
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "key": "p70"
+    },
+    {
+      "type": "paragraph",
+      "key": "p71"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos18",
+      "line_key": "hephaistos18b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia41",
+      "line_key": "hestia41b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p72"
+    },
+    {
+      "type": "paragraph",
+      "key": "p73"
+    },
+    {
+      "type": "paragraph",
+      "key": "p74"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos_thought1",
+      "line_key": "hephaistos_thought1b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p75"
+    },
+    {
+      "type": "paragraph",
+      "key": "p76"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos19",
+      "line_key": "hephaistos19b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos19c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p77"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia42",
+      "line_key": "hestia42b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p78"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos20",
+      "line_key": "hephaistos20b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p79"
+    },
+    {
+      "type": "paragraph",
+      "key": "p80"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia43",
+      "line_key": "hestia43b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p81"
+    },
+    {
+      "type": "paragraph",
+      "key": "p82"
+    },
+    {
+      "type": "paragraph",
+      "key": "p83"
+    },
+    {
+      "type": "paragraph",
+      "key": "p84"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos21",
+      "line_key": "hephaistos21b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia44",
+      "line_key": "hestia44b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos22",
+      "line_key": "hephaistos22b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia45",
+      "line_key": "hestia45b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos23",
+      "line_key": "hephaistos23b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p85"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos24",
+      "line_key": "hephaistos24b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia46",
+      "line_key": "hestia46b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos25",
+      "line_key": "hephaistos25b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p86"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia47",
+      "line_key": "hestia47b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p87"
+    },
+    {
+      "type": "paragraph",
+      "key": "p88"
+    },
+    {
+      "type": "paragraph",
+      "key": "p89"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos26",
+      "line_key": "hephaistos26b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p90"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos27",
+      "line_key": "hephaistos27b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos27c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia48",
+      "line_key": "hestia48b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos28",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia49",
+      "line_key": "hestia49b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos29",
+      "line_key": "hephaistos29b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia50",
+      "line_key": "hestia50b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos30",
+      "line_key": "hephaistos30b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos30c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia51",
+      "line_key": "hestia51b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos31",
+      "line_key": "hephaistos31b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos31c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p91"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia52",
+      "line_key": "hestia52b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos32",
+      "line_key": "hephaistos32b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia53",
+      "line_key": "hestia53b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos33",
+      "line_key": "hephaistos33b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia54",
+      "line_key": "hestia54b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos34",
+      "line_key": "hephaistos34b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia55",
+      "line_key": "hestia55b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos35",
+      "line_key": "hephaistos35b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia56",
+      "line_key": "hestia56b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos36",
+      "line_key": "hephaistos36b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia57",
+      "line_key": "hestia57b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos37",
+      "line_key": "hephaistos37b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos37c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia58",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos38",
+      "line_key": "hephaistos38b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia59",
+      "line_key": "hestia59b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos39",
+      "line_key": "hephaistos39b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos39c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p92"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephaistos40",
+      "line_key": "hephaistos40c"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaistos40d",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia60",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line11",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "DanMachi I OST - Minotaurus no Shitou.mp3",
+      "title_key": "audio_title6"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p93a"
+        },
+        {
+          "character": "flame_core",
+          "name_key": "flame_core_name",
+          "img": "Pyronucleo_KHIII.png"
+        },
+        {
+          "text_key": "p93b"
+        },
+        {
+          "text_key": "p94"
+        },
+        {
+          "text_key": "p95"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p96"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p97"
+        },
+        {
+          "text_key": "p98"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p99"
+        },
+        {
+          "text_key": "p100"
+        },
+        {
+          "text_key": "p101"
+        },
+        {
+          "text_key": "p102"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p103"
+        },
+        {
+          "text_key": "p104"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p105"
+        },
+        {
+          "text_key": "p106"
+        },
+        {
+          "text_key": "p107"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p108"
+        },
+        {
+          "text_key": "p109"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p110"
+        },
+        {
+          "text_key": "p111"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p112"
+        },
+        {
+          "text_key": "p113"
+        },
+        {
+          "text_key": "p114"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p115"
+        },
+        {
+          "text_key": "p116"
+        },
+        {
+          "text_key": "p117"
+        },
+        {
+          "text_key": "p118"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora124",
+      "line_key": "sora124b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell11",
+      "line_key": "bell11b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p119"
+        },
+        {
+          "text_key": "p120"
+        },
+        {
+          "text_key": "p121"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p122"
+        },
+        {
+          "text_key": "p123"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p124"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p125"
+        },
+        {
+          "text_key": "p126"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p127"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p128"
+        },
+        {
+          "text_key": "p129"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p130"
+        },
+        {
+          "text_key": "p131"
+        },
+        {
+          "text_key": "p132"
+        },
+        {
+          "text_key": "p133"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p134"
+        },
+        {
+          "text_key": "p135"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p136"
+        },
+        {
+          "text_key": "p137"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p138"
+        },
+        {
+          "text_key": "p139"
+        },
+        {
+          "text_key": "p140"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora125",
+      "line_key": "sora125b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p141"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell12",
+      "line_key": "bell12b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p142a"
+        },
+        {
+          "text_key": "p142b"
+        },
+        {
+          "text_key": "p142c"
+        },
+        {
+          "character": "donald",
+          "name_key": "donald_name",
+          "img": "Donald_KHIII.png"
+        },
+        {
+          "text_key": "p142d"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p143"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell13",
+      "line_key": "bell13b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora126",
+      "line_key": "sora126b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora126c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell14",
+      "line_key": "bell14b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p144"
+        },
+        {
+          "text_key": "p145"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora127",
+      "line_key": "sora127b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell15",
+      "line_key": "bell15b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p146"
+        },
+        {
+          "text_key": "p147"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p148"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell16",
+      "line_key": "bell16b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell16c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora128",
+      "line_key": "sora128b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell17",
+      "line_key": "bell17b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora129",
+      "line_key": "sora129b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora129c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p149"
+        },
+        {
+          "text_key": "p150"
+        },
+        {
+          "text_key": "p151"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell18",
+      "line_parts": [
+        {
+          "text_key": "bell18b"
+        },
+        {
+          "text_key": "bell18c"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora130",
+      "line_key": "sora130b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell19",
+      "line_key": "bell19b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell19c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora131",
+      "line_key": "sora131b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora131c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p152"
+    },
+    {
+      "type": "paragraph",
+      "key": "p153"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p154"
+        },
+        {
+          "text_key": "p155"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p156"
+        },
+        {
+          "text_key": "p157"
+        },
+        {
+          "text_key": "p158"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p159"
+        },
+        {
+          "text_key": "p160"
+        },
+        {
+          "text_key": "p161"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p162"
+        },
+        {
+          "character": "eina",
+          "name_key": "eina_name",
+          "img": "Eina_Tulle_Anime.png"
+        },
+        {
+          "text_key": "p162b"
+        },
+        {
+          "text_key": "p163"
+        },
+        {
+          "text_key": "p164"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p165"
+        },
+        {
+          "text_key": "p166"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell20",
+      "line_key": "bell20b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p167"
+        },
+        {
+          "text_key": "p168"
+        },
+        {
+          "text_key": "p169"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora132",
+      "line_key": "sora132b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell21",
+      "line_key": "bell21b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "sora133a"
+        },
+        {
+          "character": "larxene",
+          "name_key": "larxene_name",
+          "img": "Larxene_KHIII.png"
+        },
+        {
+          "text_key": "sora133b"
+        }
+      ],
+      "line_key": "sora133c"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell22",
+      "line_key": "bell22b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora134",
+      "line_key": "sora134b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell23",
+      "line_key": "bell23b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell23c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p170"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora135",
+      "line_key": "sora135b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell24",
+      "line_key": "bell24b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p171"
+        },
+        {
+          "text_key": "p172"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p173"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell25",
+      "line_key": "bell25b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora136",
+      "line_key": "sora136b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell26",
+      "line_key": "bell26b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora137",
+      "line_key": "sora137b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p174"
+        },
+        {
+          "text_key": "p175"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell27",
+      "line_key": "bell27b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora138",
+      "line_key": "sora138b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell28",
+      "line_key": "bell28b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p176"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "sora_thought1a"
+        },
+        {
+          "character": "leon",
+          "name_key": "leon_name",
+          "img": "Leon_KHIIIRM.png"
+        },
+        {
+          "text_key": "sora_thought1b"
+        },
+        {
+          "character": "ienzo",
+          "name_key": "ienzo_name",
+          "img": "Ienzo_KHIII.png"
+        },
+        {
+          "text_key": "sora_thought1c"
+        }
+      ],
+      "line_key": "sora_thought1d",
+      "style": "bold-italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora139",
+      "line_key": "sora139b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell29",
+      "line_key": "bell29b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought2",
+      "line_key": "sora_thought2b",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p177"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line12",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p178"
+        },
+        {
+          "text_key": "p179"
+        },
+        {
+          "text_key": "p180"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p181"
+        },
+        {
+          "text_key": "p182"
+        },
+        {
+          "text_key": "p183"
+        },
+        {
+          "text_key": "p184"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p185"
+        },
+        {
+          "text_key": "p186"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p187"
+        },
+        {
+          "text_key": "p188"
+        },
+        {
+          "text_key": "p189"
+        },
+        {
+          "text_key": "p190"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p191"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p192"
+        },
+        {
+          "text_key": "p193"
+        },
+        {
+          "text_key": "p194"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p195"
+        },
+        {
+          "text_key": "p196"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p197"
+        },
+        {
+          "text_key": "p198"
+        },
+        {
+          "text_key": "p199"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell30",
+      "line_key": "bell30b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p200"
+        },
+        {
+          "text_key": "p201"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora140",
+      "line_key": "sora140b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora140c",
+      "line_key": "sora140d"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell31",
+      "line_key": "bell31b"
+    },
+    {
+      "type": "audio",
+      "src": "DanMachi I OST - Boukenshatachi no Kyuusoku.mp3",
+      "title_key": "audio_title7"
+    },
+    {
+      "type": "paragraph",
+      "key": "p202"
+    },
+    {
+      "type": "paragraph",
+      "key": "p203"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "anya1",
+      "line_key": "anya1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p204"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell32",
+      "line_key": "bell32b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "anya2",
+      "line_key": "anya2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell33",
+      "line_key": "bell33b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "anya3",
+      "line_key": "anya3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p205"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "anya4"
+        },
+        {
+          "character": "syr",
+          "name_key": "syr_name",
+          "img": "Syr_Flova_Anime_2.png"
+        },
+        {
+          "text_key": "anya4a"
+        }
+      ],
+      "line_key": "anya4b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p206"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "ryu1"
+        },
+        {
+          "character": "anya",
+          "name_key": "anya_name",
+          "img": "Anya_Fromel_Anime.png"
+        },
+        {
+          "text_key": "ryu1b"
+        }
+      ],
+      "line_key": "ryu1c"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "anya5"
+        },
+        {
+          "character": "ryu",
+          "name_key": "ryu_name",
+          "img": "Ryuu_DanMachi_XI_Character_Art.png"
+        },
+        {
+          "text_key": "anya5a"
+        }
+      ],
+      "line_key": "anya5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ryu2",
+      "line_key": "ryu2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "ryu2d",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell34",
+      "line_key": "bell34b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ryu3",
+      "line_key": "ryu3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_bell_monsterphilia",
+      "line_key": "sora_bell_monsterphiliab"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ryu4",
+      "line_key": "ryu4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell35",
+      "line_key": "bell35b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p207"
+    },
+    {
+      "type": "paragraph",
+      "key": "p208"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "anya6",
+      "line_key": "anya6b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ryu5",
+      "line_key": "ryu5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "ryu5c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "anya7",
+      "line_key": "anya7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p209"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell36",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora141",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p210"
+    },
+    {
+      "type": "paragraph",
+      "key": "p211"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora142",
+      "line_key": "sora142b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell37",
+      "line_key": "bell37b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora143",
+      "line_key": "sora143b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell38",
+      "line_key": "bell38b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora144",
+      "line_key": "sora144b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell39",
+      "line_key": "bell39b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "sora145a"
+        },
+        {
+          "character": "genie",
+          "name_key": "genie_name",
+          "img": "Genie_KHREC.png"
+        },
+        {
+          "text_key": "sora145b"
+        },
+        {
+          "character": "simba",
+          "name_key": "simba_name",
+          "img": "Simba_KHIII.png"
+        },
+        {
+          "text_key": "sora145c"
+        },
+        {
+          "character": "tinker_bell",
+          "name_key": "tinker_bell_name",
+          "img": "Renders-clochette.png"
+        },
+        {
+          "text_key": "sora145d"
+        }
+      ],
+      "line_key": "sora145e"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell40",
+      "line_key": "bell40b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora146",
+      "line_key": "sora146b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell41",
+      "line_key": "bell41b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell41c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "sora147a"
+        },
+        {
+          "character": "mushu",
+          "name_key": "mushu_name",
+          "img": "Mushu.png"
+        },
+        {
+          "text_key": "sora147b"
+        }
+      ],
+      "line_key": "sora147c"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line13",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST -  Megami Freya no An yaku.mp3",
+      "title_key": "audio_title8"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p212"
+        },
+        {
+          "text_key": "p213"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p214"
+        },
+        {
+          "text_key": "p215"
+        },
+        {
+          "text_key": "p216"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki10",
+      "line_key": "loki10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p217"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "freya7",
+      "line_key": "freya7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "freya8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p218"
+        },
+        {
+          "text_key": "p219"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p220"
+    },
+    {
+      "type": "paragraph",
+      "key": "p221"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p222"
+        },
+        {
+          "text_key": "p223"
+        },
+        {
+          "text_key": "p224"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p225"
+        },
+        {
+          "text_key": "p226"
+        },
+        {
+          "text_key": "p227"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p228"
+        },
+        {
+          "text_key": "p229"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p230"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p231"
+        },
+        {
+          "text_key": "p232"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p233"
+        },
+        {
+          "text_key": "p234"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p235"
+    },
+    {
+      "type": "paragraph",
+      "key": "p236"
+    },
+    {
+      "type": "paragraph",
+      "key": "p237"
+    },
+    {
+      "type": "paragraph",
+      "key": "p238"
+    },
+    {
+      "type": "paragraph",
+      "key": "p239"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line14",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora148",
+      "line_key": "sora148b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p240"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell42",
+      "line_key": "bell42b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p241"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora149",
+      "line_key": "sora149b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell43",
+      "line_key": "bell43b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p242"
+        },
+        {
+          "text_key": "p243"
+        },
+        {
+          "text_key": "p244"
+        },
+        {
+          "text_key": "p245"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia61",
+      "line_key": "hestia61b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p246"
+    },
+    {
+      "type": "audio",
+      "src": "DanMachi I OST - Houjou no Onna Shujintei.mp3",
+      "title_key": "audio_title8a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell44",
+      "line_key": "bell44b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia62",
+      "line_key": "hestia62b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell45",
+      "line_key": "bell45b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia63",
+      "line_key": "hestia63b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell46",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia64",
+      "line_key": "hestia64b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell47",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia65",
+      "line_key": "hestia65b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell48",
+      "line_key": "bell48b"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia66",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell49",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line1",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora150",
+      "line_key": "sora150b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p247"
+        },
+        {
+          "text_key": "p248"
+        },
+        {
+          "text_key": "p249"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought3",
+      "line_key": "sora_thought3b",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p250"
+        },
+        {
+          "text_key": "p251"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p252"
+        },
+        {
+          "text_key": "p253"
+        },
+        {
+          "text_key": "p254"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p255"
+    },
+    {
+      "type": "paragraph",
+      "key": "p256"
+    },
+    {
+      "type": "paragraph",
+      "key": "p257"
+    },
+    {
+      "type": "paragraph",
+      "key": "p258"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p259"
+        },
+        {
+          "text_key": "p260"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora151",
+      "line_key": "sora151b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p261"
+    },
+    {
+      "type": "audio",
+      "src": "DanMachi I OST - Minotaurus no Shitou.mp3",
+      "title_key": "audio_title9"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p262"
+        },
+        {
+          "text_key": "p263"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p264"
+        },
+        {
+          "text_key": "p265"
+        },
+        {
+          "text_key": "p266"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p267"
+    },
+    {
+      "type": "paragraph",
+      "key": "ganesha_member1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "ganesha_member2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p268"
+        },
+        {
+          "text_key": "p269"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "ganesha_member3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p270"
+    },
+    {
+      "type": "paragraph",
+      "key": "p271"
+    },
+    {
+      "type": "paragraph",
+      "key": "p272"
+    },
+    {
+      "type": "paragraph",
+      "key": "p273"
+    },
+    {
+      "type": "paragraph",
+      "key": "p274"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p275"
+        },
+        {
+          "text_key": "p275b",
+          "style": "bold"
+        },
+        {
+          "text_key": "p275c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p276"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p277"
+        },
+        {
+          "text_key": "p277b",
+          "style": "bold"
+        },
+        {
+          "text_key": "p277c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p278"
+    },
+    {
+      "type": "paragraph",
+      "key": "p279"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ganesha_member4",
+      "line_key": "ganesha_member4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "modaka1",
+      "line_key": "modaka1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora152",
+      "line_key": "sora152b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "modaka2",
+      "line_key": "modaka2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ganesha_member5",
+      "line_key": "ganesha_member5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora153",
+      "line_key": "sora153b"
+    },
+    {
+      "type": "audio",
+      "src": "Kingdom Hearts OST - Tension Rising.mp3",
+      "title_key": "audio_title10"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p280"
+        },
+        {
+          "character": "darkball",
+          "name_key": "darkball_name",
+          "img": "Boule_noire.png"
+        },
+        {
+          "text_key": "p280b"
+        },
+        {
+          "character": "invisible",
+          "name_key": "invisible_name",
+          "img": "Invincible.png"
+        },
+        {
+          "text_key": "p280c"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora154",
+      "line_key": "sora154b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "modaka3",
+      "line_key": "modaka3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora155",
+      "line_key": "sora155b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ganesha_member6",
+      "line_key": "ganesha_member6b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora156",
+      "line_key": "sora156b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora157",
+      "line_parts": [
+        {
+          "text_key": "sora157b"
+        },
+        {
+          "text_key": "sora157c",
+          "style": "bold"
+        },
+        {
+          "text_key": "sora157d"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p281"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "modaka4",
+      "line_key": "modaka4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ganesha_member7",
+      "line_key": "ganesha_member7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p282"
+    },
+    {
+      "type": "paragraph",
+      "key": "p283"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p284"
+        },
+        {
+          "text_key": "p284b",
+          "style": "bold"
+        },
+        {
+          "text_key": "p284c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p285"
+        },
+        {
+          "text_key": "p285b",
+          "style": "bold"
+        },
+        {
+          "text_key": "p285c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p286"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora158",
+      "line_parts": [
+        {
+          "text_key": "sora158b"
+        },
+        {
+          "text_key": "sora158c",
+          "style": "bold"
+        },
+        {
+          "text_key": "sora158d"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p287"
+        },
+        {
+          "text_key": "p288"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p289"
+        },
+        {
+          "text_key": "p290"
+        },
+        {
+          "text_key": "p290b",
+          "style": "bold"
+        },
+        {
+          "text_key": "p290c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p291"
+        },
+        {
+          "text_key": "p292"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora159",
+      "line_key": "sora159b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p293"
+    },
+    {
+      "type": "paragraph",
+      "key": "p294"
+    },
+    {
+      "type": "paragraph",
+      "key": "p295"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line15",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "DanMachi I OST - Minotaurus no Shitou.mp3",
+      "title_key": "audio_title13"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p296a"
+        },
+        {
+          "character": "lefiya",
+          "name_key": "lefiya_name",
+          "img": "Lefiya_Viridis_-_Sword_Oratoria_Anime_BD.png"
+        },
+        {
+          "text_key": "p296b"
+        },
+        {
+          "text_key": "p297a"
+        },
+        {
+          "character": "tiona",
+          "name_key": "tiona_name",
+          "img": "tiona2.png"
+        },
+        {
+          "text_key": "p297b"
+        },
+        {
+          "character": "tione",
+          "name_key": "tione_name",
+          "img": "tione.png"
+        },
+        {
+          "text_key": "p297c"
+        },
+        {
+          "character": "ais",
+          "name_key": "ais_name",
+          "img": "Aiz_Wallenstein_Anime.png"
+        },
+        {
+          "text_key": "p297d"
+        },
+        {
+          "text_key": "p298"
+        },
+        {
+          "text_key": "p299"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p300"
+    },
+    {
+      "type": "paragraph",
+      "key": "p301"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p302"
+        },
+        {
+          "text_key": "p303a"
+        },
+        {
+          "character": "violas",
+          "name_key": "violas_name",
+          "img": "Sword_Oratoria_Episode_5.png"
+        },
+        {
+          "text_key": "p303b"
+        },
+        {
+          "text_key": "p304"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione1",
+      "line_key": "tione1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona1",
+      "line_key": "tiona1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p306"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione2",
+      "line_key": "tione2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona2",
+      "line_parts": [
+        {
+          "text_key": "tiona2b"
+        },
+        {
+          "text_key": "tiona2c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p308"
+        },
+        {
+          "text_key": "p309"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p310"
+        },
+        {
+          "text_key": "p311"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya_thought1",
+      "line_key": "lefiya_thought1b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p312"
+    },
+    {
+      "type": "paragraph",
+      "key": "p313"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p314a"
+        },
+        {
+          "character": "grand_chef",
+          "name_key": "grand_chef_name",
+          "img": "Grand_Chef_KHIII.png"
+        },
+        {
+          "text_key": "p314b"
+        },
+        {
+          "text_key": "p315"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p316"
+        },
+        {
+          "text_key": "p317"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora160",
+      "line_key": "sora160b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p319"
+        },
+        {
+          "text_key": "p320"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p321"
+        },
+        {
+          "text_key": "p322"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya_thought2",
+      "line_key": "lefiya_thought2b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya_thought3",
+      "line_key": "lefiya_thought3b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora161",
+      "line_key": "sora161b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya1",
+      "line_key": "lefiya1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora162",
+      "line_key": "sora162b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p326"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p327"
+        },
+        {
+          "text_key": "p328"
+        },
+        {
+          "text_key": "p329"
+        },
+        {
+          "text_key": "p330"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p331"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "sora_thought4a"
+        },
+        {
+          "character": "creeper_plant",
+          "name_key": "creeper_plant_name",
+          "img": "Creeper_Plant_KHII.png"
+        },
+        {
+          "text_key": "sora_thought4b"
+        }
+      ],
+      "line_key": "sora_thought4c",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora163",
+      "line_key": "sora163b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya2",
+      "line_key": "lefiya2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora164",
+      "line_key": "sora164b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p335"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p336"
+        },
+        {
+          "text_key": "p337"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p338"
+        },
+        {
+          "text_key": "p339"
+        },
+        {
+          "text_key": "p340"
+        },
+        {
+          "text_key": "p341"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p342"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya_thought4",
+      "line_key": "lefiya_thought4b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p343"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p344"
+        },
+        {
+          "text_key": "p345"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p346"
+    },
+    {
+      "type": "paragraph",
+      "key": "p348"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya3",
+      "line_key": "lefiya3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora165",
+      "line_key": "sora165b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya4",
+      "line_key": "lefiya4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora166",
+      "line_key": "sora166b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p352"
+        },
+        {
+          "text_key": "p353"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p354"
+        },
+        {
+          "text_key": "p355"
+        },
+        {
+          "text_key": "p356"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora167",
+      "line_key": "sora167b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya5",
+      "line_key": "lefiya5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora168",
+      "line_key": "sora168b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya6",
+      "line_key": "lefiya6b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora169",
+      "line_key": "sora169b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p358"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p359"
+        },
+        {
+          "text_key": "p360"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p361"
+        },
+        {
+          "text_key": "p362"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p363"
+    },
+    {
+      "type": "paragraph",
+      "key": "p364"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya_thought5",
+      "line_key": "lefiya_thought5b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya7",
+      "line_key": "lefiya7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p367"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora170",
+      "line_key": "sora170b"
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST -  Kessen, Kaisounushi Goliath.mp3",
+      "title_key": "audio_title11"
+    },
+    {
+      "type": "paragraph",
+      "key": "p369"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya8",
+      "line_key": "lefiya8b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p371"
+        },
+        {
+          "text_key": "p372"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya_thought6",
+      "line_key": "lefiya_thought6b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "lefiya9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p374"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione3",
+      "line_key": "tione3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona3",
+      "line_key": "tiona3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p377"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya10",
+      "line_key": "lefiya10b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya11",
+      "line_key": "lefiya11b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p380"
+        },
+        {
+          "text_key": "p381"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona4",
+      "line_key": "tiona4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione4",
+      "line_key": "tione4b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p382"
+        },
+        {
+          "text_key": "p383"
+        },
+        {
+          "text_key": "p384"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "tiona_tione_surprise",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya12",
+      "line_key": "lefiya12b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p385"
+        },
+        {
+          "text_key": "p386"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora171",
+      "line_key": "sora171b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p388"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona5",
+      "line_key": "tiona5b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p389"
+        },
+        {
+          "text_key": "p390"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora172",
+      "line_key": "sora172b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p392"
+        },
+        {
+          "text_key": "p393"
+        },
+        {
+          "text_key": "p394"
+        },
+        {
+          "text_key": "p395"
+        },
+        {
+          "text_key": "p396"
+        },
+        {
+          "text_key": "p397"
+        },
+        {
+          "text_key": "p398"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "sora_thought5",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought6",
+      "line_key": "sora_thought6b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora_thought7",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona6",
+      "line_key": "tiona6b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p401"
+        },
+        {
+          "text_key": "p402"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora173",
+      "line_key": "sora173b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p404"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione5",
+      "line_key": "tione5b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora174",
+      "line_key": "sora174b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione6",
+      "line_key": "tione6b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona7",
+      "line_key": "tiona7b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p409"
+        },
+        {
+          "text_key": "p410"
+        },
+        {
+          "text_key": "p411"
+        },
+        {
+          "text_key": "p412"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ais1",
+      "line_key": "ais1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p414"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona8",
+      "line_key": "tiona8b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione7",
+      "line_key": "tione7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tione8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p416"
+        },
+        {
+          "text_key": "p417"
+        },
+        {
+          "text_key": "p418"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora175",
+      "line_key": "sora175b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p420"
+        },
+        {
+          "text_key": "p421"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona9",
+      "line_key": "tiona9b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora176",
+      "line_key": "sora176b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p423"
+        },
+        {
+          "text_key": "p424"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya13",
+      "line_key": "lefiya13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "lefiya14",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona10",
+      "line_key": "tiona10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tiona11",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora177",
+      "line_key": "sora177b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya15",
+      "line_key": "lefiya15b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p429"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora178",
+      "line_key": "sora178b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p431"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya16",
+      "line_key": "lefiya16b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona12",
+      "line_key": "tiona12b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tione9",
+      "line_key": "tione9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tione9c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ais2",
+      "line_key": "ais2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya17",
+      "line_key": "lefiya17b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p435"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki11",
+      "line_key": "loki11b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p436"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona13",
+      "line_key": "tiona13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tiona14",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki13",
+      "line_key": "loki13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p438"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki_thought1",
+      "line_key": "loki_thought1b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki14",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora179",
+      "line_key": "sora179b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora180",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki17",
+      "line_key": "loki17b"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki18",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p442"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki19",
+      "line_key": "loki19b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki20",
+      "line_key": "loki21b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "ais3",
+      "line_key": "ais3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "ais4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki22",
+      "line_key": "loki22b"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki23",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought8",
+      "line_key": "sora_thought8b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p446"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora181",
+      "line_key": "sora181b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora182",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki24",
+      "line_key": "loki24b"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki25",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki_thought2",
+      "line_key": "loki_thought2b",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki26",
+      "line_key": "loki26b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki27",
+      "line_key": "loki27b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lefiya18",
+      "line_key": "lefiya18b"
+    },
+    {
+      "type": "paragraph",
+      "key": "lefiya19",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki28",
+      "line_key": "loki28b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p452"
+        },
+        {
+          "text_key": "p453"
+        },
+        {
+          "text_key": "p454"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "eina1",
+      "line_key": "eina1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki29",
+      "line_key": "loki29b"
+    },
+    {
+      "type": "paragraph",
+      "key": "loki30",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "eina2",
+      "line_key": "eina2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "eina3",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tiona15",
+      "line_key": "tiona15b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tiona16",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p459"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "eina4",
+      "line_key": "eina4b"
+    },
+    {
+      "type": "paragraph",
+      "key": "eina5",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "everyone_surprise",
+      "line_key": "everyone_surpriseb"
+    },
+    {
+      "type": "paragraph",
+      "key": "p462"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "loki31",
+      "line_key": "loki31b"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line16",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "p463"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p464a"
+        },
+        {
+          "character": "silverback",
+          "name_key": "silverback_name",
+          "img": "Silverback.png"
+        },
+        {
+          "text_key": "p464b"
+        },
+        {
+          "text_key": "p465"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p466"
+        },
+        {
+          "text_key": "p467"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p468"
+        },
+        {
+          "text_key": "p469"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p470"
+        },
+        {
+          "text_key": "p471"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell_thought1",
+      "line_key": "bell_thought1b",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p472"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia67",
+      "line_key": "hestia67b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p473"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell50",
+      "line_key": "bell50b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p474"
+        },
+        {
+          "text_key": "p475"
+        },
+        {
+          "text_key": "p476"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p477"
+        },
+        {
+          "text_key": "p478"
+        },
+        {
+          "text_key": "p479"
+        },
+        {
+          "text_key": "p480"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell51",
+      "line_key": "bell51b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia68",
+      "line_key": "hestia68b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell52",
+      "line_key": "bell52b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell_thought2",
+      "line_key": "bell_thought2b",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p481"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia69",
+      "line_key": "hestia69b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell53",
+      "line_key": "bell53b"
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST -  Argonaut.mp3",
+      "title_key": "audio_title12"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia70",
+      "line_key": "hestia70b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p482"
+        },
+        {
+          "text_key": "p483"
+        },
+        {
+          "text_key": "p484"
+        },
+        {
+          "text_key": "p485"
+        }
+      ]
+    },
+    {
+      "type": "stat_box",
+      "title_key": "bell_status_title3",
+      "stats_key": "status_update",
+      "stats_style": "pre-line"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_thought7",
+      "line_key": "hestia_thought7b",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "hestia_thought8",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p486"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p487"
+        },
+        {
+          "text_key": "p488"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia71",
+      "line_key": "hestia71b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p489"
+        },
+        {
+          "text_key": "p490"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell_thought3",
+      "line_key": "bell_thought3b",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p491"
+        },
+        {
+          "text_key": "p492"
+        },
+        {
+          "text_key": "p493"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p494"
+        },
+        {
+          "text_key": "p495"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p496"
+        },
+        {
+          "text_key": "p497"
+        },
+        {
+          "text_key": "p498"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p499"
+        },
+        {
+          "text_key": "p500"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p501"
+        },
+        {
+          "text_key": "p502"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p503"
+        },
+        {
+          "text_key": "p504"
+        },
+        {
+          "text_key": "p505"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p506"
+        },
+        {
+          "text_key": "p507"
+        },
+        {
+          "text_key": "p508"
+        },
+        {
+          "text_key": "p509"
+        },
+        {
+          "text_key": "p510"
+        },
+        {
+          "text_key": "p511"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p512"
+        },
+        {
+          "text_key": "p513"
+        },
+        {
+          "text_key": "p514"
+        },
+        {
+          "text_key": "p515"
+        },
+        {
+          "text_key": "p516"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p517"
+        },
+        {
+          "text_key": "p518"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p519"
+        },
+        {
+          "text_key": "p520"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p521"
+        },
+        {
+          "text_key": "p522"
+        },
+        {
+          "text_key": "p523"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p524"
+        },
+        {
+          "text_key": "p525"
+        },
+        {
+          "text_key": "p526"
+        },
+        {
+          "text_key": "p527"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p528"
+        },
+        {
+          "text_key": "p529"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell_thought4",
+      "line_key": "bell_thought4b",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p530"
+        },
+        {
+          "text_key": "p531"
+        },
+        {
+          "text_key": "p532"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p533"
+        },
+        {
+          "text_key": "p534"
+        },
+        {
+          "text_key": "p535"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia72",
+      "line_key": "hestia72b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell54",
+      "line_key": "bell54b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia73",
+      "line_key": "hestia73b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora183",
+      "line_key": "sora183b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p536"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia_bell_surprise",
+      "line_key": "hestia_bell_surpriseb"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell55",
+      "line_key": "bell55b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora184",
+      "line_key": "sora184b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora185",
+      "line_key": "sora185b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell56",
+      "line_key": "bell56b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell56c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora186",
+      "line_key": "sora186b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora186c",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell57",
+      "line_key": "bell57b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell58",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora187",
+      "line_key": "sora187b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sora188",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia74",
+      "line_key": "hestia74b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora189",
+      "line_key": "sora189b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora190",
+      "line_key": "sora190b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell59",
+      "line_key": "bell59b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hestia75",
+      "line_key": "hestia75b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p537"
+    },
+    {
+      "type": "paragraph",
+      "key": "p538"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_title",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p1",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_h1",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p12",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p13",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p14",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_h2",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p15",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p16",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p17",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p18",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p19",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p20",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p21",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p22",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_h3",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p23",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "author_note_p24",
+      "style": "bold"
+    }
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "chapter_list": "Liste des chapitres :",
+  "project_title": "Fate Genesis",
+  "chapter_title": "Chapitre 03 : Kick the Rock!",
+
+  "p1a": "Voici une scène comme nul autre monde – le nôtre ou un autre – n’en a jamais connue. Une rue, déserte à l’exception de quatre êtres. Une ligne invisible semble tracée, divisant le groupe en deux camps. D’un côté, la chose la plus rapide et la plus cool sur deux jambes : ",
+  "sonic_name": "Sonic The Hedgehog",
+  "p1b": ". À ses côtés, son meilleur ami et acolyte, ",
+  "tails_name": "Miles « Tails » Prower",
+  "p1c": ", le renard à deux queues. Face à eux, la minuscule maîtresse de la Guerre du Saint Graal : ",
+  "illya_name": "Illyasviel von Einzbern",
+  "p1d": ". Et à ses côtés…",
+
+  "berserker_roar": "« RAAARGH ! »",
+  "audio_title1": "GUN Mobile - Sonic Adventure 2 [OST]",
+  
+  "p2a": "Rugit ",
+  "berserker_name": "Berserker",
+  "p2b": " en abattant son épée sur le duo dynamique. Sonic bondit sur le côté, entraînant Tails avec lui pour éviter d’être écrasés par la lame de pierre. L’arme s’écrasa contre le bitume, la force de l’impact creusant une fissure dans le sol. Une seconde à peine plus tard, Sonic s’élança depuis l’endroit où il avait laissé Tails, formant une boule tournoyante fonçant droit sur Berserker. Son mouvement était si rapide que le Servant, ivre de rage, ne le vit même pas venir.",
+  
+  "sfx_bam": "BAM !",
+  "p3": "Le corps de Sonic trembla alors qu’il frappait le front de Berserker pied en avant. Mais l’Esprit Héroïque ne réagit pas le moins du monde. Après un instant, Sonic retomba sur la chaussée, apparemment paralysé.",
+
+  "tails1": "Tails : Sonic !",
+  "tails1b": "S’écria Tails, paniqué.",
+
+  "sonic1": "Sonic : Aïe, aïe, aïe… okay, aïe…",
+  "p4": "Marmonna Sonic en se frottant les jambes tout en se redressant tant bien que mal. Il entendit un bruit de précipitation et s’éclipsa juste à temps pour éviter la nouvelle frappe de Berserker, qui s’écrasa une fois de plus sur la chaussée. Il dut alors s’écarter de nouveau alors que Berserker chargeait. Et encore. Et encore.",
+  
+  "p5a": "C’était comme une redite de son affrontement avec ",
+  "lancer_name": "Lancer",
+  "p5b": " autour du Gae Bolg, le Servant tentant en vain d’atteindre Sonic, mais avec quelques différences cruciales. Premièrement, le Servant avait toujours son arme. Deuxièmement, le poids considérable de Berserker signifiait que leur jeu du chat et de la souris causait bien plus de dégâts à la rue que celui avec Cú Chulainn. Le sol tremblait comme sous des tirs de mortier. Mais la différence la plus frappante, c’était la certitude grandissante chez Sonic que si Berserker mettait la main sur lui, même les Anneaux de Pouvoir ne suffiraient pas à le sauver.",
+
+  "illya1": "Illya : Il te faudra bien plus que ça pour battre mon Berserker !",
+  "illya1b": "Lança Illya avec une moquerie joyeuse.",
+  "illya2": "Illya : Après tout, il est la légende de la Grèce Antique : c'est le puissant Héraclès !",
+
+  "sonic_thought1": "Sonic : Adieu l’idée de viser son talon.",
+  "sonic_thought1b": "Pensa Sonic en glissant entre les jambes de Berserker.",
+
+  "p6": "Rebondissant sur un lampadaire, Sonic frappa le dos de Berserker. Le Servant, déjà légèrement penché par un précédent coup, chancela légèrement… avant de se redresser et de se tourner pour lancer un regard noir à Sonic. Il se jeta de nouveau sur le hérisson, qui, une fois encore, disparut de sa ligne de mire. Une seconde plus tard, le lampadaire n’était plus.",
+  "p7": "Tails observait le spectacle, stupéfait par toute la destruction causée.",
+
+  "tails2": "Tails : Oh, mince ! Ça devient sérieux !",
+  "tails2b": "Dit-il, inquiet en regardant autour de lui.",
+  "tails3": "Tails : J’espère que les autorités ne vont pas débarquer…",
+
+  "p8": "Illya avait dû l’entendre, car elle lança en riant :",
+  "illya3": "Illya : Oh, tu n’as pas à t’inquiéter d’une quelconque intervention de non-mages, Monsieur le Renard ! J’ai déjà dressé un Champ de Limite pour les tenir à l’écart. Et je ne ressens aucun autre Maître dans les parages.",
+  "illya3b": "Ajouta-t-elle en chantonnant.",
+  "illya4": "Illya : Vous êtes tout seuls~ !",
+
+  "p9": "Tails déglutit, puis se mit à bondir légèrement quand une autre attaque manquée de Berserker fit trembler le sol. Sonic était trop rapide pour se faire toucher, mais chaque échec rendait Berserker encore plus furieux. Et plus il s’énervait, plus ses coups gagnaient en puissance. Avec le temps, même un coup qui frôlait sa cible pourrait être dévastateur.",
+  "p10": "Sonic atterrit près de Tails, haletant.",
+
+  "sonic2": "Sonic : Okay, là ça marche pas.",
+  "p11": "Puis, élevant la voix, il cria :",
+  "sonic3": "Sonic : Temps mort !",
+
+  "p12": "Incroyablement, Berserker s’arrêta net. Sur le côté, Illya pencha la tête, intriguée.",
+  "illya5": "Illya : Quoi ? Qu’est-ce qu’il y a ?",
+  "sonic4": "Sonic : J’ai juste une question, dit Sonic. Ton Herculoïde, là, tu l’envoies chasser les gens ou un truc du genre ?",
+
+  "p13": "Illya fit la moue, les joues gonflées d’un air adorable.",
+  "illya6": "Illya : Fuuuh ! Ne sois pas méchant ! Je ne suis pas une pauvre Mage avec des Circuits pourris ! Je suis la Maîtresse la plus forte avec le Servant le plus fort ! Je n’ai pas besoin d’envoyer Berserker comme le Maître de Lancer ou celui de Rider !",
+
+  "sonic5": "Sonic : C’est tout ce que je voulais savoir.",
+  "sonic5b": "Dit Sonic en attrapant Tails par le bras.",
+  "sonic6": "Sonic : À plus !",
+
+  "p14": "Et en un éclair, ils avaient disparu, ne laissant derrière eux qu’un nuage de poussière. Bien que la nuit rende la chose difficile à distinguer, un point de plus en plus petit se dessinait à l’horizon. Illya et Berserker clignèrent des yeux, incapables de comprendre ce qu’il venait de se passer.",
+  "p15": "Puis Illya comprit.",
+
+  "illya7": "Illya : Hé ! Revenez ici ! cria-t-elle, furieuse.",
+  "p16": "Se tournant vers Berserker, elle pointa du doigt la route.",
+  "illya8": "Illya : Poursuis-les, Berserker !",
+  
+  "p17": "Berserker ne prit même pas la peine d’acquiescer. Le sol sous ses pieds se fissura sous la pression lorsqu’il s’élança à la poursuite des héros en fuite. À chaque pas, une nouvelle fissure apparaissait, comme si un marteau-piqueur s’abattait sur la route.",
+  "illya9": "Illya : …Hé, attendez-moi !",
+  "illya9b": "S’écria la Maîtresse des Einzbern, courant après son Servant, tout en démontrant un vocabulaire bien trop avancé pour son âge apparent.",
+
+  "audio_title2": "Sonic Adventure 2 [OST] - Escape From the City (Instrumental)",
+
+  "p18": "Plus loin, Tails s’efforçait de garder sa prise sur le Mile Électrique avec sa main libre, tandis que Sonic le tirait par l’autre bras. Bien qu’il fût difficile de percevoir quoi que ce soit à cette vitesse, il crut entendre un bruit derrière lui. Prenant son courage à deux mains, il jeta un coup d’œil par-dessus son épaule… et vit Berserker foncer droit sur eux !",
+  "p19": "Bien que Sonic soit plus rapide, le Servant fou possédait une foulée bien plus longue, et n’avait nul besoin de contourner les obstacles. Les précieuses secondes que Sonic passait à sauter par-dessus les bornes incendie ou à contourner les boîtes aux lettres permettaient à l’Esprit Héroïque de réduire l’écart.",
+
+  "tails4": "Tails : Sonic, il nous rattrape !",
+  "tails4b": "Cria Tails, paniqué.",
+
+  "p20": "Sonic grogna.",
+  "sonic7": "Sonic : Évidemment. Bon, voilà le plan : je vais occuper Bizarro-clès. Toi, tu t’envoles et tu cherches un chantier.",
+  "p21": "Tails acquiesça. Même s’il était encore un peu inquiet, le simple fait que Sonic n’abandonne pas lui redonna courage. Alors qu’il commençait à faire tournoyer ses membres éponymes pour s’élever, il dit :",
+
+  "tails5": "Tails : On resynchronise nos comms avant que j’y aille !",
+  "sonic8": "Sonic : Ouais !",
+  "sonic8b": "Répondit Sonic, en relevant son gant et celui de Tails, révélant des bracelets ressemblant à des montres, avec de petits écrans et haut-parleurs. Il appuya sur les boutons, et une minute plus tard, un joyeux Bip retentit.",
+
+  "p22": "Tails s’envola aussitôt, adressant un signe de la main à Sonic avant de s’éloigner. Berserker ne jeta même pas un regard au renard qui s’échappait. Son esprit, diminué par une rage qui ne lui appartenait pas entièrement, n’était concentré que sur une seule chose : le Hérisson.",
+
+  "berserker_thought1": "Rattraper le hérisson.",
+  "berserker_thought2": "Attraper le hérisson.",
+  "berserker_thought3": "Écraser le hérisson !",
+
+  "audio_title3": "Fate/stay night OST - Ie nu Kizuato",
+
+  "p23a": "Alors que cette course-poursuite à grande vitesse et à hauts enjeux – entre la vie et la mort – battait son plein, ",
+  "shirou_name": "Shirou",
+  "p23b": " et ",
+  "saber_name": "Saber",
+  "p23c": ", eux, marchaient tranquillement en direction du domaine Emiya. Seul leur rythme était détendu, cependant. Dans leurs esprits, les questions se bousculaient tandis qu’ils tentaient de déterminer la marche à suivre pour la Guerre, surtout maintenant qu’ils savaient que la ville risquait d’être attaquée par des robots géants. Ils avaient eu de la chance que le premier soit apparu de nuit, dans une zone relativement déserte. Cela aurait été un désastre si le combat avait eu lieu en plein jour. Même si, en soi, un robot n’était pas susceptible de révéler l’existence de la magie, il leur aurait été impossible de se battre en public.",
+
+  "p24": "Et puis il y avait ce robot lui-même. Enorme, dangereux, capable même de mettre Saber en garde. Shirou savait que, sans l’Anneau de Pouvoir que Sonic lui avait prêté, il aurait été tué sur le coup. Le jeune maître jeta un coup d’œil à Saber, qui marchait à ses côtés, le visage neutre. Elle avait l’air indifférente, mais Shirou soupçonnait qu’elle réfléchissait aux dangers que représentaient les robots. Il ne voulait pas qu’elle se mette encore en danger. Pas pour lui.",
+  "p25": "Avant qu’il puisse exprimer ses inquiétudes, Saber prit la parole.",
+
+  "saber1": "Saber : Shirou, j’aimerais te demander quelque chose.",
+  "shirou1": "Shirou : Hein ?",
+
+  "saber2a": "Saber : Si ce ",
+  "eggman_name": "Dr. Eggman",
+  "saber2b": " envoie une autre machine à l’attaque, je veux que tu n’interviennes pas.",
+  "saber2c": "Dit-elle.",
+  "saber3": "Saber : La prochaine fois qu’un robot apparaît, je veux que tu t’enfuies. Ne te mets pas en danger.",
+
+  "p26": "Shirou la regarda sans rien dire. Comment pouvait-elle lui demander ça ? Après tout ce qu’elle risquait pour lui ! Mais avant qu’il ne réponde, un léger bourdonnement attira son attention. En levant les yeux, il aperçut une silhouette orange qui volait dans le ciel nocturne.",
+
+  "shirou2": "Shirou : C’est… Tails ?",
+  "shirou2b": "Demanda-t-il en pointant du doigt.",
+
+  "p27": "Saber leva aussi les yeux, et grâce à ses sens surhumains, elle reconnut immédiatement le renard à deux queues.",
+  "saber4": "Saber : Tails !",
+  "p28": "Pendant un instant, on aurait dit que le renard ne les avait pas entendus. Puis, il se retourna et descendit à leur hauteur.",
+
+  "tails6": "Tails : Saber ! Shirou !",
+  "tails6b": "Disait Tails.",
+  "tails7": "Tails : Vite, vous savez s’il y a un chantier de construction dans le coin ?",
+
+  "p29": "Shirou fut déconcerté par la question, autant que par le ton affolé de Tails.",
+  "shirou3": "Shirou : Euh… je crois qu’il y a un immeuble en construction à l’est d’ici, mais pourquoi tu veux savoir ?",
+
+  "saber5": "Saber : Il s’est passé quelque chose ?",
+  "saber5b": "Demanda Saber.",
+  "saber6": "Saber : Où est Sonic ?",
+
+  "tails8": "Tails : C’est justement ça le problème !",
+  "tails8b": "Répondit Tails en repartant aussitôt.",
+  "tails9": "Tails : Sonic se bat contre un Servant ! Un monstre géant appelé Berserker !",
+
+  "shirou_thought1": "Shirou : Berserker !",
+  "p30": "Horrifié, Shirou s’élança à la suite de Tails.",
+
+  "shirou4": "Shirou : Tails, attends ! Saber, on… !",
+  "shirou4b": "Mais en se retournant vers sa Servant, il vit qu’elle était déjà en mouvement.",
+
+  "p31": "Saber savait qu’une confrontation était inévitable, mais elle n’aurait jamais cru que sa revanche contre Berserker arriverait aussi vite. Ce n’était pas comme si elle était pressée de combattre à nouveau ce Servant monstrueux. Ni elle, ni Rin, ni Archer n’avaient encore mis au point de stratégie pour contrer la puissance divine d’Héraclès, leur attention ayant été détournée par l’apparition de Sonic et de ses alliés. Il était bien trop tôt pour envisager une nouvelle bataille contre le Servant des Einzbern. Cela dit, ils ne pouvaient pas non plus laisser Sonic affronter seul ce colosse. Revêtant de nouveau son armure, la chevalière accéléra encore le pas pour suivre Tails.",
+
+  "p32": "Sonic, de son côté, était tombé dans une routine. Sans Tails pour le ralentir un tant soit peu, le hérisson avait plus de facilité à maintenir ses distances avec Berserker. Sa vitesse surhumaine était telle que même les longues foulées du Servant ne suffisaient pas à combler l’écart. Mais la puissance d’un Servant ne provenait pas uniquement de sa légende – la force de son Maître devait aussi être prise en compte. Un Servant ne se contentait pas d’être invoqué par son Maître : ce dernier lui fournissait aussi le mana nécessaire pour activer son Noble Phantasm, voire simplement pour exister. Ce qui rendait la classe Berserker si dangereuse, c’est qu’elle consommait du mana sans interruption, au point de tuer parfois son propre Maître en l’épuisant totalement.",
+  "p33": "Mais Illya était une tout autre catégorie de Maître. Elle avait été conçue par la famille Einzbern pour traiter la quantité maximale de mana qu’un être humain pouvait supporter. Et elle possédait un tel niveau de maîtrise qu’elle contrôlait parfaitement son Servant. Berserker n’avait donc pas à s’inquiéter pour son énergie. Ce n’était qu’une question de temps avant que Sonic ne s’épuise et tombe à la merci du géant… qui n’en avait aucune.",
+  "p34": "Mais Sonic, lui, n’était pas du genre à attendre sagement que ça arrive. Grâce à son affrontement précédent – une course-poursuite improvisée contre Lancer – il avait déjà une bonne connaissance du plan de la ville, et une idée commençait à germer dans son esprit. En prenant un virage rapide, il quitta la rue pour s’engager sur un chemin dans un parc. Il passa à toute allure près d’une poubelle, la heurtant légèrement en attrapant quelque chose qui dépassait du couvercle. Berserker la renversa d’un coup de pied. Jetant un œil à la peau de banane qu’il avait récupérée, Sonic fut satisfait – bien que légèrement écœuré – de voir qu’elle était suffisamment pourrie. Repérant une rampe d’escalier en pente, Sonic mit son plan à exécution. Il laissa tomber la peau de banane, fonça jusqu’en haut des marches, et se baissa.",
+  "p35": "S’il avait été invoqué comme un véritable Servant à Fuyuki, Sonic aurait eu une compétence Chance de rang B, voire A+, car, contre toute probabilité, Berserker marcha droit sur la peau de banane. En temps normal, cela n’aurait fait trébucher quelqu’un qu’un bref instant, mais l’élan de Berserker l’envoya littéralement dans les airs. Il vola au-dessus de la tête de Sonic et dégringola les escaliers. Berserker rugit et fulmina en tombant. S’il n’avait pas été consumé par la rage, le héros Héraclès aurait pu retrouver son équilibre sans difficulté. Mais la force de la classe Berserker était aussi sa faiblesse : elle donnait une puissance incommensurable au Servant, au prix de sa raison. En se débattant, Berserker arracha la rampe en pierre alors qu’il tentait de se retenir, s’enroulant involontairement dans les barres métalliques.",
+  "p36": "Sonic observa tout cela sans grande émotion.",
+
+  "sonic9": "Sonic : Je dois me faire vieux… le gag de la peau de banane était plus drôle avant.",
+  "sonic9b": "Commenta-t-il.",
+  "p37": "Un énorme fracas se fit entendre, suivi de l’alarme d’une voiture. Sonic grimaça.",
+  "sonic10": "Sonic : J’espère qu’elle était assurée…",
+
+  "p38": "Son communicateur émit un bip.",
+  "sonic11": "Sonic : Tails ?",
+
+  "tails10": "Tails : Sonic ! J’ai trouvé un chantier de construction ! Suis le GPS jusqu’à ma position !",
+  "tails10b": "Lança la voix de Tails par le petit haut-parleur.",
+  "sonic12": "Sonic : Bien reçu. À tout de suite.",
+
+  "p39": "L’écran afficha une flèche qui tourna sur elle-même avant de pointer dans une direction précise. Sonic leva les yeux vers cette direction et hocha la tête. Avant de s’élancer, il jeta un dernier regard vers le bas et vit Berserker le fixer avec fureur, s’étant extirpé des restes de ce qui avait été une Toyota. Sonic adressa un salut moqueur au héros enragé avant de repartir à toute vitesse. Berserker, sans perdre une seconde, se remit à sa poursuite.",
+
+  "p40": "CCS : Convenient Construction Site — ou Chantier Opportun, pour les bilingues. Pour un combattant débrouillard sans la moindre arme, un chantier de construction pouvait transformer même le plus déséquilibré des combats en une lutte à armes égales. Marteaux-piqueurs, bétonnières, poutres d’acier… Et dans une grande ville, il y avait toujours un projet de construction en cours. Et la nuit, la sécurité y était pratiquement inexistante. C’est pourquoi personne ne s’étonna en voyant débarquer un renard à deux queues.",
+  "p41": "Tails jeta un rapide coup d'œil autour de lui et fut soulagé de constater que tout ce dont lui et Sonic auraient besoin pour neutraliser Berserker avait été laissé à l’abandon, comme souvent. Mais il allait devoir tout mettre en place lui-même. Lorsqu’il vit Shirou et Saber arriver, le petit renard était déjà en train de tirer des sacs de ciment à travers le terrain.",
+
+  "shirou5": "Shirou : Qu’est-ce qu’il fait ?",
+  "shirou5b": "Demanda Shirou.",
+  "saber7": "Saber : Je ne saurais le dire avec certitude.",
+  "saber7b": "Répondit Saber, déjà vêtue de son armure.",
+  "saber8": "Saber : Mais si je devais deviner, je dirais qu’il prépare un piège. Un guerrier avisé sait se servir du terrain à son avantage.",
+
+  "p42": "Pourtant, malgré ce qu’ils s’étaient dit la veille, Saber ne pouvait s’empêcher de penser que Sonic sous-estimait le pouvoir d’un Servant — surtout lorsqu’il s’agissait de ce Servant. Des pièges aussi rudimentaires n’auraient guère d’effet sur Berserker ; au mieux, ils ne feraient que l’énerver davantage.",
+
+  "saber9": "Saber : Shirou, va aider Tails, ordonna Saber en invoquant son épée. Je resterai en alerte, au cas où un ennemi surviendrait.",
+  "p43": "Shirou acquiesça.",
+  "shirou6": "Shirou : D’accord. Combien de temps à ton avis avant que quelqu’un ne débarque ?",
+  "p44": "Saber ferma brièvement les yeux, percevant déjà une présence menaçante se rapprocher. Elle soupira.",
+  "saber10": "Saber : Aucun.",
+
+  "p45": "Tous deux se retournèrent pour voir un immense nuage de poussière se lever à l’horizon, accompagné d’un grondement sourd qui faisait vibrer le sol. En quelques secondes, Sonic le Hérisson fit son apparition. Il franchit d’un bond le duo, atterrit près d’un distributeur d’eau, s’y servit une rapide gorgée, puis fonça vers Tails.",
+
+  "sonic13": "Sonic : Besoin d’un coup de main, petit ?",
+  "sonic13b": "Demanda-t-il.",
+  "p46": "Tails : Sonic ! Tails balaya le chantier du regard.",
+  "tails11": "Tails : Qu’est-ce qui s’est passé ? Où est Berserker ?",
+
+  "p47": "Un fracas monumental lui répondit à sa place.",
+  "p48": "Déglutissant, le renard se tourna lentement vers la source du bruit. Berserker venait d’arriver — ou plus précisément, venait de détruire une section entière de la clôture du chantier pour faire son entrée. Devant lui se tenaient Saber et Shirou, à la fois tendus et confus. Mais surtout confus. Car Berserker, malgré sa posture menaçante, avait visiblement connu une mauvaise chute : plusieurs morceaux de verre et de métal étaient coincés dans sa chevelure, et une étiquette \"Large Gabarit\" était collée en plein sur son torse.",
+
+  "tails12": "Tails : Euh, nouvelle question… Qu'est ce qu'il lui est arrivé ?",
+  "tails12b": "Fit Tails en le désignant.",
+  "tails13": "Tails : Il est tombé sur une voiture, c’est ça ?",
+
+  "sonic14": "Sonic : À peu près.",
+  "sonic14b": "Confirma Sonic.",
+
+  "p49": "Berserker sembla l’avoir entendu, car il braqua sur Sonic ses yeux rouges comme les flammes de l’Enfer, concentrant toute sa rage meurtrière dans un seul regard d’une intensité infernale. Puis il leva sa gigantesque épée de pierre — à l’extrémité de laquelle était maintenant empalé un panneau STOP — et fonça en rugissant. Sonic eut tout juste le temps de pousser Tails et de bondir sur le côté pour éviter l’impact du coup.",
+  "p50": "Le sac de ciment, en revanche, n’avait ni réflexes ni jambes.",
+  "sfx_pwash": "PWASH !",
+  "p51": "Un nuage de poussière grise enveloppa Berserker, ne laissant visibles qu’un instant ses terrifiants Yeux Rouges de la Damnation©. Cet instant passa, et le Servant fou surgit du ciment en rugissant, prêt à fondre de nouveau sur Sonic.",
+
+  "saber11": "Saber : Terrrrya !",
+  "saber11b": "Hurla Saber en se jetant dans la mêlée.",
+
+  "audio_title4": "Fate/Stay Night Unlimited Blade Works - Saber Vs Berserker Theme",
+
+  "p52": "La chevalière s’interposa entre Sonic et l’avalanche de muscles qu’était Berserker. Son épée invisible rencontra la gigantesque lame de pierre du colosse, et l’air lui-même sembla se fissurer sous l’impact. Saber savait que si elle tentait de bloquer le coup de plein fouet, elle risquait de perdre son épée… voire son bras. Elle opta donc pour une parade, réussissant à détourner partiellement la frappe. Elle conserva ses deux bras et sa lame, mais la violence du choc la projeta en arrière. Elle parvint malgré tout à rester debout, les pieds glissant sur le gravier du chantier.",
+  "p53": "Plus loin, Shirou se précipitait vers Tails, l’aidant à se remettre sur pied.",
+
+  "shirou7": "Shirou : Tu vas bien ?",
+  "shirou7b": "Demanda le jeune mage.",
+
+  "tails14": "Tails : Sh-Shirou ?",
+  "tails14b": "Tails cligna des yeux.",
+  "tails15": "Tails : Mais… qu’est-ce que tu fais ici ?",
+
+  "p54": "Shirou jeta un coup d’œil inquiet vers la zone de combat.",
+  "shirou8": "Shirou : J’essaie… d’aider, je suppose.",
+
+  "p55": "Berserker, lui, n’avait pas cessé son assaut. À chaque coup, son épée rugissait à travers l’air comme un météore. Sonic et Saber devaient esquiver sans relâche. Et esquiver. Et encore esquiver. Chaque attaque était si puissante que même lorsqu’elle manquait sa cible, elle soulevait des bourrasques de vent.",
+  "p56": "Mais cette force brute, aussi terrifiante soit-elle, était une arme à double tranchant.",
+  "p57": "Saisissant une ouverture, Saber fit un pas de côté et abaissa sa lame invisible vers les jambes de Berserker. Elle savait que cela ne suffirait pas à blesser un tel monstre… mais combiné à l’élan démentiel de l’ennemi…",
+  "p58": "Touché !",
+  "p59": "Sa tactique fonctionna, Berserker trébucha sur la lame de Saber. Le choc faillit lui faire échapper son épée, mais le sacrifice en valait la peine. Voir le plus puissant Servant de la Guerre du Saint Graal perdre l’équilibre, ne serait-ce qu’un instant, était une victoire en soi.",
+  "p60": "Saber se prépara à frapper, profitant de cette brève ouverture.",
+  "p61": "Mais avant qu’elle n’ait le temps d’agir, Berserker effectua une roulade vers l’avant et se redressa en appui sur ses mains, utilisant la force de sa chute pour se propulser à nouveau debout. En une seconde à peine, il fonçait déjà sur elle.",
+  "p62": "Ce fut alors qu’un éclair bleu fonça entre eux.",
+  "p63": "Sonic, dans un éclair de vitesse, attrapa Saber au vol et l’éloigna de l’attaque juste à temps. Berserker tenta de suivre…",
+  "p64": "…et s’écrasa au sol.",
+  "p65": "Quelque chose enserrait ses jambes. Une chaîne.",
+  "p66": "Il se débattit furieusement pendant plusieurs secondes, grognant comme un démon furieux, avant de rompre les maillons comme on déchire du papier.",
+  "p67": "Mais ce bref moment de confusion donna à l’équipe une précieuse seconde de répit.",
+
+  "sonic15": "Sonic : Mince, c’étaient de bonnes chaînes, en plus !",
+  "sonic15b": "Grogna Sonic en aidant Saber à se relever. Il leva les yeux vers elle.",
+  "sonic16": "Sonic : Tu as une idée ?",
+
+  "saber12": "Saber : Oui.",
+  "saber12b": "Répondit Saber en prenant position.",
+  "saber13": "Saber : Cours. Je vais retenir Berserker pendant que tu emmènes Tails et Shirou—",
+
+  "sonic17": "Sonic : Okay, ça n’arrivera pas pour deux raisons.",
+  "sonic17b": "L’interrompit Sonic.",
+  "sonic18": "Sonic : Un, il nous faut déjà deux personnes rien que pour distraire grand, sombre et moche. Tu ne peux pas le gérer toute seule. Et deux, je vais pas juste te laisser là, toute seule.",
+
+  "saber14": "Saber : C’est mon combat, Sonic.",
+  "saber14b": "Insista Saber.",
+  "saber15": "Saber : Ce sont les Servants qui doivent se battre.",
+
+  "sonic19": "Sonic : Peut-être.",
+  "sonic19b": "Admit Sonic.",
+  "sonic20": "Sonic : Mais à moins que ton plan soit autre chose que “le frapper très fort”, je vois pas comment tu comptes le battre. Qu’est-ce qui l’empêcherait de te pulvériser et de foncer ensuite sur nous ?",
+
+  "p68": "Saber serra les dents. Elle détestait l’admettre, mais elle n’avait pas vraiment de plan. Ce Berserker n’était pas un adversaire qu’on pouvait vaincre seul ou avec des tactiques ordinaires. Son seul espoir était de le retenir suffisamment longtemps pour permettre aux autres de fuir. C’était un maigre espoir. Un espoir minuscule.",
+
+  "illya10": "Illya : Hee hee—HAH—hee ! Vous voyez maintenant ?",
+  "p69": "Une petite silhouette chancelante entra sur le chantier. C’était quelqu’un que nos héros avaient déjà croisé, mais quelque chose avait changé. Ses cheveux blancs étaient emmêlés, son visage si mignon ruisselait de sueur. Ses bras pendaient mollement le long de son corps. Affaiblie, Illya se traîna jusqu’à une pile de bois et s’écroula sur une planche.",
+
+  "illya11": "Illya : Mon Berserker est… PFFF… le plus fort des Servants !",
+  "illya11b": "Tenta-t-elle de se vanter entre deux halètements, mais la douleur fut trop forte, et elle s’allongea sur le dos.",
+  "illya12": "Illya : Je vais juste… rester couchée ici pendant qu’il vous tue…",
+
+  "shirou_thought2": "Shirou : Elle est venue jusqu’ici à pied ?",
+  "shirou_thought2b": "Pensa Shirou en chargeant un autre sac de ciment.",
+
+  "p70": "Tails lui avait expliqué son plan pour vaincre Berserker, mais il doutait encore que cela fonctionne. Ça ressemblait à un truc tout droit sorti d’un anime.",
+  "p71": "Mais rien d’autre ne semblait marcher contre ce monstre. Alors la seule autre option était…",
+  "p72": "Illya.",
+  "p73": "Shirou savait que pour qu’un Servant puisse exister dans ce monde, il avait besoin d’un apport constant en mana de la part de son Master. Donc, la manière la plus simple de vaincre un Servant serait de couper cette source. Autrement dit… tuer le mage.",
+  "p74": "Illya était épuisée. Son Servant occupé ailleurs. Même un amateur à moitié formé comme Shirou pourrait en profiter.",
+  "p75": "Mais le ferait-il ?",
+  "p76": "Illya sentit le regard de Shirou sur elle, et comprit aussitôt à quoi il pensait.",
+
+  "illya_thought1": "Illya : Tu vas saisir cette chance, Grand Frère ? Es-tu vraiment…",
+  "illya_thought1b": "Un goût amer monta en elle.",
+  "illya_thought2": "Illya : L’apprenti choisi par ",
+  "kiritsugu_name": "Kiritsugu",
+  "illya_thought3": " ?",
+  "illya_thought4": "Illya : …Son fils préféré ?",
+
+  "p77": "Tout cela semblait si simple. Une solution rapide à tant de problèmes. Et Shirou le savait.",
+
+  "tails16": "Tails : Shirou ! Arrête de rêvasser et aide-moi !",
+  "tails16b": "Cria Tails.",
+
+  "p78": "…Et il savait aussi qu’il ne pourrait jamais tomber aussi bas. Illya, à ses yeux, n’était qu’une enfant — certes troublante — mais une enfant tout de même. Jamais il ne pourrait attaquer une fille dans cet état. Mage ou non, elle n’était pas en état de se défendre. Il savait que c’était naïf. Excessivement naïf. Mais c’était ainsi.",
+  "p79": "Alors, il serra les dents et aida Tails avec son plan farfelu, se demandant s’il n’y avait pas autre chose qu’il pouvait faire pour aider…",
+
+  "p83": "Alors que cette danse des plus dangereuses se poursuivait, une autre rencontre allait avoir lieu de l'autre côté de la ville.",
+  "p84a": "L’équipe Archer poursuivait tranquillement son retour vers le manoir Tohsaka, totalement inconsciente de ce dans quoi l’équipe Saber s’était engagée… ni de ce qui essayait de piétiner l’équipe Sonic.",
+  "p84b": "Cela dit, leur promenade n’avait rien d’une escapade paisible. Les récents événements avaient mis les nerfs de ",
+  "rin_name": "Rin",
+  "p84c": " à rude épreuve, et sans ennemi immédiat sur qui déverser sa frustration, elle s’en prenait sans retenue à son Servant. De son côté, ",
+  "archer_name": "Archer",
+  "p84d": ", savait que Rin râlait simplement pour évacuer la pression, et il faisait de son mieux pour à la fois l’ignorer et rester attentif à leur environnement. L’attaque du robot géant avait peut-être suffi à faire fuir Rider, mais cela ne signifiait pas que la ville était sûre. Bien au contraire : l’apparition de machines de guerre venues d’ailleurs donnait au Servant toutes les raisons de redoubler de prudence.",
+
+  "rin1": "Rin : …Et pourquoi tu trimballes tout ce tas de ferraille avec toi ?",
+  "rin1b": "Conclut Rin avec agacement, jetant un regard méprisant au sac que portait Archer.",
+
+  "archer1": "Archer : C’est de la récupération.",
+  "archer1b": "Répondit calmement le Servant. Il pressentait qu’ils auraient cette discussion plusieurs fois.",
+  "archer2": "Archer : Nous en aurons besoin pour réparer l’avion.",
+
+  "p85": "Le sac contenait en réalité de nombreuses pièces — engrenages, circuits imprimés et autres éléments technologiques provenant du robot qui avait attaqué le lycée Homurahara. Archer, avec un peu d’aide de Shirou, s’était servi avec plaisir dans les décombres — ce n’était pas tous les jours qu’on pouvait looter un appareil extraterrestre. Mais surtout, il pensait que ces pièces pourraient servir à achever la réparation du Tornado, l’avion de Tails. Bien que ses innombrables années en tant que Contre-Gardien lui aient donné la personnalité d’une vieille souche d’arbre, il appréciait encore les petites choses de la vie, comme cuisiner ou bricoler.",
+  "p86": "Mais rien de tout cela ne l’empêchait de garder à l’esprit une chose essentielle :",
+
+  "archer3": "On les suivait.",
+  
+  "archer4": "Archer : Et puis, imagine être la première Mage à avoir un véhicule alien dans son jardin.",
+  "archer4b": "Lança Archer d’un ton détaché. Et, par télépathie :",
+  
+  "archer_thought1": "Archer : Quelqu’un nous observe. Ne réagis pas. Continue à parler normalement.",
+  
+  "p87": "Rin, à son crédit, joua le jeu à la perfection.",
+
+  "rin2": "Rin : Je ne veux pas de cette horreur rugissante réparée, Archer. Tu te souviens qu’elle a failli réduire ma maison en miettes ?",
+  
+  "rin_thought1": "Rin : Un familier, tu penses ?",
+
+  "archer5": "Archer : C’était un accident, Rin.",
+  "archer5b": "Répliqua-t-il en posant le sac au sol. Il commença à fouiller dedans comme si de rien n’était.",
+  "archer6": "Archer : Comme la magie, la technologie n’est aussi efficace que la personne qui la manie. Prends ceci, par exemple.",
+  "archer6b": "Il sortit un morceau de métal tordu et coupant.",
+  "archer7": "Archer : Avec la bonne application… ce débris peut devenir une arme redoutable.",
+
+  "p88": "Sans prévenir, Archer jeta le morceau de métal de toutes ses forces en direction des 7 heures. Le projectile s’envola vers une ruelle obscure et percuta une série de poubelles dans un vacarme tonitruant.",
+  "p89": "L’effet fut immédiat : la silhouette qui les observait bondit hors de sa cachette et atterrit en plein milieu de la rue.",
+
+  "audio_title5": "Sonic Adventure 2 OST - Kick The Rock! Wild Canyon (Instrumental)",
+
+  "knuckles_name": "Knuckles The Echidna",
+  "p90": " serra les poings et lança un regard noir au duo Servant/Master qui se tenait devant lui.",
+
+  "rin3": "Rin : Encore un autre !",
+  "rin3b": "Cria Rin, en se tendant.",
+
+  "archer_thought2": "Archer : C’est sûrement Knuckles.",
+  "archer_thought2b": "Pensa Archer, se détendant légèrement.",
+
+  "p91": "Ce fut une grosse erreur. Knuckles fonça sur eux, le poing déjà en mouvement. Archer attrapa Rin et la tira hors du chemin, permettant au poing hérissé de piques de frapper le trottoir sans les toucher.",
+
+  "sfx_crac": "CRAC !",
+
+  "p92": "…Même si, étant donné la taille des fissures qui apparaissaient autour de l’impact, le terme « inoffensif » était sujet à débat. Knuckles, quant à lui, n’avait visiblement subi aucun dégât.",
+
+  "rin4": "Rin : Hé ! C’était pour quoi, ça !?",
+  "rin4b": "Hurla Rin.",
+  "rin5": "Rin : Qu’est-ce qu’on t’a fait !?",
+
+  "p93": "Knuckles se redressa et prit une position de boxe.",
+  "knuckles1": "Knuckles : Je sais ce que vous préparez pour Sonic et Tails. Pas question que je laisse qui que ce soit contrôler mes amis ! Je ne sais pas quelle guerre vous menez, mais vous pouvez nous oublier tout de suite !",
+
+  "p94": "Archer comprit rapidement où Knuckles voulait en venir.",
+  "archer_thought3": "Archer : Oh, non. Il croit qu’on est les méchants.",
+  "p95": "Rin le comprit aussi.",
+
+  "rin6": "Rin : Non, non, non, tu te trompes complètement, mon petit gars en rouge.",
+  "rin6b": "Dit-elle en prenant une expression amicale et avenante.",
+  "rin7": "Rin : Tu vois, on est amis avec ces gars-là. Pourquoi tu ne viendrais pas avec nous ? On t’emmènera voir Sonic.",
+
+  "p96": "Knuckles resta de marbre. Il se rappela ce que ",
+  "caster_name": "Caster",
+  "p96b": " lui avait dit plus tôt…",
+
+  "caster_flashback1": "Caster : Oh ? Tu sors quelque part ?",
+  "caster_flashback1b": "Demanda la femme au manteau.",
+  "p97": "Knuckles acquiesça.",
+  "knuckles_flashback1": "Knuckles : C’est ça. Je dois retrouver les Chaos Emeralds si je veux rentrer chez moi. Mes amis sont aussi quelque part.",
+  "caster_flashback2": "Caster : Hmmmm… Je te souhaite bonne chance, alors.",
+  "caster_flashback2b": "Répondit Caster.",
+  "caster_flashback3": "Caster : Si tu trouves quelqu’un, n’hésite pas à l’amener ici.",
+  "caster_flashback3b": "Dit-elle avec un sourire sinistre que Knuckles ne remarqua pas.",
+  "caster_flashback4": "Caster : Je serais plus que ravie de leur offrir l’asile.",
+  "p98": "Knuckles cligna des yeux, puis sourit.",
+  "knuckles_flashback2": "Knuckles : D’accord, je m’en souviendrai.",
+  "caster_flashback5": "Caster : Oh… encore une chose. Il y a beaucoup de gens dangereux en ville en ce moment… certains n’hésiteront pas à profiter d’une âme gentille comme la tienne…",
+
+  "p99": "En gardant cela à l’esprit, Knuckles répondit donc :",
+  "knuckles2": "Knuckles : Ouais, c’est ça, comme si j’allais tomber dans le panneau. Vous me prenez pour un débile ou quoi ?",
+
+  "p100": "Rin serra les dents.",
+  "rin_thought2": "Rin : Évidemment que le troisième serait tout aussi difficile à gérer. Mais cette fois, je suis prête.",
+  "p101": "Se concentrant, elle lança un sort d’hypnose en direction de Knuckles… qui fut immédiatement repoussé.",
+  "rin_thought3": "Rin : Quoi !? Ça ne marche pas !?",
+  
+  "p102": "Knuckles fonça de nouveau, et cette fois, Archer se jeta sur sa trajectoire. Il projeta ses épées Kansho et Bakuya, les croisant pour bloquer le poing de Knuckles avec le côté émoussé des lames. À sa grande surprise, il sentit la force du coup le repousser en arrière.",
+
+  "archer_thought4": "Archer : Bon sang, il est super fort !",
+  "archer_thought4b": "Pensa l’archer.",
+
+  "p103": "Rin, elle, s’inquiétait pour d’autres raisons.",
+  "rin_thought4": "Rin : Pourquoi le sort n’a-t-il pas fonctionné ? Est-ce qu’il a une immunité naturelle à la magie… ou bien…",
+
+  "p104": "Au Temple Ryuudou, la Servant Caster observait l’affrontement entre Knuckles et Archer à travers sa boule de cristal.",
+
+  "caster_thought1": "Caster : Ho ho ho, bien tenté, Maîtresse d’Archer.",
+  "caster_thought1b": "Pensa la sorcière, triomphante.",
+  "caster_thought2": "Caster : J’ai déjà mis Knuckles sous mon contrôle ! Mais de toute façon, je doute que tu aurais réussi. Il a une résistance magique impressionnante, ce Knuckles. Je me demande si c’est lié à ces Émeraudes… ou au fait qu’il vienne d’un autre monde…",
+
+  "p105": "Caster ne doutait pas une seconde du récit de Knuckles. Tandis que les Mages modernes auraient été sceptiques face à ses affirmations, elle, non. Elle venait d’une époque où les Dieux foulaient encore la terre, et savait que de telles choses étaient possibles. Et le pouvoir qu’elle avait ressenti lors de l’apparition des étrangers… il ne pouvait être nié.",
+  "p106": "C’était une grande chance que Knuckles soit tombé directement sur le seuil de son sanctuaire. Elle avait pu le soumettre dès qu’il s’était endormi. Malheureusement, sa chance s’était arrêtée là. Ses divinations lui avaient montré que les autres venus d’ailleurs avaient déjà été découverts par d’autres Maîtres. Saber et son Maître, en particulier, semblaient avoir établi un lien avec celui nommé Sonic.",
+
+  "caster_thought3": "Caster : Ce n’est pas bon...",
+  "caster_thought3b": "Songea Caster.",
+
+  "p107": "Sonic était déjà suffisamment fort et rapide pour se battre à armes égales avec un Servant. Et avec ces Anneaux de Pouvoir, il était quasiment immunisé aux coups mortels. Et s’il possédait la même résistance à la magie que Knuckles, le soumettre à sa volonté serait presque impossible. Elle soupçonnait d’ailleurs que la seule raison pour laquelle elle avait réussi avec l’Échidné, c’était sa naïveté naturelle. Sonic, lui, semblait plus méfiant. Elle devrait être très prudente avec lui.",
+
+  "caster_thought4": "Caster : Mais si Knuckles trouvait une de ces Chaos Emeralds et me la ramenait…",
+  "caster_thought4b": "Caster sourit.",
+
+  "p108": "Archer bondit pour éviter une nouvelle charge de Knuckles, et l’Échidné frappa un lampadaire de son poing, le faisant tomber. En plein saut, Archer lança Kansho, espérant renverser Knuckles avec le côté émoussé de l’épée. Peine perdue. Knuckles repoussa l’arme d’un coup de poing ! Grâce à la connexion magnétique entre les deux lames, Kansho retourna automatiquement dans la main de l’Archer, qui réfléchissait déjà à ses options.",
+
+  "archer_thought5": "Archer : Si Rin n’a pas encore réussi à le contrôler, alors sa résistance magique doit être supérieure à ce que sa magie peut gérer.",
+  "archer_thought5b": "Pensa l'archer.",
+
+  "p109": "Et puisqu’il n’écoute pas la raison, la seule solution, c’est de le mettre K.O. Mais avec quoi ? Archer avait une multitude d’épées à disposition — si l’on considérait sa capacité à matérialiser n’importe quelle arme conservée dans sa mémoire — mais la plupart des armes anciennes qu’il pouvait projeter étaient du genre « tuer l’ennemi d’un coup ». Et aussi tentant que cela puisse être de balancer une attaque fatale sur Knuckles, Archer savait qu’il s’attirerait des remarques de la part des « gardiens de la morale ».",
+  "archer_thought6": "Archer : Dommage que je n’aie jamais trouvé de dague de soins dans ma vie.",
+
+  "p110": "Rin était confrontée à un dilemme similaire. Les sorts qu’elle avait stockés dans ses gemmes étaient principalement offensifs, et depuis l’affrontement avec Berserker, elle avait essayé d’y emmagasiner de quoi abattre un éléphant. (Vu sa chance, cela rendrait sans doute le géant chatouilleux.) Elle ne possédait aucune magie curative capable d’inverser les dégâts que ses gemmes pouvaient causer. Et il y avait la possibilité que Knuckles ait un de ces Anneaux de Pouvoir, ce qui rendrait ses tirs inefficaces. Ce serait donc gaspiller un sort précieux, et les joyaux de qualité pour la magie des Tohsaka n’étaient pas bon marché.",
+  "p111": "Pire encore, la bagarre finirait immanquablement par attirer l’attention d’autres Servants et Maîtres. Et dans ce cas, deux scénarios étaient envisageables : 1) ils pourraient intervenir et compliquer encore plus le combat, ou 2) en profiteraient pour espionner et analyser les capacités d’Archer. Et dans la Guerre du Graal, l’information pouvait faire la différence entre la vie et la mort. Avec un peu de chance, Sonic pourrait entendre le grabuge et venir calmer les ardeurs de Knuckles… mais la chance était devenue une denrée rare ces derniers temps.",
+  "p112": "Mais la chance est parfois étrange… surtout dans cet univers. Knuckles sourit, et lança :",
+
+  "knuckles3": "Knuckles : Je pourrais faire ça toute la journée — mais j’ai des Émeraudes à trouver. Faites-nous une faveur, et tenez-vous loin de Sonic, ou de mes autres amis !",
+
+  "p113": "Sur ce, Knuckles se baissa, se recroquevilla sur lui-même… et (à la grande stupeur d’Archer et de Rin) se mit à tournoyer sur place ! L’Échidné fonça ensuite dans la nuit à toute vitesse, disparaissant sans laisser de traces.",
+
+  "rin8": "Rin : Il peut faire ça aussi !?",
+  "rin8b": "S’écria Rin, stupéfaite.",
+
+  "archer8": "Archer : On dirait bien.",
+  "archer8b": "Répondit Archer.",
+
+  "p114": "Il ne dématerialisa pas ses épées, mais bondit à sa poursuite… sans parvenir à le retrouver. En renforçant sa vue, il aperçut un trou tout frais plus loin sur la route.",
+
+  "archer9": "Archer : Il a dû descendre dans les égouts. Tu veux que j’aille le chercher ?",
+  "p115": "Rin soupira et s’adossa à un mur.",
+
+  "rin9": "Rin : Non, laisse tomber. On a eu de la chance qu’il nous attaque alors qu’on était seuls. Si on le pourchasse, on risque d’attirer plus d’attention. On va avoir besoin de ce fichu hérisson si on veut le calmer. Rentrons au manoir et élaborons un plan.",
+  "p116": "Elle espérait simplement que le trajet de Shirou jusqu’à chez lui se passerait, au moins, dans le calme.",
+
+  "shirou_thought3": "Shirou : C’est probablement la nuit la moins paisible jusqu’à présent...",
+  "shirou_thought3b": "Pensa Shirou en chargeant le dernier sac de ciment dans le camion.",
+
+  "p117": "Et le pire, c’est qu’il avait le sentiment que les nuits à venir seraient encore moins tranquilles.",
+
+  "tails17": "Tails : Ok, je pense qu’on en a assez.",
+  "tails17b": "Appela Tails.",
+  "tails18": "Tails : Maintenant, il ne reste plus qu’à démarrer ce vieux machin et— Euh, oh oh.",
+
+  "shirou9": "Shirou : Qu’est-ce qu’il y a ?",
+  "shirou9b": "Demanda Shirou, accourant vers la cabine du camion, inquiet.",
+
+  "tails19": "Tails : Il n'y a pas de clé ! Je vais devoir le démarrer en le bidouillant. Attends un peu.",
+
+  "p118": "Shirou n’avait aucune idée de comment un renard pouvait démarrer un véhicule sans clé, mais alors qu’il jetait un regard vers les Servants et Sonic, il se dit qu’il aurait aimé savoir le faire lui-même. Observer Sonic et Saber virevolter autour de Berserker mettait ses nerfs à rude épreuve. Il détestait ne pas pouvoir aider. Mais il savait qu’il n’avait ni la vitesse ni la technique pour suivre un tel monstre. Sa petite rencontre avec la hache de pierre la nuit dernière lui avait servi de bonne leçon. Et il n’était pas pressé de se faire tailler en pièces une nouvelle fois. Cela dit, il devait bien y avoir quelque chose qu’il puisse faire. Rester à l’écart, c’était ce qu’il détestait le plus.",
+  "p119": "Le bruit d’un moteur rugissant le sortit de ses pensées.",
+
+  "tails20": "Tails : Ok, on est prêts à y aller !",
+  "tails20b": "Cria Tails.",
+  "tails21": "Tails : Maintenant, faut juste amener Berserker à l’endroit prévu. Essaie d’attirer leur attention !",
+
+  "p120": "Shirou hocha la tête et se mit à agiter les bras dans la direction de ceux qui combattaient Berserker. Enfin, \"combattre\" était un bien grand mot. Sonic se débrouillait plutôt bien pour rester hors de portée, mais uniquement parce qu’il ne s’arrêtait jamais, tandis que les charges de Berserker impliquaient de défoncer tout ce qui se trouvait sur son chemin avant de devoir se relever. Quant à Saber, bien qu’elle n’eût ni la vitesse ni la force brute des deux autres, elle compensait par son expérience et son instinct guerrier pour anticiper les mouvements de Berserker… même si le fait que ce dernier ne lui prêtait même plus attention lui facilitait quelque peu la tâche.",
+  "p121": "En vérité, le combat avait dégénéré en une énième partie de Chat et de la Souris : Édition Guerre du Graal©. Et surtout, les deux \"joueurs\" de cette partie étaient bien trop occupés à esquiver une mort violente pour remarquer quoi que ce soit que Shirou pouvait faire. Le jeune mage comprit cela après avoir agité les bras pour la troisième fois.",
+
+  "shirou_thought4": "Shirou : Je pourrais crier...",
+  "shirou_thought4b": "Pensa Shirou.",
+  "shirou_thought5": "Shirou : Mais je doute qu’ils m’entendent. Et s’ils m’entendent, Illya risquerait de comprendre qu’on prépare quelque chose et de prévenir Berserker. Il faut que je trouve un moyen d’attirer leur attention sans éveiller les soupçons…",
+  "shirou_thought6": "Shirou : Eh bien, Sonic sait probablement ce qu’on prépare. Je ne serais même pas surpris si c’était lui qui avait imaginé ce plan depuis le départ. Et Saber pourrait en capter l’idée. Si seulement j’avais un sort pour envoyer un signal...",
+
+  "p122": "Et c’est là que l’esprit de Shirou se rappela ce que Sonic avait dit la nuit dernière…",
+  "p123": "Le visage de Sonic s’illumina. :",
+  "sonic_flashback1": "Sonic : Ça, c’est stylé ! Tu claques des doigts si t’as besoin d’un truc et pouf, il est là ?",
+
+  "p124": "Projection… Est-ce que ça valait le coup d’essayer de nouveau ? Et qu’allait-il créer ? L’image d’un arc apparut dans l’esprit de Shirou. Il avait l’air sombre, inquiétant même, mais cela restait un arc. Shirou ne savait pas trop pourquoi ce genre d’image lui venait en tête — ni s’il réussirait à l’invoquer correctement.",
+  "p125": "Un autre fracas le ramena à la réalité : Berserker venait encore d’échouer de peu. Et au vu des traces laissées sur le terrain, ses coups ratés devenaient de moins en moins ratés. Le combat commençait à peser sur Sonic et Saber, qui perdaient peu à peu en énergie, alors que la force de Berserker semblait, elle, inépuisable.",
+  "p126": "Sentant ses muscles se tendre, Shirou comprit qu’il ne pouvait plus hésiter. Il était temps d’agir. Tendant la main, il activa ses Circuits Magiques, espérant que cette fois le sort ne lui échappe pas comme la veille.",
+
+  "audio_title6": "Fate/Stay night [Unlimited Blade Works] OST - EMIYA",
+  "shirou_spell1": "Shirou : Trace on.",
+
+  "p127": "Cette sensation de moteur brûlant revint aussitôt, de même que cette douleur intense dans ses nerfs. Mais cette fois, elle était plus discrète, plus supportable. Au fond de lui, Shirou se demanda si c’était le signe que sa maîtrise s’améliorait… ou que ses nerfs devenaient insensibles. Quoi qu’il en soit, l’énergie commença à tourbillonner autour de sa main, se concentrant, prenant forme. Shirou chassa toutes distractions de son esprit, focalisant toute son attention sur l’image de l’arc.",
+
+  "tails22": "Tails : Shirou, qu’est-ce que tu— Whoa.",
+  "tails22b": "Tails s’interrompit en voyant ce qui se passait.",
+
+  "p128": "Ce que Shirou tenait était bien un arc… plus ou moins. Il en avait la forme, en tout cas. Mais ce n’était pas celui qu’il avait visualisé. L’arme avait trop d’arêtes, trop de pointes inutiles. On aurait dit un dessin d’enfant un peu trop enthousiaste.",
+  "shirou_thought7": "Shirou : Bien sûr qu’un amateur comme moi allait se planter.",
+  "shirou_thought7b": "Pensa Shirou.",
+  "shirou_thought8": "Shirou : J’espère juste que ça fonctionnera… !",
+
+  "p129": "Ramassant un tuyau abandonné sur le sol, Shirou chargea son « arc » et visa. L’arme était difficile à tenir, et il lui fallut quelques secondes pour ajuster sa prise, mais bientôt, il entra dans une sorte de transe : tout son esprit se focalisait sur sa cible. Même le bourdonnement léger dans ses nerfs et cette sensation de moteur brûlant dans son dos ne parvenaient pas à le distraire.",
+  "p130": "Shirou relâcha la corde, et le tuyau fusa en direction de Berserker. Il était évident que cela ne pourrait pas lui faire de mal. Cela *ne ferait* pas de mal. L’esprit héroïque d’Héraclès avait reçu la bénédiction des dieux : une peau invulnérable, un don hérité de sa filiation avec Zeus. Rien en dessous d’une attaque de rang A ne pouvait briser cette défense. Un simple tuyau, lancé depuis un arc imparfaitement projeté, c’était comme une mouche s’écrasant contre un mur de briques.",
+  "p131": "Mais même une mouche devient gênante si elle fonce dans un œil — tout comme le tuyau atteignit Berserker en plein visage. Il ne subit aucun dégât — rappelons-le, une mouche contre un mur — mais, comme n’importe quel être vivant, il n’aimait pas qu’on lui pique l’œil. Il attrapa le tuyau avant qu’il ne touche le sol et le tordit rageusement jusqu’à ce qu’il prenne une forme de nœud métallique. Pendant ces quelques précieuses secondes, Sonic et Saber tournèrent les yeux vers la provenance du tir et virent Shirou leur faire de grands gestes en direction du camion de ciment.",
+  "p132": "Pendant ce temps, Berserker finissait de torturer le pauvre tuyau en le compressant jusqu’à en faire une boule de métal froissée, qu’il jeta ensuite au loin. Un son discret de verre brisé retentit quelque part au loin, mais personne ne s’en préoccupa. Ce qui retenait toute l’attention, c’était le regard que Berserker posait maintenant sur Shirou ! Et vu l’intensité dans ses yeux, il avait parfaitement compris *qui* lui avait envoyé ce projectile dans l’œil.",
+  "p133": "Saber réagit la première. Elle savait que tenter de bloquer la charge du colosse était inutile, voire suicidaire. Elle frappa donc la rotule de Berserker avec la garde de son épée. Peu importait sa taille ou ses bénédictions divines, il avait toujours la morphologie d’un humain — relativement parlant. Le coup fit vaciller sa jambe, le déséquilibrant au moment même où il s’élançait. La chute fut spectaculaire : le mastodonte roula sur plusieurs mètres à travers le terrain, pour s’arrêter juste devant l’arrière du camion de ciment.",
+  "p134": "Avant qu’il n’ait le temps de se relever, Sonic bondit depuis les airs et s’écrasa sur son crâne. Le coup ne lui infligea aucune blessure, mais il eut pour effet de le clouer au sol quelques précieuses secondes de plus.",
+
+  "sonic21": "Sonic : Balance tout, Tails !",
+  "sonic21b": "Cria Sonic en sautant de la tête de Berserker.",
+
+  "p135": "Juste au moment où Berserker se redressait, un bruit de bip retentit. Il leva les yeux et vit que la bétonnière du camion se soulevait… et qu’une énorme quantité de béton liquide se déversait directement sur lui !",
+  "p136": "Alors que Berserker se débattait, tentant de se débarrasser du ciment poisseux, Sonic se mit à courir autour de lui à toute vitesse. C’était une technique qu’il utilisait souvent pour créer de petites tornades, généralement pour envoyer des robots valser. La tornade n’était pas assez puissante pour soulever un colosse comme Berserker, mais elle l’était suffisamment pour faire tourbillonner et répartir uniformément le béton sur lui. Avec l’aide du vent généré par la rotation supersonique du hérisson, il ne fallut que quelques secondes pour que le gigantesque Servant se retrouve totalement recouvert de ciment frais.",
+  "p137": "Une fois son œuvre terminée, Sonic s’arrêta et recula de quelques pas pour observer le résultat. Un silence tendu s’installa tandis que tous observaient la scène, en apnée. Saber tenait son épée prête, aux aguets.",
+  "p138": "Ils n’eurent pas à attendre longtemps.",
+  "p139": "Le monticule de ciment trembla… puis explosa violemment alors que Berserker jaillissait hors de sa prison improvisée.",
+
+  "sonic22": "Sonic : Awww, flûte !",
+  "sonic22b": "Grogna Sonic en se protégeant des éclats de béton.",
+  "sonic23": "Sonic : J’espérais vraiment que ça marcherait !",
+
+  "p140": "Illya éclata de rire.",
+  "illya13": "Illya : Hahaha ! Joli essai, le hérisson bleu ! Mais mon Berserker ne peut pas être vaincu par des astuces aussi simplistes ! Mais ne vous découragez pas encore, je veux que toi et Onii-chan continuiez à galérer un peu plus longtemps—",
+
+  "p141": "Elle fut coupée net lorsqu’un morceau de béton, projeté dans les airs par l’explosion, lui tomba en plein sur le crâne. Un énorme bleu commença à gonfler sur son front, ses yeux tournoyèrent, et Illya s’effondra au sol.",
+  "p142": "Alors que la poussière retombait, Berserker se redressa, imposant et terrifiant. Il jeta un regard vers Illya… et son expression, déjà sombre, devint carrément orageuse. Il tourna lentement la tête vers Sonic et le foudroya du regard.",
+
+  "sonic24": "Sonic : Hé, pour info, C’EST TOI qui as fait ça, hein, pas moi.",
+  "sonic24b": "Protesta Sonic, les mains levées.",
+
+  "p143": "Toujours aussi furieux, Berserker marcha jusqu’à l’endroit où gisait Illya. Puis, à la surprise générale, avec une délicatesse en totale contradiction avec sa classe, il la ramassa doucement, la cala dans ses bras… et s’en alla, sans un mot. Le sol tremblait à chacun de ses pas, mais Berserker n’adressa aucune attaque aux héros. Il s’arrêta une fois, à la limite du terrain, et leur lança un dernier regard lourd de menace, avant de disparaître dans la nuit.",
+  "p144": "Ce n’est qu’une fois qu’il fut hors de vue que tout le monde relâcha son souffle.",
+  "p145": "Ce que personne ne réalisa sur le moment, c’est que cette décision étonnamment lucide de Berserker — ramener Illya chez elle sans fracas — deviendrait plus tard la source d’une étrange rumeur à Fuyuki : la Légende du Néandertalien Porteur d’Enfant.",
+
+  "sonic25": "Sonic : Whoa… Qui aurait cru que Monsieur Grand, Sombre et Terrifiant cachait un côté tendre sous ses muscles indestructibles ?",
+  "sonic25b": "Lança Sonic avec un petit rire nerveux.",
+
+  "p146": "Saber poussa un soupir.",
+  "saber16": "Saber : Ce n’est pas drôle, Sonic. Nous avons frôlé la mort.",
+
+  "p147": "Malgré tout, elle ne pouvait s’empêcher de réfléchir à l’acte surprenant de Berserker. Les Servants de la classe Berserker étaient censés être pratiquement incontrôlables, incapables de s’arrêter tant que leur cible ne respirait plus. Est-ce qu’Illya, avec son immense pouvoir, avait réussi à insuffler à Berserker une priorité absolue pour sa sécurité, même au milieu du combat ?",
+
+  "tails23": "Tails : J’espère juste qu’il ne fera de mal à personne.",
+  "tails23b": "Ajouta Tails en sautant hors de la cabine du camion.",
+  "tails24": "Tails : Est-ce que tout le monde va bien ?",
+
+  "saber17": "Saber : Nous ne sommes pas gravement blessés.",
+  "saber17b": "Répondit Saber.",
+
+  "tails25": "Tails : Tant mieux.",
+  "tails25b": "Fit Tails en regardant autour de lui ce qui restait du chantier.",
+  "tails26": "Tails : Wouah, c’est un vrai champ de ruines.",
+
+  "sonic26": "Sonic : Tu m’étonnes.",
+  "sonic26b": "Rigola Sonic.",
+  "sonic27": "Sonic : Quelqu’un devrait dire à Berserker d’y aller mollo sur les dégâts collatéraux.",
+
+  "p148": "Shirou observait les décombres. En effet, même les attaques manquées de Berserker avaient fait d’énormes dégâts. Les piles de matériaux s’étaient éparpillées aux quatre vents. D’énormes fissures zébraient le sol là où sa lame s’était abattue. Le seul équipement encore en un seul morceau était la bétonnière. On aurait dit qu’une armée s’était acharnée sur le terrain avec des battes de baseball.",
+
+  "shirou10": "Shirou : On doit partir d’ici.",
+  "shirou10b": "Déclara le jeune Mage.",
+  "shirou11": "Shirou : Je n’ai pas pu ériger de champ de dissimulation, donc quelqu’un a sûrement entendu le combat et va venir voir.",
+
+  "sonic28": "Sonic : Bah, la nuit est encore jeune. Je vais faire un dernier tour en ville avant de rentre.",
+  "sonic28b": "Décida Sonic.",
+  "sonic29": "Sonic : Tails ?",
+
+  "tails27": "Tails : Ouais, une heure de plus, ça ne peut pas faire de mal.",
+  "tails27b": "Acquiesça Tails, avant de se tourner vers l’équipe de Saber.",
+  "tails28": "Tails : Vous deux, ça ira ?",
+
+  "saber18": "Saber : Nous serons bien.",
+  "saber18b": "Répondit Saber.",
+  "saber19": "Saber : Nous allons rentrer directement.",
+
+  "shirou12": "Shirou : O-oui.",
+  "p149": "Shirou espérait juste que ",
+  "taiga_name": "Taiga",
+  "p149b": " et ",
+  "sakura_name": "Sakura",
+  "p149c": " ne seraient pas trop en colère de le voir rentrer si tard…",
+
+  "sonic30": "Sonic : On fait comme ça.",
+  "sonic30b": "Acquiesça Sonic.",
+  "sonic31": "Sonic : Faites attention à vous. Allez, frérot, on y va !",
+
+  "p150": "Sonic s’élança au loin, suivi de près par Tails qui s’envola derrière lui. Une fois qu’ils furent hors de vue, les jambes de Saber flanchèrent. Elle s’effondra, son armure disparaissant pour laisser place aux ",
+  "p150b": "vetements civils",
+  "p150c": " que Rin lui avait prêtés. Shirou eut tout juste le temps de la rattraper.",
+
+  "shirou13": "Shirou : Saber !",
+  "shirou13b": "S’écria-t-il.",
+
+  "saber20": "Saber : Ce n’est rien.",
+  "saber20b": "Haleta-t-elle, d’une voix peu convaincante.",
+  "saber21": "Saber : Je suis juste... un peu fatiguée.",
+
+  "p151": "Shirou comprit aussitôt. Avec le peu de Mana qu’il était capable de lui fournir, Saber avait dû puiser dans ses propres réserves d’énergie. Après avoir enchaîné autant de combats — d’abord contre Rider, puis contre ce robot, et enfin contre Berserker —, c’était bien trop. Et elle n’avait même pas eu le temps de se remettre complètement de son affrontement contre Lancer !",
+  "p152": "Plutôt que de dire tout cela à voix haute, Shirou passa un bras sous ses épaules pour l’aider à marcher. Tandis qu’ils avançaient lentement, il sentit un pincement douloureux au cœur, un mélange d’insatisfaction et de frustration dirigée contre lui-même. Si seulement j’étais un peu plus fort…",
+
+  "p153": "À l’autre bout de la ville, Sonic et Tails volaient en silence, toujours un peu secoués par les événements récents.",
+
+  "tails29": "Tails : On s’en est sortis grâce à Shirou et Saber.",
+  "tails29b": "Fit remarquer Tails.",
+  "tails30": "Tails : Mais qu’est-ce qu’il en est de Knuckles ? À ma connaissance, il ne sait rien de cette \"Guerre du Saint Graal\".",
+
+  "sonic32": "Sonic : Tu l’as dit.",
+  "sonic32b": "Répondit Sonic avec gravité.",
+  "sonic33": "Sonic : Ce serait vraiment nul si un de ces Maîtres malfaisants mettait la main sur lui…",
+
+  "amy_name": "Amy",
+  "p154": " prit une gorgée de son thé.",
+
+  "amy1": "Amy : Donc, si j’ai bien compris, dans ce monde, vous avez des sorciers et des sorcières qui doivent rester cachés.",
+
+  "bazett_name": "Bazett",
+  "bazett1": "Bazett : Le terme exact est Mage.",
+  "bazett1b": "Corrigea ",
+  "p155": ".",
+  "bazett2": "Bazett : Et oui. L’art magique, ou Magecraft, doit rester secret. Les gens ordinaires n’ont pas le droit d’en entendre parler.",
+
+  "p156": "Amy et Bazett n’étaient plus à l’hôpital de Fuyuki. Bien que Bazett ne se soit pas encore complètement remise, elle estimait que rester là-bas avec sa nouvelle amie était devenu trop risqué. Elle avait peut-être réussi à hypnotiser tout le personnel médical pour qu’ils oublient l’existence d’Amy, mais il restait toujours un risque que quelqu’un finisse par remarquer son étrange présence, ce qui pourrait provoquer une réaction indésirable. En outre, Bazett souhaitait discuter de la situation avec la hérissonne rose en toute confidentialité. C’est pourquoi, en pleine nuit, elles s’étaient repliées dans l’hôtel que Bazett avait réservé à son arrivée à Fuyuki. Elle savait qu’elle devrait changer d’endroit bientôt — elle ignorait combien de temps elle pourrait rester hors du radar de Kotomine avant qu’il n’apprenne qu’elle était encore en vie —, mais elle espérait que toutes deux pourraient au moins profiter d’une nuit de répit.",
+
+  "amy2": "Amy : D’accord, d’accord…",
+  "amy2b": "Marmonna Amy.",
+  "amy3": "Amy : Et… donc il y a ce concours entre \"Mages\" qui consiste à invoquer des fantômes magiques…?",
+
+  "bazett3": "Bazett : On peut dire ça comme ça.",
+
+  "p157": "Contre tous les principes inculqués par l’Association des Mages, Bazett avait décidé de révéler à Amy les secrets de la Guerre du Saint Graal — tout du moins, dans les grandes lignes —, ne serait-ce que pour lui expliquer l’origine de ses blessures. Elle savait que c’était un pari risqué, mais elle se sentait redevable envers la hérissonne rose pour lui avoir sauvé la vie. Et puis, Amy comprendrait sans doute mieux la nécessité de rester cachée si elle avait connaissance de ce qui rôdait dans l’ombre. Il serait plus facile de la protéger si Amy acceptait d’elle-même de jouer le jeu. En échange, Amy avait raconté à Bazett comment elle était arrivée dans ce monde. Une semaine plus tôt, l’enquêtrice de l’Association aurait trouvé cette histoire complètement absurde… mais survivre à un bras tranché et à la mort elle-même avait fait beaucoup pour élargir son champ de crédibilité.",
+
+  "p158": "Amy reposa sa tasse.",
+  
+  "kotomine_name": "Kotomine",
+  "amy4": "Amy : Bon. Alors… où est-ce qu’on va pour trouver ce ",
+  "amy4b": ", déjà ?",
+
+  "p159": "Bazett cligna des yeux.",
+  "bazett4": "Bazett : Quoi ?",
+
+  "amy5": "Amy : Ton ami s’est fait enlever par ce type, non ?",
+  "amy5b": "Demanda Amy.",
+  "amy6": "Amy : Donc si tu veux le récupérer, on n’a qu’à…",
+
+  "p160": "Elle souleva alors un énorme marteau qu’elle posa sur son épaule.",
+  "amy7": "Amy : …aller lui faire passer l’envie de recommencer.",
+
+  "bazett_thought1": "Bazett : D’où sort-elle ce marteau !?",
+  "p161": "Bazett tenta de reprendre le contrôle de ses pensées… et de la tournure inattendue que prenait cette conversation.",
+
+  "bazett5": "Bazett : C’est… très gentil de ta part, mais Kotomine est un homme dangereux. Il était autrefois exécuteur pour la Branche de l’Église appelée l’Agence des Sépultures.",
+  "p162": "Devant l’air perdu d’Amy, elle ajouta :",
+  "bazett6": "Bazett : C’est la division spécialisée dans la chasse aux vampires.",
+
+  "amy8": "Amy : Oh, classe.",
+  "p163": "Bazett sentit poindre une migraine.",
+
+  "bazett7": "Bazett : Le fait est que ce n’est pas quelqu’un qu’on peut simplement frapper avec un gros marteau. C’est un combattant extrêmement redoutable.",
+
+  "amy9": "Amy : Oh, ne t’en fais pas pour moi.",
+  "amy9b": "Disait Amy en faisant tournoyer son marteau.",
+  "amy10": "Amy : J’ai déjà pas mal d’aventures à mon actif. Cette fille-devant toi a déjà détruit plus que sa part de robots tueurs. Alors, un prêtre expert en kung-fu ? Facile.",
+
+  "bazett_thought2": "Bazett : Tu serais surprise,",
+  "bazett_thought2b": "pensa Bazett, avant de dire :",
+  "bazett8": "Bazett : Écoute, je peux m’occuper de Kotomine toute seule. Tu n’as pas besoin de—",
+
+  "amy11": "Amy : Bien sûr que si !",
+  "amy11b": "La coupa Amy.",
+  "amy12": "Amy : On est amies, non ?",
+
+  "p164": "Bazett était stupéfaite.",
+  "bazett_thought3": "Bazett : Comment… comment peut-elle dire ça aussi naturellement ? On se connaît depuis moins d’une journée !",
+  "bazett_thought3b": "Essayant de contenir le mal de tête qui menaçait, elle dit :",
+
+  "bazett9": "Bazett : Et tes autres amis dont tu m’as parlé ? Tu ne veux pas les retrouver d’abord ?",
+
+  "amy13": "Amy : Bien sûr que si, mais ils savent se débrouiller ! Ces gars-là dévorent des armées de robots au petit déjeuner !",
+  "amy13b": "Fanfaronna Amy, avant de jeter à Bazett un regard inquiet.",
+  "amy14": "Amy : Mais ce Kotomine t’a presque tuée, pas vrai ? On dirait bien que tu pourrais avoir besoin d’un coup de main !",
+
+  "bazett10": "Bazett : Il m’a prise par surprise.",
+  "bazett10b": "Grogna Bazett.",
+
+  "amy15": "Amy : Et imagine comme ce sera plus difficile pour lui s’il y a quelqu’un pour surveiller tes arrières !",
+  "amy15b": "Ajouta Amy sans hésitation.",
+
+  "p165": "En plongeant son regard dans celui d’Amy Rose, Bazett comprit que rien, à part une hypnose, ne pourrait convaincre cette nouvelle alliée de rester tranquille et de ne pas se mêler des ennuis. Et Bazett avait déjà essayé l’hypnose plus tôt : la résistance naturelle d’Amy à la magie était trop élevée pour que Bazett puisse y parvenir — soit à cause de son récent flirt avec la mort, soit à cause du fait qu’Amy venait d’une autre dimension. Si elle avait été une chercheuse, Bazett aurait été intriguée et aurait tout fait pour disséquer Amy et découvrir ses secrets. Mais elle n’en avait pas le temps.",
+  "p166": "Soupirant, Bazett céda :",
+
+  "bazett11": "Bazett : Très bien… tu peux venir m’aider. Mais tu dois suivre mes instructions.",
+  
+  "bazett_thought4": "Bazett : Au moins comme ça, je pourrai la surveiller. J’espère juste que ça ne va pas me retomber dessus…",
+
+  "p167": "Amy hocha la tête.",
+  "amy16": "Amy : Tu ne le regretteras pas, Bazett ! On va botter les fesses de ce prêtre maléfique, sauver ton ami, et ensuite retrouver mon Sonic adoré !",
+
+  "bazett12": "Bazett : Comme ça, tout simplement ?",
+  "bazett12b": "Demanda Bazett, sarcastique.",
+
+  "amy17": "Amy : Tu parles ! En fait…",
+  "amy17b": "Amy prit un air songeur.",
+  "amy18": "Amy : Je ne serais même pas surprise que Sonic ait déjà mis Kotomine au tapis.",
+
+  "audio_title7": "Sonic X Music Eggmans Theme",
+
+  "eggman1": "Eggman : Il a été mis hors service ?",
+  "eggman1b": "Demanda le ",
+  "eggman1c": ".",
+
+  "p168": "Tout se passait pourtant très bien à bord de l’Egg Saucer. Sous la supervision d’Eggman (qui consistait surtout à hurler sur ses robots), toutes les réparations essentielles avaient été effectuées. Bien que la base mobile ne soit pas encore en état de reprendre les airs, elle ne risquait plus de couler dans l’océan. Et maintenant que les composants vitaux étaient réparés, Eggman pouvait envoyer ses Badniks restants capturer d’autres animaux pour les transformer en machines.",
+  "p169": "Puis il apprit qu’Arms ne reviendrait pas.",
+
+  "orbot_name": "Orbot",
+  "orbot1": "Orbot : Oui, monsieur.",
+  "orbot1b": "Répondit ",
+  "orbot1c": " en consultant son terminal.",
+  "orbot2": "Orbot : D’après ces relevés, Arms ne fonctionne plus.",
+
+  "eggman2": "Eggman : Hmm…",
+  "eggman2b": "Eggman se frotta le menton, pensif.",
+  "eggman3": "Eggman : C’est curieux. Aucun des bulletins d’information n’en a parlé. On remarquerait tout de même si un robot géant était détruit.",
+
+  "cubot_name": "Cubot",
+  "cubot1": "Cubot : Peut-être qu’ils gardent ça pour les périodes de grande audience ?",
+  "cubot1b": "Suggéra ",
+  "cubot1c": ".",
+
+  "eggman4": "Eggman : Les chaînes d’info n’ont pas de périodes de grande audience, andouille !",
+  "eggman4b": "Rugit Eggman, avant de pointer théâtralement Orbot du doigt.",
+  "eggman5": "Eggman : Où est-ce qu’Arms s’est écrasé, Orbot ?",
+
+  "p170": "Orbot tapa rapidement sur le clavier.",
+  "orbot3": "Orbot : Voici l’endroit où le signal d’Arms s’est interrompu, monsieur.",
+
+  "p171": "Sur l’écran principal apparut une carte de Fuyuki City. Un point lumineux s’alluma dans une des zones. L’ordinateur zooma sur la section, révélant un plan détaillé du lycée Homurahara. Devant le bâtiment principal clignotait une icône représentant la tête d’Eggman. Contrairement aux autres logos ornant ses machines, celui-ci pleurait.",
+  "p172": "Eggman joignit ses mains, les doigts entrelacés, un sourire maléfique aux lèvres.",
+
+  "eggman6": "Eggman : Alors… la Chaos Emerald serait là, hein ?",
+
+  "orbot4": "Orbot : En fait, on n’est pas certains qu’il y ait une Émeraude…",
+  "orbot4b": "Commença Orbot, mais fut interrompu par Eggman qui bondit de son siège.",
+
+  "eggman7": "Eggman : Maintenant que les réparations vitales de l’Egg Saucer sont terminées, rien ne me retient ici !",
+  "eggman7b": "Déclara-t-il en gesticulant.",
+  "eggman8": "Eggman : Je pars à la conquête du trésor ! Nous partons sur-le-champ !",
+
+  "cubot2": "Cubot : Mais… on n’était pas censés regarder des films de monstres ce soir ?",
+  "cubot2b": "Demanda Cubot.",
+  "cubot3": "Cubot : J’ai déjà fait le popcorn comme vous me l’aviez demandé.",
+
+  "p173": "Eggman baissa les yeux et vit qu’un grand bol de popcorn avait été posé à côté de son fauteuil de commandement. L’odeur du beurre fondu emplit ses narines, traversant même sa moustache sans peine. Après un instant de réflexion, Eggman se rassit et attrapa le bol.",
+
+  "eggman9": "Eggman : Très bien, nous partirons demain.",
+  "eggman9b": "Conclut le savant fou entre deux bouchées.",
+
+  "p174": "Alors que les lumières de la salle de commandement s’éteignaient, le plus grand écran s’alluma. Une voix féminine retentit :",
+
+  "movie_announce": "« À venir sur la chaîne de films obscurs : L’Attaque des Robots Diaboliques venus d’une Autre Dimension ! »",
+
+  "eggman10": "Eggman : Quelle prescience !",
+  "eggman10b": "Ricana Eggman, projetant quelques grains de maïs à moitié mâchés.",
+
+  "p175": "Orbot soupira et attrapa une balayette et une pelle.",
+  "orbot5": "Orbot : Je déteste quand il parle la bouche pleine…",
+
+  "tbc": "TO BE CONTINUED",
+
+  "audio_title8": "Fate/Stay Night Réalta Nua OST – Theme of Tiger Dojo",
+  "tiger_dojo": "Tiger Dojo :",
+
+  "taiga1": "Taiga : Jaillissant des profondeurs de la mer ! Descendant du ciel étoilé ! C’est le Tiger Dojo ! Bon retour parmi nous, les enfants ! Fujimura Taiga-sensei aux commandes !",
+  
+  "illya14": "Illya : (Avec un bandage sur la tête) Et l’élève numéro un, Illya ! Ugh… j’ai affreusement mal à la tête…",
+
+  "taiga2": "Taiga : Ça va, Illya-chan ? C’était un sacré choc que tu t’es pris dans l’histoire principale, quand même.",
+
+  "illya15": "Illya : Non, ça va ! Une petite blessure comme ça ne m’empêchera pas de sauver les gens de ton éducation à moitié bâclée !",
+
+  "taiga3": "Taiga : Très bien, élève numéro un, trè—Attends une seconde, c’était une insulte ça ! (Donne un coup à Illya)",
+
+  "illya16": "Illya : Aïe ! Espèce de monstre, frapper une pauvre blessée… !",
+
+  "taiga4": "Taiga : Et maintenant, notre première question nous vient de Vladimir-Spider :",
+  "taiga4b": "« Question à propos du Tracing de Shirou : pourra-t-il copier les anneaux ? Même si ce ne sont pas des épées, il est quand même capable de reproduire à peu près n’importe quoi, même si les épées sont plus simples pour lui. Il en va de même pour les Chaos Emeralds. Je veux dire, s’il peut reproduire Caliburn, qui est censée contenir une puissance bien supérieure à la sienne, alors je pense que reproduire n’importe quel objet ne devrait pas poser problème.",
+
+  "illya17": "Illya : Je doute que Onii-chan puisse faire un truc pareil. On n’a aucune idée de ce que sont vraiment les Chaos Emeralds ou les Anneaux de pouvoirs, après tout…",
+
+  "taiga5": "Taiga : Concernant la reproduction de Caliburn, ça a été un peu plus facile pour Shirou parce que son origine est « épée », et aussi parce qu’il a porté Avalon en lui pendant dix ans. Passons à la question suivante, posée par Element-Overlord. Hein ? Il nous a pas déjà écrit, celui-là ?",
+
+  "illya18": "Illya :",
+  "illya18b": "« Serait-il possible que Shirou ait une forme comme Super Sonic ?",
+  "illya18c": "Eh bah ! Y’a plein de gens qui s’intéressent à Onii-chan, tout à coup. Y’en a pas un seul qui se soucie de cette héroïne adorable que je suis ?",
+
+  "taiga6": "Taiga : Hm ! Un Super Shirou, hein ? Une telle chose pourrait être possible, si jamais on rassemblait les sept Émeraudes. Cependant ! Même si on ne peut ni confirmer ni nier l’apparition future d’un Super Shirou, j’ai ici une image d’un Super Illya !",
+
+  "illya19": "Illya : Vraiment ? Fais voir—Hé ! Mais c’est juste Prisma Illya, et quelqu’un a dessiné une boule de feu jaune autour !",
+
+  "taiga7": "Taiga : C’est tout pour aujourd’hui ! Continuez à nous soutenir en attendant le prochain chapitre ! À bientôt tout le monde !",
+
+  "chapter_prev": "<<< Précédent",
+  "chapter": "Chapitre 03 sur 30",
+  "chapter_next": "Suivant >>>"
+}

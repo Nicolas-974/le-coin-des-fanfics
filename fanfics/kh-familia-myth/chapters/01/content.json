@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "fanfic": "kh-familia-myth",
+    "chapter": 1,
+    "title_key": "chapter_title"
+  },
+  "content": [
+    { "type": "paragraph", "key": "disclaimer", "style": "bold" },
+    { "type": "paragraph", "key": "author_note1", "style": "bold" },
+    { "type": "paragraph", "key": "author_note2", "style": "bold" },
+    { "type": "paragraph", "key": "author_note3", "style": "bold" },
+    { "type": "paragraph", "key": "author_note4", "style": "bold" },
+    { "type": "paragraph", "key": "author_note5", "style": "bold" },
+    { "type": "paragraph", "key": "author_note6", "style": "bold" },
+    { "type": "paragraph", "key": "author_note7", "style": "bold" },
+    { "type": "paragraph", "key": "author_note8", "style": "bold" },
+    { "type": "paragraph", "key": "author_note9", "style": "bold" },
+    { "type": "paragraph", "key": "author_note10", "style": "bold" },
+    { "type": "paragraph", "key": "author_note11", "style": "bold" },
+    { "type": "paragraph", "key": "author_note12", "style": "bold" },
+    { "type": "paragraph", "key": "author_note13", "style": "bold" },
+    { "type": "paragraph", "key": "author_note14", "style": "bold" },
+    { "type": "paragraph", "key": "author_note15", "style": "bold" },
+
+    { "type": "separator" },
+
+    { "type": "paragraph", "key": "intro1" },
+    { "type": "paragraph", "key": "intro2" },
+    { "type": "paragraph", "key": "intro3" },
+
+    { "type": "separator" },
+
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "character": "bell", "name_key": "bell_intro", "img": "Bell_Cranel_DanMachi.png" },
+        { "text_key": "p1" }
+      ]
+    },
+    { "type": "paragraph", "key": "p2" },
+    { "type": "paragraph", "key": "p3" },
+    { "type": "paragraph", "key": "p4" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p5a" },
+        { "character": "minotaur", "name_key": "minotaur_name", "img": "Minotaur_Concept_Art.jpg" },
+        { "text_key": "p5b" }
+      ]
+    },
+    { "type": "paragraph", "key": "bell_scream", "style": "bold" },
+
+    { "type": "audio", "src": "Danmachi I OST - Minotaurus no Shitou.mp3", "title_key": "audio_title1" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p6a" },
+        { "text_key": "bell_name", "style": "bold" },
+        { "text_key": "p6b" }
+      ]
+    },
+    { "type": "paragraph", "key": "p7" },
+    { "type": "paragraph", "key": "p8" },
+    { "type": "dialogue", "speaker_key": "bell_thought1", "line_key": "bell_thought1b", "style": "italic" },
+    { "type": "paragraph", "key": "p9" },
+    { "type": "paragraph", "key": "p10" },
+    { "type": "paragraph", "key": "p11" },
+    { "type": "paragraph", "key": "p12" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p13a" },
+        { "text_key": "p13b" }
+      ]
+    },
+    { "type": "paragraph", "key": "p13c" },
+    { "type": "paragraph", "key": "p13d" },
+    { "type": "paragraph", "key": "p14" },
+    { "type": "dialogue", "speaker_key": "sora1", "line_key": "sora1b" },
+    { "type": "paragraph", "key": "p15" },
+    { "type": "dialogue", "speaker_key": "bell1", "line_key": "bell1b" },
+    { "type": "dialogue", "speaker_key": "sora2", "line_key": "sora2b" },
+    { "type": "dialogue", "speaker_key": "bell2", "line_key": "bell2b" },
+    { "type": "dialogue", "speaker_key": "bell3", "line_key": "bell3b" },
+    { "type": "dialogue", "speaker_key": "sora3", "line_key": "sora3b" },
+    { "type": "dialogue", "speaker_key": "sora3c" },
+    { "type": "paragraph", "key": "p16" },
+    { "type": "dialogue", "speaker_key": "bell4", "line_key": "bell4b" },
+    { "type": "dialogue", "speaker_key": "bell4c" },
+    { "type": "dialogue", "speaker_key": "sora4", "line_key": "sora4b" },
+    { "type": "dialogue", "speaker_key": "sora4c" },
+    { "type": "paragraph", "key": "p17" },
+    { "type": "dialogue", "speaker_key": "bell5", "line_key": "bell5b" },
+    { "type": "paragraph", "key": "p18" },
+    { "type": "paragraph", "key": "p19" },
+    { "type": "dialogue", "speaker_key": "sora5", "line_key": "sora5b" },
+    { "type": "paragraph", "key": "p20" },
+    { "type": "dialogue", "speaker_key": "bell6", "line_key": "bell6b" },
+    { "type": "paragraph", "key": "p21" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "sora6", "style": "bold" },
+        { "character": "sora", "name_key": "sora_name", "img": "Sora_KHIII.png" },
+        { "text_key": "sora6b", "style": "bold" }
+      ]
+    },
+
+    { "type": "separator" },
+    { "type": "paragraph", "key": "scene_break", "style": "bold-italic", "align": "center" },
+    { "type": "separator" },
+
+    { "type": "paragraph", "key": "p22" },
+    { "type": "paragraph", "key": "p23" },
+
+    { "type": "audio", "src": "DanMachi I OST - Meikyuu Toshi Orario.mp3", "title_key": "audio_title2" },
+    { "type": "paragraph", "key": "p24" },
+    { "type": "paragraph", "key": "p25" },
+    { "type": "dialogue", "speaker_key": "sora7", "line_key": "sora7b" },
+    { "type": "dialogue", "speaker_key": "bell7", "line_key": "bell7b" },
+    { "type": "paragraph", "key": "p26" },
+    { "type": "dialogue", "speaker_key": "sora8", "line_key": "sora8b" },
+    { "type": "paragraph", "key": "p27" },
+    { "type": "dialogue", "speaker_key": "bell_thought2", "line_key": "bell_thought2b", "style": "italic" },
+    { "type": "paragraph", "key": "p28" },
+    { "type": "dialogue", "speaker_key": "bell8", "line_key": "bell8b" },
+    { "type": "dialogue", "speaker_key": "sora9", "line_key": "sora9b" },
+    { "type": "paragraph", "key": "p29" },
+    { "type": "dialogue", "speaker_key": "bell9", "line_key": "bell9b" },
+    { "type": "paragraph", "key": "p30" },
+    { "type": "dialogue", "speaker_key": "sora10", "line_key": "sora10b" },
+    { "type": "paragraph", "key": "p31" },
+    { "type": "dialogue", "speaker_key": "bell_thought3", "line_key": "bell_thought3b", "style": "italic" },
+    { "type": "dialogue", "speaker_key": "bell10", "line_key": "bell10b" },
+    { "type": "paragraph", "key": "p32" },
+
+    { "type": "audio", "src": "DanMachi I OST - Boukenshatachi no Kyuusoku.mp3", "title_key": "audio_title3" },
+    { "type": "paragraph", "key": "p33" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "bell11a", "style": "bold" },
+        { "character": "eina", "name_key": "eina_intro", "img": "Eina_Tulle_Anime.png" },
+        { "text_key": "bell11b", "style": "bold", "break_after": true },
+        { "text_key": "bell11c" }
+      ]
+    },
+    { "type": "paragraph", "key": "p34" },
+    { "type": "dialogue", "speaker_key": "eina1", "line_key": "eina1b" },
+    { "type": "dialogue", "speaker_key": "eina2" },
+    { "type": "dialogue", "speaker_key": "bell12", "line_key": "bell12b" },
+    { "type": "dialogue", "speaker_key": "eina3", "line_key": "eina3b" },
+    { "type": "paragraph", "key": "p35" },
+    { "type": "dialogue", "speaker_key": "eina4", "line_key": "eina4b" },
+    { "type": "dialogue", "speaker_key": "eina5", "line_key": "eina5b" },
+    { "type": "dialogue", "speaker_key": "bell13", "line_key": "bell13b" },
+    { "type": "dialogue", "speaker_key": "eina6", "line_key": "eina6b" },
+    { "type": "dialogue", "speaker_key": "bell14", "line_key": "bell14b" },
+    { "type": "dialogue", "speaker_key": "sora11", "line_key": "sora11b" },
+    { "type": "dialogue", "speaker_key": "eina7" },
+    { "type": "paragraph", "key": "p36" },
+    { "type": "dialogue", "speaker_key": "sora12", "line_key": "sora12b" },
+    { "type": "dialogue", "speaker_key": "bell_eina_shock" },
+
+    { "type": "separator" },
+    { "type": "paragraph", "key": "scene_break", "style": "bold-italic", "align": "center" },
+    { "type": "separator" },
+
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p37" },
+        { "character": "hercules", "name_key": "hercules_name", "img": "Hercule_KHIII.png" },
+        { "text_key": "p37b" }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p38" },
+        { "character": "zeus", "name_key": "zeus_name", "img": "Zeus_KHIII.png" },
+        { "text_key": "p38b" },
+        { "character": "hades", "name_key": "hades_name", "img": "Hades_KHIII.png" },
+        { "text_key": "p38c" }
+      ]
+    },
+    { "type": "paragraph", "key": "p39" },
+    { "type": "dialogue", "speaker_key": "sora_thought1", "line_key": "sora_thought1b", "style": "italic" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p40" },
+        { "character": "kairi", "name_key": "kairi_name", "img": "Kairi_KHIII.png" },
+        { "text_key": "p40b" }
+      ]
+    },
+    { "type": "paragraph", "key": "xehanort_quote", "style": "bold-italic" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p41" },
+        { "character": "young-xehanort", "name_key": "young_xehanort_name", "img": "Jeune_Xehanort_KHIII.png" },
+        { "text_key": "p41b" },
+        { "character": "chirithy", "name_key": "chirithy_name", "img": "Chirithy_KHIII.png" },
+        { "text_key": "p41c" }
+      ]
+    },
+    { "type": "paragraph", "key": "p42" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p43" },
+        { "character": "yozora", "name_key": "yozora_name", "img": "Versus_Yozora_KHIIIRM.png" },
+        { "text_key": "p43b" }
+      ]
+    },
+    { "type": "paragraph", "key": "p44" },
+    { "type": "paragraph", "key": "p45" },
+    { "type": "paragraph", "key": "p46" },
+    { "type": "paragraph", "key": "p47" },
+    { "type": "paragraph", "key": "p48" },
+    { "type": "paragraph", "key": "p49" },
+    { "type": "paragraph", "key": "p50" },
+    { "type": "paragraph", "key": "p51" },
+    { "type": "paragraph", "key": "p52" },
+
+    { "type": "audio", "src": "DanMachi I OST - Yukai na Machikado.mp3", "title_key": "audio_title4" },
+    { "type": "paragraph", "key": "p53" },
+    { "type": "dialogue", "speaker_key": "bell15", "line_key": "bell15b" },
+    { "type": "dialogue", "speaker_key": "sora13", "line_key": "sora13b" },
+    { "type": "dialogue", "speaker_key": "bell16" },
+    { "type": "dialogue", "speaker_key": "sora14", "line_key": "sora14b" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p54" },
+        { "character": "donald", "name_key": "donald_name", "img": "Donald_KHIII.png" },
+        { "text_key": "p54b" }
+      ]
+    },
+    { "type": "dialogue", "speaker_key": "bell17", "line_key": "bell17b" },
+    { "type": "paragraph", "key": "p55" },
+    { "type": "dialogue", "speaker_key": "sora15", "line_key": "sora15b" },
+    { "type": "paragraph", "key": "p56" },
+    { "type": "dialogue", "speaker_key": "bell18", "line_key": "bell18b" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p57" },
+        { "text_key": "p57b" }
+      ]
+    },
+    { "type": "reveal_image", "img": "Hestia_full_body.png", "button_key": "btn_show_image" },
+    { "type": "dialogue", "speaker_key": "sora_thought2", "line_key": "sora_thought2b", "style": "italic" },
+    { "type": "paragraph", "key": "p58" },
+    { "type": "dialogue", "speaker_key": "hestia1", "line_key": "hestia1b" },
+    { "type": "dialogue", "speaker_key": "bell19", "line_key": "bell19b" },
+    { "type": "dialogue", "speaker_key": "sora16", "line_key": "sora16b" },
+    { "type": "paragraph", "key": "p59" },
+    { "type": "dialogue", "speaker_key": "hestia2", "line_key": "hestia2b" },
+    { "type": "dialogue", "speaker_key": "bell20", "line_key": "bell20b" },
+    { "type": "paragraph", "key": "p60" },
+    { "type": "dialogue", "speaker_key": "hestia3", "line_key": "hestia3b" },
+    { "type": "dialogue", "speaker_key": "bell21", "line_key": "bell21b" },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "hestia4", "style": "bold", "break_after": true },
+        { "text_key": "hestia4b", "break_after": true },
+        { "text_key": "hestia4c", "style": "bold" }
+      ]
+    },
+    { "type": "dialogue", "speaker_key": "sora17", "line_key": "sora17b" },
+    { "type": "dialogue", "speaker_key": "hestia5", "line_key": "hestia5b" },
+    { "type": "dialogue", "speaker_key": "sora18", "line_key": "sora18b" },
+    { "type": "dialogue", "speaker_key": "hestia6", "line_key": "hestia6b" },
+    { "type": "dialogue", "speaker_key": "hestia6c" },
+    { "type": "paragraph", "key": "p61" },
+    { "type": "dialogue", "speaker_key": "sora19", "line_key": "sora19b" },
+    { "type": "dialogue", "speaker_key": "hestia7", "line_key": "hestia7b" },
+    { "type": "paragraph", "key": "p62" },
+    { "type": "dialogue", "speaker_key": "sora20", "line_key": "sora20b" },
+    { "type": "dialogue", "speaker_key": "hestia8", "line_key": "hestia8b" },
+    { "type": "paragraph", "key": "p63" },
+    { "type": "dialogue", "speaker_key": "sora21", "line_key": "sora21b" },
+    { "type": "dialogue", "speaker_key": "hestia9", "line_key": "hestia9b" },
+    { "type": "dialogue", "speaker_key": "sora22", "line_key": "sora22b" },
+    { "type": "paragraph", "key": "p64" },
+    { "type": "paragraph", "key": "p65" },
+    { "type": "dialogue", "speaker_key": "sora_thought3", "line_key": "sora_thought3b", "style": "italic" },
+    { "type": "dialogue", "speaker_key": "sora23", "line_key": "sora23b" },
+    { "type": "dialogue", "speaker_key": "hestia10", "line_key": "hestia10b" },
+    { "type": "paragraph", "key": "p66" },
+    { "type": "dialogue", "speaker_key": "sora24", "line_key": "sora24b" },
+    { "type": "paragraph", "key": "p67", "align": "center" },
+
+    { "type": "separator" },
+
+    { "type": "paragraph", "key": "p67", "style": "bold" },
+    { "type": "paragraph", "key": "p68", "style": "bold" },
+
+    { "type": "separator" },
+
+    { "type": "paragraph", "key": "an_title1", "style": "bold", "align": "center" },
+    { "type": "paragraph", "key": "an_text1", "style": "bold" },
+    { "type": "paragraph", "key": "an_q1", "style": "bold" },
+    { "type": "paragraph", "key": "an_a1", "style": "bold" },
+    { "type": "paragraph", "key": "an_q2", "style": "bold" },
+    { "type": "paragraph", "key": "an_a2", "style": "bold" },
+    { "type": "paragraph", "key": "an_q3", "style": "bold" },
+    { "type": "paragraph", "key": "an_a3", "style": "bold" },
+
+    { "type": "separator" },
+
+    { "type": "paragraph", "key": "an_title2", "style": "bold", "align": "center" },
+    { "type": "paragraph", "key": "an_text2", "style": "bold" },
+
+    { "type": "separator" },
+
+    { "type": "paragraph", "key": "an_title3", "style": "bold", "align": "center" },
+    { "type": "paragraph", "key": "an_text3", "style": "bold" },
+
+    { "type": "separator" },
+
+    { "type": "paragraph", "key": "an_title4", "style": "bold", "align": "center" },
+    { "type": "paragraph", "key": "an_text4", "style": "bold" }
+  ]
+}

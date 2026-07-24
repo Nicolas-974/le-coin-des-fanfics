@@ -1,0 +1,74 @@
+{
+  "fanfics": [
+    {
+      "id": "fate-genesis",
+      "title": "Fate Genesis",
+      "author": "Cybertoy00",
+      "authorUrl": "https://www.fanfiction.net/u/381645/Cybertoy00",
+      "sourceUrl": "https://www.fanfiction.net/s/11150281/1/Fate-Genesis",
+      "translator": "Nicolas",
+      "cover": "fanfics/fate-genesis/assets/img/cover.jpg",
+      "summary": {
+        "fr": "Alors qu'ils affrontent le Dr Eggman, Sonic et sa bande sont transportés à Fuyuki, au début du 5e Heaven's Feel. Un facteur Chaos comme nul autre a fait irruption dans la Guerre du Saint Graal, et Maîtres comme Servants voient leurs plans balayés par un Sonic Boom !",
+        "en": "While fighting against Dr. Eggman, Sonic and the gang are transported to Fuyuki at the beginning of the 5th Heaven's Feel. A Chaos factor like no other has been introduced to the Holy Grail War, and Masters and Servants alike find their plans blown away by a sonic boom!"
+      },
+      "chapters": 12,
+      "status": "en_cours",
+      "tags": ["Fate", "Sonic", "Crossover"],
+      "protagonists": [],
+      "franchises": [
+        {
+          "name": "Sonic the Hedgehog",
+          "description": {
+            "fr": "Série de jeux vidéo culte de SEGA suivant les aventures d'un hérisson bleu ultra-rapide affrontant le Dr Eggman.",
+            "en": "SEGA's iconic video game series following a lightning-fast blue hedgehog battling Dr. Eggman."
+          },
+          "wikiUrl": "https://sonic.fandom.com/"
+        },
+        {
+          "name": "Fate/stay night",
+          "description": {
+            "fr": "Visual novel et univers de Type-Moon centré sur la Guerre du Saint Graal, où des Maîtres invoquent des Servants légendaires.",
+            "en": "Type-Moon visual novel and universe centered on the Holy Grail War, where Masters summon legendary Servants."
+          },
+          "wikiUrl": "https://typemoon.fandom.com/"
+        }
+      ]
+    },
+    {
+      "id": "kh-familia-myth",
+      "title": "Kingdom Hearts: Familia Myth",
+      "author": "Keybladewielder97",
+      "authorUrl": "https://www.fanfiction.net/u/5713519/Keybladewielder97",
+      "sourceUrl": "https://www.fanfiction.net/s/14016032/1/Kingdom-Hearts-Familia-Myth",
+      "translator": "Nicolas",
+      "cover": "fanfics/kh-familia-myth/assets/img/cover.jpg",
+      "summary": {
+        "fr": "Après ce que Sora considère comme le combat le plus difficile de sa vie, il s'attendait à être téléporté de retour au Monde Final. Ce à quoi il ne s'attendait pas, c'était de se réveiller dans un monde rempli de Dieux et d'un Donjon si profond que personne ne sait jusqu'où il s'étend. Trouver un chemin vers son foyer ne sera pas facile, mais au moins, il a un foyer sur lequel compter.",
+        "en": "After what Sora considers to be the most challenging fight of his life, he expected to be teleported back to the Final World. What he didn't expect was to wake up in a world filled with Gods and a Dungeon so deep that no one knows how far it goes. Finding a way back home isn't going to be easy, but at the very least, he has a hearth to fall back on."
+      },
+      "chapters": 13,
+      "status": "en_cours",
+      "tags": ["Kingdom Hearts", "DanMachi", "Crossover"],
+      "protagonists": [],
+      "franchises": [
+        {
+          "name": "Kingdom Hearts",
+          "description": {
+            "fr": "Saga de jeux vidéo Square Enix/Disney mêlant héros Disney et univers original autour des Keyblades et du pouvoir du cœur.",
+            "en": "Square Enix/Disney video game saga blending Disney heroes with an original story about Keyblades and the power of the heart."
+          },
+          "wikiUrl": "https://kingdomhearts.fandom.com/"
+        },
+        {
+          "name": "DanMachi (Is It Wrong to Try to Pick Up Girls in a Dungeon?)",
+          "description": {
+            "fr": "Light novel japonais où aventuriers et divinités cohabitent dans la ville d'Orario, bâtie au-dessus d'un donjon géant.",
+            "en": "Japanese light novel where adventurers and gods coexist in the city of Orario, built above a massive dungeon."
+          },
+          "wikiUrl": "https://danmachi.fandom.com/"
+        }
+      ]
+    }
+  ]
+}
