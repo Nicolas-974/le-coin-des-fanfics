@@ -91,7 +91,9 @@ main {
 
 hr {
   border: none;
-  border-top: 1px solid var(--accent, #444);
+  border-top: 1px solid currentColor;
+  color: inherit;
+  opacity: 0.35;
   margin: 2rem 0;
 }
 
