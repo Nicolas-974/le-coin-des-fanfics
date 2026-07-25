@@ -1,0 +1,3112 @@
+{
+  "meta": {
+    "fanfic": "fate-genesis",
+    "chapter": 5,
+    "title_key": "chapter_title"
+  },
+  "content": [
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p1a"
+        },
+        {
+          "character": "eggman",
+          "name_key": "eggman_name",
+          "img": "SDT_DoctorEggmanRender.png"
+        },
+        {
+          "text_key": "p1b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p2"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p3a"
+        },
+        {
+          "character": "knuckles",
+          "name_key": "knuckles_name",
+          "img": "Frontiers_Knuckles.png"
+        },
+        {
+          "text_key": "p3b"
+        },
+        {
+          "character": "sonic",
+          "name_key": "sonic_name",
+          "img": "SXSG_Sonic.png"
+        },
+        {
+          "text_key": "p3c"
+        },
+        {
+          "character": "tails",
+          "name_key": "tails_name",
+          "img": "SRCTails.png"
+        },
+        {
+          "text_key": "p3d"
+        },
+        {
+          "character": "amy",
+          "name_key": "amy_name",
+          "img": "SRCAmy.png"
+        },
+        {
+          "text_key": "p3e"
+        },
+        {
+          "character": "rin",
+          "name_key": "rin_name",
+          "img": "Rin_Heaven's_Feel_Movie.png"
+        },
+        {
+          "text_key": "p3f"
+        },
+        {
+          "character": "archer",
+          "name_key": "archer_name",
+          "img": "archer.png"
+        },
+        {
+          "text_key": "p3g"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_line1",
+      "style": "italic",
+      "line_key": "knuckles_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "knuckles_line2",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p4a"
+        },
+        {
+          "character": "chaos_emeralds",
+          "name_key": "chaos_emeralds_name",
+          "img": "SFSBChaosEmeraldsArtwork.PNG.png"
+        },
+        {
+          "text_key": "p4b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "knuckles_line3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p5"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fatestay night [Réalta Nua] (PS Vita) OST - Confrontation (2012).mp3",
+      "title_key": "audio_title2"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p6a"
+        },
+        {
+          "character": "rider",
+          "name_key": "rider_name",
+          "img": "RiderMedusaStage1.png"
+        },
+        {
+          "text_key": "p6b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p7a"
+        },
+        {
+          "character": "shinji",
+          "name_key": "shinji_name",
+          "img": "Matou_shinji.png"
+        },
+        {
+          "text_key": "p7b"
+        },
+        {
+          "character": "saber",
+          "name_key": "saber_name",
+          "img": "Saber_Heaven's_Feel_Movie_1.png"
+        },
+        {
+          "text_key": "p7c"
+        },
+        {
+          "character": "shirou",
+          "name_key": "shirou_name",
+          "img": "shirou_emiya__render__7__by_wtfbooomsh_dfv8y3m-fullview.png"
+        },
+        {
+          "text_key": "p7d"
+        },
+        {
+          "character": "sakura",
+          "name_key": "sakura_name",
+          "img": "Sakura_Heaven's_Feel_Movie_3_(uniform).png"
+        },
+        {
+          "text_key": "p7e"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p8"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rider_line1",
+      "style": "italic",
+      "line_key": "rider_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p9"
+    },
+    {
+      "type": "paragraph",
+      "key": "p10"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rider_line2",
+      "style": "italic",
+      "line_key": "rider_line2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p11"
+    },
+    {
+      "type": "paragraph",
+      "key": "p12"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p13a"
+        },
+        {
+          "character": "biolizard",
+          "name_key": "biolizard_name",
+          "img": "SxSG_Art_Book_-_Biolizard_Battle_Art.png"
+        },
+        {
+          "text_key": "p13b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p14"
+    },
+    {
+      "type": "paragraph",
+      "key": "p15",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p16"
+    },
+    {
+      "type": "paragraph",
+      "key": "p17"
+    },
+    {
+      "type": "paragraph",
+      "key": "p18"
+    },
+    {
+      "type": "paragraph",
+      "key": "p19"
+    },
+    {
+      "type": "paragraph",
+      "key": "p20"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_line4",
+      "line_key": "knuckles_line4b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p21a"
+        },
+        {
+          "character": "rouge",
+          "name_key": "rouge_name",
+          "img": "SXSGRouge.png"
+        },
+        {
+          "text_key": "p21b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "knuckles_line5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p22"
+    },
+    {
+      "type": "paragraph",
+      "key": "p23"
+    },
+    {
+      "type": "paragraph",
+      "key": "rider_line3",
+      "style": "italic"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line1",
+      "style": "bold"
+    },
+    {
+      "type": "audio",
+      "src": "BGM extra - Fate_stay night OST [KATE].mp3",
+      "title_key": "audio_title3"
+    },
+    {
+      "type": "paragraph",
+      "key": "p24"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line1",
+      "line_key": "shirou_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p25"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line1"
+    },
+    {
+      "type": "paragraph",
+      "key": "p26"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line2",
+      "line_key": "rin_line2b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line1",
+      "line_key": "tails_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line3",
+      "line_key": "rin_line3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line1",
+      "line_key": "sonic_line1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line5",
+      "line_key": "rin_line5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line6",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line3",
+      "line_key": "tails_line3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line2",
+      "line_key": "shirou_line2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "shirou_line3",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line2",
+      "line_key": "sonic_line2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line3",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_line1",
+      "line_key": "saber_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "saber_line2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line7",
+      "line_key": "rin_line7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p27"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line4",
+      "line_key": "sonic_line4b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p28"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line9",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line4",
+      "line_key": "shirou_line4b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "shirou_line5a"
+        },
+        {
+          "character": "kuzuki",
+          "name_key": "kuzuki_name",
+          "img": "Souichiroumugshot.png"
+        },
+        {
+          "text_key": "shirou_line5b"
+        }
+      ],
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line10",
+      "line_key": "rin_line10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line11",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line6",
+      "line_key": "sonic_line6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line7",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line12",
+      "line_key": "rin_line12b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line13"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_line3",
+      "line_key": "saber_line3b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line14",
+      "line_key": "rin_line14b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line15",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line2",
+      "line_key": "archer_line2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line3",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line5",
+      "line_key": "tails_line5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p29"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line7",
+      "line_key": "tails_line7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p30"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line6",
+      "line_key": "shirou_line6b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line4",
+      "line_key": "archer_line4b"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p31"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line9",
+      "line_key": "tails_line9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line10",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line16",
+      "line_key": "rin_line16b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "rin_line17a"
+        },
+        {
+          "character": "zouken",
+          "name_key": "zouken_name",
+          "img": "Matou_zouken.png"
+        },
+        {
+          "text_key": "rin_line17b"
+        }
+      ],
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p32"
+    },
+    {
+      "type": "paragraph",
+      "key": "p33"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line18",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p34"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line19",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line8",
+      "line_key": "sonic_line8b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_line4",
+      "line_key": "saber_line4b"
+    },
+    {
+      "type": "paragraph",
+      "key": "saber_line5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p35"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line6",
+      "line_key": "archer_line6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line7",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line9",
+      "line_key": "sonic_line9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p36"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line20",
+      "line_key": "rin_line20b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "rin_line21a"
+        },
+        {
+          "character": "kotomine",
+          "name_key": "kotomine_name",
+          "img": "Kirei_Heaven's_Feel_Movie.png"
+        },
+        {
+          "text_key": "rin_line21b"
+        }
+      ],
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p37"
+    },
+    {
+      "type": "paragraph",
+      "key": "p38"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p39"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line22",
+      "line_key": "rin_line22b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p40"
+    },
+    {
+      "type": "audio",
+      "src": "Fuji-nee Theme.mp3",
+      "title_key": "audio_title4"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line8",
+      "line_key": "archer_line8b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p41"
+    },
+    {
+      "type": "paragraph",
+      "key": "p42"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line23",
+      "line_key": "rin_line23b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line24",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line13",
+      "line_key": "tails_line13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line14",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p43"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line15",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line7",
+      "line_key": "shirou_line7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p44"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line9",
+      "line_key": "archer_line9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line10",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line8",
+      "line_key": "shirou_line8b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line25",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p45"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line26",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_line6",
+      "line_key": "saber_line6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "saber_line7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p46"
+    },
+    {
+      "type": "paragraph",
+      "key": "p47"
+    },
+    {
+      "type": "paragraph",
+      "key": "p48"
+    },
+    {
+      "type": "paragraph",
+      "key": "p49"
+    },
+    {
+      "type": "paragraph",
+      "key": "p50"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "FateStay Night OST - Sonic Barrage.mp3",
+      "title_key": "audio_title5"
+    },
+    {
+      "type": "paragraph",
+      "key": "p51"
+    },
+    {
+      "type": "paragraph",
+      "key": "p52"
+    },
+    {
+      "type": "paragraph",
+      "key": "p53"
+    },
+    {
+      "type": "paragraph",
+      "key": "knuckles_line6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p54"
+    },
+    {
+      "type": "paragraph",
+      "key": "p55"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_line7",
+      "line_key": "knuckles_line7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p56"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rider_line4",
+      "style": "italic",
+      "line_key": "rider_line4b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p57"
+    },
+    {
+      "type": "paragraph",
+      "key": "p58"
+    },
+    {
+      "type": "paragraph",
+      "key": "p59"
+    },
+    {
+      "type": "paragraph",
+      "key": "p60"
+    },
+    {
+      "type": "paragraph",
+      "key": "p61"
+    },
+    {
+      "type": "paragraph",
+      "key": "p62",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p63"
+    },
+    {
+      "type": "paragraph",
+      "key": "p64"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65"
+    },
+    {
+      "type": "paragraph",
+      "key": "p66"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_line8",
+      "line_key": "knuckles_line8b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p67"
+    },
+    {
+      "type": "paragraph",
+      "key": "knuckles_line9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p68"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p69a"
+        },
+        {
+          "character": "caster",
+          "name_key": "caster_name",
+          "img": "caster.png"
+        },
+        {
+          "text_key": "p69b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p70"
+    },
+    {
+      "type": "paragraph",
+      "key": "p71"
+    },
+    {
+      "type": "paragraph",
+      "key": "p72"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fatestay night OST - Beyond Remembrance.mp3",
+      "title_key": "audio_title7"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p73a"
+        },
+        {
+          "character": "assassin",
+          "name_key": "assassin_name",
+          "img": "Sasaki_sprite.png"
+        },
+        {
+          "text_key": "p73b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p74"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "assassin_line1",
+      "style": "italic",
+      "line_key": "assassin_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p75"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line13",
+      "line_key": "sonic_line13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line14",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "assassin_line2",
+      "line_key": "assassin_line2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line15",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "assassin_line3",
+      "line_key": "assassin_line3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "assassin_line4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p76"
+    },
+    {
+      "type": "paragraph",
+      "key": "p77"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line16",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p78"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "assassin_line5a"
+        },
+        {
+          "character": "sasaki",
+          "name_key": "sasaki_name",
+          "img": "Sasaki_sprite.png"
+        },
+        {
+          "text_key": "assassin_line5b"
+        }
+      ],
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p79"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line17",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "assassin_line6",
+      "line_key": "assassin_line6b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p80"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line18",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p81"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line19",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p82"
+    },
+    {
+      "type": "paragraph",
+      "key": "assassin_line7",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line20",
+      "line_key": "sonic_line20b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line21",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "assassin_line8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line22",
+      "line_key": "sonic_line22b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line23",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "assassin_line9"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line24",
+      "line_key": "sonic_line24b"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night OST - A Pleasant Scenery.mp3",
+      "title_key": "audio_title8"
+    },
+    {
+      "type": "paragraph",
+      "key": "p83"
+    },
+    {
+      "type": "paragraph",
+      "key": "p84"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line27",
+      "style": "italic",
+      "line_key": "rin_line27b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line28",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line11",
+      "style": "italic",
+      "line_key": "archer_line11b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line29",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line12",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line30",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p85"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line16",
+      "line_key": "tails_line16b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line17",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p86"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line18",
+      "line_key": "tails_line18b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line19",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p87"
+    },
+    {
+      "type": "paragraph",
+      "key": "p88"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line20",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line9",
+      "line_key": "shirou_line9b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_line10",
+      "line_key": "shirou_line10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "shirou_line11",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line21",
+      "line_key": "tails_line21b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line22",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "shirou_line12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        {
+          "text_key": "tails_line23a",
+          "style": "bold"
+        },
+        {
+          "character": "extreme_gear",
+          "name_key": "extreme_gear_name",
+          "img": "Exgear_bluestar.png"
+        },
+        {
+          "text_key": "tails_line23b",
+          "style": "bold"
+        }
+      ],
+      "line_key": "tails_line23c"
+    },
+    {
+      "type": "paragraph",
+      "key": "p89"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line24",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p90"
+    },
+    {
+      "type": "paragraph",
+      "key": "shirou_line13",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p91"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line25",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line31",
+      "line_key": "rin_line31b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p92"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line32",
+      "line_key": "rin_line32b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line33",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p93"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line26",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p94"
+        },
+        {
+          "character": "extreme_gear_tails",
+          "name_key": "extreme_gear_tails",
+          "img": "Exgear_yellowtail.png"
+        },
+        {
+          "text_key": "p94b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line27",
+      "line_key": "tails_line27b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line28",
+      "style": "bold"
+    },
+    {
+      "type": "audio",
+      "src": "Sonic Speed Riders (Instrumental).mp3",
+      "title_key": "audio_title9"
+    },
+    {
+      "type": "paragraph",
+      "key": "p95"
+    },
+    {
+      "type": "paragraph",
+      "key": "shirou_line14",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line13",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p96"
+    },
+    {
+      "type": "paragraph",
+      "key": "saber_line8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p97"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line34",
+      "line_key": "rin_line34b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line35",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line14",
+      "style": "italic",
+      "line_key": "archer_line14b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p98"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line36",
+      "line_key": "rin_line36b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p99"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line29",
+      "line_key": "tails_line29b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p100"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line30",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p101"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line37",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_line31",
+      "line_key": "tails_line31b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line32",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line15",
+      "line_key": "archer_line15b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p102"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line38",
+      "line_key": "rin_line38b"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line39",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p103"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line33",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p104"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line34",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p105"
+    },
+    {
+      "type": "paragraph",
+      "key": "p106"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line40",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p107"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line16",
+      "line_key": "archer_line16b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p108"
+    },
+    {
+      "type": "paragraph",
+      "key": "p109"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line35",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p110"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line36",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p111"
+    },
+    {
+      "type": "paragraph",
+      "key": "shirou_line15",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_line41",
+      "line_key": "rin_line41b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p112"
+    },
+    {
+      "type": "paragraph",
+      "key": "rin_line42",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p113"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line37",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line17",
+      "line_key": "archer_line17b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p114"
+    },
+    {
+      "type": "paragraph",
+      "key": "p115"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_line9",
+      "line_key": "saber_line9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "saber_line10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p116"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line38",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "saber_line11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line39",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p117"
+    },
+    {
+      "type": "paragraph",
+      "key": "saber_line12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line18",
+      "line_key": "archer_line18b"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line19",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p118"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_line13",
+      "style": "italic",
+      "line_key": "saber_line13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p119"
+    },
+    {
+      "type": "paragraph",
+      "key": "p120"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line40",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line25",
+      "style": "italic",
+      "line_key": "sonic_line25b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line26",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p121"
+    },
+    {
+      "type": "paragraph",
+      "key": "archer_line20",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p122"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_line14",
+      "style": "italic",
+      "line_key": "saber_line14b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line27",
+      "line_key": "sonic_line27b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_line21",
+      "style": "italic",
+      "line_key": "archer_line21b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line28",
+      "line_key": "sonic_line28b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p123"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line29",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p124"
+    },
+    {
+      "type": "paragraph",
+      "key": "tails_line41",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line30",
+      "line_key": "sonic_line30b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line31",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p125"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line32",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p126"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night [Réalta Nua] (PS Vita) OST - into the night (2012).mp3",
+      "title_key": "audio_title10"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "character": "lancer_name2",
+          "name_key": "lancer_name2",
+          "img": "LancerCuChuGOStage1.png"
+        },
+        {
+          "text_key": "p127"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p128"
+    },
+    {
+      "type": "paragraph",
+      "key": "p129"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_line1",
+      "style": "italic",
+      "line_key": "kotomine_line1b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_line1",
+      "line_key": "lancer_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p130"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_line2",
+      "style": "italic",
+      "line_key": "kotomine_line2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "kotomine_line3",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_line3",
+      "line_key": "lancer_line3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line33",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p131"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_line5",
+      "line_key": "lancer_line5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p132"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "femme_line1",
+      "line_key": "femme_line1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "femme_line2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p133"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line34",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p134"
+    },
+    {
+      "type": "paragraph",
+      "key": "p135"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p136"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line35",
+      "line_key": "sonic_line35b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line36",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p137"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line7",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line37",
+      "line_key": "sonic_line37b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line38",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p138"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line8",
+      "style": "bold"
+    },
+    {
+      "type": "audio",
+      "src": "The Supernatural (Final Chase) - Sonic Adventure 2 [OST].mp3",
+      "title_key": "audio_title1"
+    },
+    {
+      "type": "paragraph",
+      "key": "p139"
+    },
+    {
+      "type": "paragraph",
+      "key": "p140"
+    },
+    {
+      "type": "paragraph",
+      "key": "p141"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_line9",
+      "line_key": "lancer_line9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p142"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_thought1",
+      "style": "italic",
+      "line_key": "sonic_thought1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_thought2",
+      "style": "italic"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Windmill Isle (Night) - Sonic Unleashed [OST].mp3",
+      "title_key": "audio_title11"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line1",
+      "line_parts": [
+        {
+          "text_key": "amy_line1b"
+        },
+        {
+          "character": "amy_name2",
+          "name_key": "amy_name2",
+          "img": "SRCAmy.png"
+        },
+        {
+          "text_key": "amy_line1c"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line1",
+      "line_parts": [
+        {
+          "text_key": "bazett_line1b"
+        },
+        {
+          "character": "bazett",
+          "name_key": "bazett_name",
+          "img": "Bazett_Takashi_Takeuchi_character_select.png"
+        },
+        {
+          "text_key": "bazett_line1c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p143a"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p144a"
+        },
+        {
+          "character": "elmelloi",
+          "name_key": "elmelloi_name",
+          "img": "CasterZhugeLiangStage1.png"
+        },
+        {
+          "text_key": "p144b",
+          "break_after": true
+        },
+        {
+          "character": "rider_zero",
+          "name_key": "rider_zero_name",
+          "img": "ZeroRider.png"
+        },
+        {
+          "text_key": "p144c"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line3",
+      "line_key": "amy_line3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p145"
+    },
+    {
+      "type": "paragraph",
+      "key": "p146"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line5",
+      "line_key": "amy_line5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line6",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line2",
+      "line_key": "bazett_line2b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p147"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p148"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p149a"
+        },
+        {
+          "character": "eggpawn",
+          "name_key": "eggpawn_name",
+          "img": "TSREggPawnHD.png"
+        },
+        {
+          "text_key": "p149b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line8",
+      "line_key": "amy_line8b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p150"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line10",
+      "line_key": "amy_line10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p151"
+    },
+    {
+      "type": "paragraph",
+      "key": "p152"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line5",
+      "line_key": "bazett_line5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p153"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line12",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p154"
+    },
+    {
+      "type": "paragraph",
+      "key": "p155"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line13",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line7",
+      "line_key": "bazett_line7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line14",
+      "line_key": "amy_line14b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line15",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p156"
+    },
+    {
+      "type": "paragraph",
+      "key": "p157"
+    },
+    {
+      "type": "paragraph",
+      "key": "p158"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line16",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p159"
+    },
+    {
+      "type": "paragraph",
+      "key": "p160"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line17",
+      "line_key": "amy_line17b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line18",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p161"
+    },
+    {
+      "type": "paragraph",
+      "key": "p162"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line9",
+      "line_key": "bazett_line9b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line19",
+      "line_key": "amy_line19b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line20",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p163"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Special Stage - Sonic the Hedgehog (1991).mp3",
+      "title_key": "audio_title13"
+    },
+    {
+      "type": "paragraph",
+      "key": "p164"
+    },
+    {
+      "type": "paragraph",
+      "key": "p165"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line21",
+      "line_key": "amy_line21b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line22",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p166"
+    },
+    {
+      "type": "paragraph",
+      "key": "p167"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_thought1",
+      "style": "italic",
+      "line_key": "bazett_thought1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_thought2",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p168"
+    },
+    {
+      "type": "paragraph",
+      "key": "p169"
+    },
+    {
+      "type": "paragraph",
+      "key": "p170a"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line10",
+      "line_key": "bazett_line10b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "bazett_line11a"
+        },
+        {
+          "character": "chaos_emerald",
+          "name_key": "chaos_emerald_name",
+          "img": "Purple_emerald_runners.png"
+        },
+        {
+          "text_key": "bazett_line11b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line23",
+      "line_key": "amy_line23b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p171"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line24",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p172"
+    },
+    {
+      "type": "paragraph",
+      "key": "p173"
+    },
+    {
+      "type": "paragraph",
+      "key": "p174"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line25",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p175"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line12",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p176"
+    },
+    {
+      "type": "paragraph",
+      "key": "p177"
+    },
+    {
+      "type": "paragraph",
+      "key": "p178"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line26",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p179"
+    },
+    {
+      "type": "paragraph",
+      "key": "p180"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line27",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p181"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "FateHollow Ataraxia OST - Whisper of Darkness.mp3",
+      "title_key": "audio_title14"
+    },
+    {
+      "type": "paragraph",
+      "key": "p182"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line28",
+      "line_key": "amy_line28b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line29",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p183"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "avenger_line1",
+      "line_parts": [
+        {
+          "text_key": "avenger_line1b"
+        },
+        {
+          "character": "avenger",
+          "name_key": "avenger_name",
+          "img": "Avenger_Angra.png"
+        },
+        {
+          "text_key": "avenger_line1c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line30",
+      "line_key": "amy_line30b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line31",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p184"
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p185"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line32",
+      "line_key": "amy_line32b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line33",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p186"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line34",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p187"
+    },
+    {
+      "type": "paragraph",
+      "key": "p188"
+    },
+    {
+      "type": "paragraph",
+      "key": "p189"
+    },
+    {
+      "type": "paragraph",
+      "key": "p190"
+    },
+    {
+      "type": "paragraph",
+      "key": "p191"
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p192"
+    },
+    {
+      "type": "paragraph",
+      "key": "p193"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "avenger_line5",
+      "line_key": "avenger_line5b"
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p194"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line35",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p195"
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p196"
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line13",
+      "line_key": "bazett_line13b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p197"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "avenger_line9",
+      "line_key": "avenger_line9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p198"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "avenger_line11",
+      "line_key": "avenger_line11b"
+    },
+    {
+      "type": "paragraph",
+      "key": "avenger_line12",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p199"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line36",
+      "line_key": "amy_line36b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line14",
+      "line_key": "bazett_line14b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line15",
+      "style": "bold"
+    },
+    {
+      "type": "audio",
+      "src": "Boss Battle (Night) - Sonic Unleashed [OST].mp3",
+      "title_key": "audio_title12"
+    },
+    {
+      "type": "paragraph",
+      "key": "p200"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_thought1",
+      "style": "italic",
+      "line_key": "amy_thought1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line37",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p201"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line38",
+      "line_key": "amy_line38b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p202"
+    },
+    {
+      "type": "paragraph",
+      "key": "p203"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line39",
+      "line_key": "amy_line39b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line40",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p204"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line41",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p205"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line42",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night [Réalta Nua] (PS Vita) OST - THIS ILLUSION (inst.) (2012 Remaster).mp3",
+      "title_key": "audio_title15"
+    },
+    {
+      "type": "paragraph",
+      "key": "p206"
+    },
+    {
+      "type": "paragraph",
+      "key": "p207"
+    },
+    {
+      "type": "paragraph",
+      "key": "femme2_line1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p208"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line39",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p209"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line40",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p210"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line41",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p211"
+    },
+    {
+      "type": "paragraph",
+      "key": "p212"
+    },
+    {
+      "type": "paragraph",
+      "key": "p213"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_thought3",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p214"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_thought4",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p215"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_line42",
+      "line_key": "sonic_line42b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p216"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p217"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p218a",
+          "break_after": true
+        },
+        {
+          "character": "darkgaia_minions",
+          "name_key": "darkgaia_minions_name",
+          "img": "Dark_Gaia's_Minions.jpg"
+        },
+        {
+          "text_key": "p218b"
+        },
+        {
+          "character": "darkgaia",
+          "name_key": "darkgaia_name",
+          "img": "Vlc_2017-06-06_16-29-18-949.png"
+        },
+        {
+          "text_key": "p218c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line43",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p219"
+    },
+    {
+      "type": "paragraph",
+      "key": "sonic_line44",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p220"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line12",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p221"
+    },
+    {
+      "type": "paragraph",
+      "key": "lancer_line13",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p222"
+    },
+    {
+      "type": "paragraph",
+      "key": "p223"
+    },
+    {
+      "type": "paragraph",
+      "key": "p224"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line43",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line16",
+      "line_key": "bazett_line16b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line17",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line44",
+      "line_key": "amy_line44b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p225"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line18",
+      "line_key": "bazett_line18b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line19",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line45",
+      "line_key": "amy_line45b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line46",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line20",
+      "line_key": "bazett_line20b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line21",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line47",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_line22",
+      "line_key": "bazett_line22b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line23",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_line48",
+      "line_key": "amy_line48b"
+    },
+    {
+      "type": "paragraph",
+      "key": "amy_line49",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_line24",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p226"
+    },
+    {
+      "type": "paragraph",
+      "key": "p227"
+    },
+    {
+      "type": "paragraph",
+      "key": "bazett_thought3",
+      "style": "italic"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Forebodings.mp3",
+      "title_key": "audio_title16"
+    },
+    {
+      "type": "paragraph",
+      "key": "p228"
+    },
+    {
+      "type": "paragraph",
+      "key": "p229"
+    },
+    {
+      "type": "paragraph",
+      "key": "p230"
+    },
+    {
+      "type": "paragraph",
+      "key": "p231"
+    },
+    {
+      "type": "paragraph",
+      "key": "tbc",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night [Réalta Nua] (PS Vita) OST - Theme of Tiger Dojo (2012).mp3",
+      "title_key": "audio_title17"
+    },
+    {
+      "type": "paragraph",
+      "key": "tiger_dojo_title",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "illya_line1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "illya_line2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "illya_line3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "illya_line4a"
+        },
+        {
+          "text_key": "illya_line4b"
+        },
+        {
+          "text_key": "illya_line4c"
+        }
+      ],
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line5b",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line5c",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "illya_line5a"
+        },
+        {
+          "text_key": "illya_line5b"
+        },
+        {
+          "text_key": "illya_line5c"
+        }
+      ],
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "illya_line6a"
+        },
+        {
+          "text_key": "illya_line6b"
+        },
+        {
+          "text_key": "illya_line6c"
+        }
+      ],
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "illya_line7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "taiga_line8",
+      "style": "bold"
+    },
+    {
+      "type": "reveal_video",
+      "embed_url": "https://www.youtube.com/embed/lYBQPh7f0U8?si=N-seeG6NTzC_RUHG",
+      "button_key": "btn_show_image"
+    }
+  ]
+}

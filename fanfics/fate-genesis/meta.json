@@ -10,7 +10,8 @@
     { "number": 1, "title": { "fr": "Sonic Boom", "en": "Sonic Boom" } },
     { "number": 2, "title": { "fr": "Disillusion", "en": "Disillusion" } },
     { "number": 3, "title": { "fr": "Kick the Rock!", "en": "Kick the Rock!" } },
-    { "number": 4, "title": { "fr": "To The Beginning", "en": "To The Beginning" } }
+    { "number": 4, "title": { "fr": "To The Beginning", "en": "To The Beginning" } },
+    { "number": 5, "title": { "fr": "The SuperNatural", "en": "The SuperNatural" } }
   ],
   "themes": {
     "default": 0,
