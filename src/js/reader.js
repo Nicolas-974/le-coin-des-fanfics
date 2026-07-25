@@ -127,7 +127,7 @@ function renderRevealImage(block, fanficId) {
 function renderRevealVideo(block) {
   return `
     <div class="reveal-image">
-      <button class="reveal-btn" type="button" data-video="${block.embed_url}" data-i18n="${block.button_key}"></button>
+      <button class="reveal-btn" type="button" data-watch-url="${block.watch_url}" data-i18n="${block.button_key}"></button>
     </div>
   `;
 }

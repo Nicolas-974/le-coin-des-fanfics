@@ -162,17 +162,14 @@ export function initRevealSpoiler(root = document) {
 }
 
 function revealContent(btn) {
-  if (btn.dataset.video) {
-    const wrapper = document.createElement('div');
-    wrapper.className = 'revealed-video';
-    const iframe = document.createElement('iframe');
-    iframe.src = btn.dataset.video;
-    iframe.title = 'YouTube video player';
-    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
-    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
-    iframe.allowFullscreen = true;
-    wrapper.appendChild(iframe);
-    btn.replaceWith(wrapper);
+  if (btn.dataset.watchUrl) {
+    const link = document.createElement('a');
+    link.className = 'revealed-video-link';
+    link.href = btn.dataset.watchUrl;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.textContent = '▶ Regarder sur YouTube';
+    btn.replaceWith(link);
     return;
   }
   const img = document.createElement('img');
