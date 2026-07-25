@@ -32,6 +32,8 @@ function renderBlock(block, fanficId) {
       return renderAudio(block, fanficId);
     case 'reveal_image':
       return renderRevealImage(block, fanficId);
+    case 'reveal_video':
+      return renderRevealVideo(block);
     case 'stat_box':
       return renderStatBox(block);
     case 'info_box':
@@ -118,6 +120,14 @@ function renderRevealImage(block, fanficId) {
   return `
     <div class="reveal-image">
       <button class="reveal-btn" type="button" data-img="/fanfics/${fanficId}/assets/img/${block.img}" data-i18n="${block.button_key}"></button>
+    </div>
+  `;
+}
+
+function renderRevealVideo(block) {
+  return `
+    <div class="reveal-image">
+      <button class="reveal-btn" type="button" data-video="${block.embed_url}" data-i18n="${block.button_key}"></button>
     </div>
   `;
 }

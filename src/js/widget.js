@@ -157,11 +157,24 @@ function repositionImage(spanEl) {
 
 export function initRevealSpoiler(root = document) {
   root.querySelectorAll('.reveal-btn').forEach((btn) => {
-    btn.addEventListener('click', () => revealImage(btn), { once: true });
+    btn.addEventListener('click', () => revealContent(btn), { once: true });
   });
 }
 
-function revealImage(btn) {
+function revealContent(btn) {
+  if (btn.dataset.video) {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'revealed-video';
+    const iframe = document.createElement('iframe');
+    iframe.src = btn.dataset.video;
+    iframe.title = 'YouTube video player';
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+    iframe.allowFullscreen = true;
+    wrapper.appendChild(iframe);
+    btn.replaceWith(wrapper);
+    return;
+  }
   const img = document.createElement('img');
   img.className = 'revealed-img';
   img.src = btn.dataset.img;
