@@ -10,7 +10,8 @@
     { "number": 1, "title": { "fr": "Bienvenue dans le Monde des Dieux", "en": "Welcome to the World of Gods" } },
     { "number": 2, "title": { "fr": "La Clé du Foyer", "en": "The Hearth's Key" } },
     { "number": 3, "title": { "fr": "Monsterphilia", "en": "Monsterphilia" } },
-    { "number": 4, "title": { "fr": "Mises à jour & Forgerons", "en": "Upgrades & Smiths" } }
+    { "number": 4, "title": { "fr": "Mises à jour & Forgerons", "en": "Upgrades & Smiths" } },
+    { "number": 5, "title": { "fr": "Supporter", "en": "Supporter" } }
   ],
   "themes": {
     "default": 0,
