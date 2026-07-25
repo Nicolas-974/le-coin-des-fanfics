@@ -66,6 +66,8 @@ function wrapStyle(style, html) {
       return `<u>${html}</u>`;
     case 'italic-underline':
       return `<i><u>${html}</u></i>`;
+    case 'bold-underline':
+      return `<u><b>${html}</b></u>`;
     default:
       return html;
   }
