@@ -11,7 +11,8 @@
     { "number": 2, "title": { "fr": "La Clé du Foyer", "en": "The Hearth's Key" } },
     { "number": 3, "title": { "fr": "Monsterphilia", "en": "Monsterphilia" } },
     { "number": 4, "title": { "fr": "Mises à jour & Forgerons", "en": "Upgrades & Smiths" } },
-    { "number": 5, "title": { "fr": "Supporter", "en": "Supporter" } }
+    { "number": 5, "title": { "fr": "Supporter", "en": "Supporter" } },
+    { "number": 6, "title": { "fr": "Le Dieu des Foules", "en": "The God of Masses" } }
   ],
   "themes": {
     "default": 0,
