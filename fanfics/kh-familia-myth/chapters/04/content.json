@@ -64,6 +64,10 @@
       "title_key": "audio_title1"
     },
     {
+      "type": "paragraph",
+      "key": "p1"
+    },
+    {
       "type": "paragraph_with_characters",
       "parts": [
         {
@@ -95,6 +99,10 @@
           "text_key": "p3b"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p4"
     },
     {
       "type": "dialogue",
@@ -163,6 +171,10 @@
       "line_key": "sora4b"
     },
     {
+      "type": "paragraph",
+      "key": "p18"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hestia4",
       "line_key": "hestia4b"
@@ -204,6 +216,10 @@
       "style": "bold"
     },
     {
+      "type": "paragraph",
+      "key": "p25"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hestia6",
       "line_key": "hestia6b"
@@ -232,6 +248,10 @@
       "type": "dialogue",
       "speaker_key": "hestia9",
       "line_key": "hestia9b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p32"
     },
     {
       "type": "dialogue",
@@ -296,6 +316,10 @@
       "type": "dialogue",
       "speaker_key": "sora12",
       "line_key": "sora12b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p43"
     },
     {
       "type": "dialogue",
@@ -395,6 +419,10 @@
       "type": "dialogue",
       "speaker_key": "sora19",
       "line_key": "sora19b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p68"
     },
     {
       "type": "dialogue",
@@ -838,6 +866,10 @@
       "line_key": "eina7b"
     },
     {
+      "type": "paragraph",
+      "key": "p145"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "bell17",
       "line_key": "bell17b"
@@ -1165,6 +1197,14 @@
       "title_key": "audio_title6"
     },
     {
+      "type": "paragraph",
+      "key": "p178"
+    },
+    {
+      "type": "paragraph",
+      "key": "p179"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hephaestus1",
       "line_parts": [
@@ -1195,6 +1235,10 @@
       "type": "dialogue",
       "speaker_key": "sora34",
       "line_key": "sora34b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p180"
     },
     {
       "type": "dialogue",
@@ -1289,6 +1333,10 @@
       "line_key": "hephaestus8b"
     },
     {
+      "type": "paragraph",
+      "key": "p185"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hephaestus9",
       "line_key": "hephaestus9b"
@@ -1297,6 +1345,10 @@
       "type": "paragraph",
       "key": "hephaestus9c",
       "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p186"
     },
     {
       "type": "dialogue",
@@ -1317,6 +1369,10 @@
       "type": "dialogue",
       "speaker_key": "hephaestus10",
       "line_key": "hephaestus10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p187"
     },
     {
       "type": "paragraph",
@@ -1382,6 +1438,10 @@
       "style": "bold"
     },
     {
+      "type": "paragraph",
+      "key": "p195"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hephaestus14",
       "line_key": "hephaestus14b"
@@ -1395,6 +1455,10 @@
       "type": "paragraph",
       "key": "hephaestus14e",
       "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p196"
     },
     {
       "type": "paragraph_with_characters",
@@ -1429,6 +1493,10 @@
       "line_key": "hephaestus16b"
     },
     {
+      "type": "paragraph",
+      "key": "p197"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hestia26",
       "line_key": "hestia26b"
@@ -1459,6 +1527,10 @@
       "line_key": "hestia28b"
     },
     {
+      "type": "paragraph",
+      "key": "p198"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hephaestus19",
       "line_key": "hephaestus19b"
@@ -1467,6 +1539,10 @@
       "type": "paragraph",
       "key": "hephaestus19c",
       "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p199"
     },
     {
       "type": "dialogue",
@@ -1556,6 +1632,10 @@
       "line_key": "hephaestus22b"
     },
     {
+      "type": "paragraph",
+      "key": "p207"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hephaestus23",
       "line_key": "hephaestus23b"
@@ -1623,6 +1703,10 @@
       "type": "dialogue",
       "speaker_key": "sora45",
       "line_key": "sora45b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p216"
     },
     {
       "type": "dialogue",
@@ -1751,6 +1835,10 @@
       "line_key": "sora48b"
     },
     {
+      "type": "paragraph",
+      "key": "p227"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hephaestus30",
       "line_key": "hephaestus30b"
@@ -1761,9 +1849,17 @@
       "style": "bold"
     },
     {
+      "type": "paragraph",
+      "key": "p228"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hestia38",
       "line_key": "hestia38b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p229"
     },
     {
       "type": "dialogue",
@@ -1799,6 +1895,10 @@
       "type": "dialogue",
       "speaker_key": "hestia39",
       "line_key": "hestia39b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p233"
     },
     {
       "type": "dialogue",
@@ -1856,6 +1956,10 @@
       "style": "bold"
     },
     {
+      "type": "paragraph",
+      "key": "p234"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "hestia42",
       "line_key": "hestia42b"
@@ -1876,6 +1980,10 @@
       "speaker_key": "hephaestus_thought3",
       "style": "italic",
       "line_key": "hephaestus_thought3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p237"
     },
     {
       "type": "separator"
@@ -1924,6 +2032,10 @@
           "text_key": "shakti1c"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p238"
     },
     {
       "type": "dialogue",
@@ -2035,6 +2147,10 @@
       "line_key": "loki1b"
     },
     {
+      "type": "paragraph",
+      "key": "p254"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "loki2",
       "line_key": "loki2b"
@@ -2043,6 +2159,10 @@
       "type": "dialogue",
       "speaker_key": "lefiya1",
       "line_key": "lefiya1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p255"
     },
     {
       "type": "paragraph",
@@ -2235,6 +2355,10 @@
       "line_key": "loki6b"
     },
     {
+      "type": "paragraph",
+      "key": "p283"
+    },
+    {
       "type": "paragraph_with_characters",
       "parts": [
         {
@@ -2420,6 +2544,10 @@
       "style": "italic"
     },
     {
+      "type": "paragraph",
+      "key": "p314"
+    },
+    {
       "type": "dialogue",
       "speaker_key": "loki_thought5",
       "style": "italic",
@@ -2533,6 +2661,12 @@
     },
     {
       "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "fun_fact_title",
+      "style": "bold",
+      "align": "center"
     },
     {
       "type": "paragraph_with_characters",
