@@ -278,7 +278,8 @@
           "img": "SXSGRouge.png"
         },
         {
-          "text_key": "p21b"
+          "text_key": "p21b",
+          "no_space_before": true
         }
       ]
     },
@@ -597,7 +598,8 @@
           "img": "Matou_zouken.png"
         },
         {
-          "text_key": "rin_line17b"
+          "text_key": "rin_line17b",
+          "no_space_before": true
         }
       ],
       "style": "bold"
@@ -1290,7 +1292,8 @@
         },
         {
           "text_key": "tails_line23b",
-          "style": "bold"
+          "style": "bold",
+          "no_space_before": true
         }
       ],
       "line_key": "tails_line23c"
@@ -1676,7 +1679,7 @@
     {
       "type": "paragraph",
       "key": "sonic_line26",
-      "style": "italic"
+      "style": "bold-italic"
     },
     {
       "type": "paragraph",
@@ -2324,7 +2327,8 @@
           "img": "Purple_emerald_runners.png"
         },
         {
-          "text_key": "bazett_line11b"
+          "text_key": "bazett_line11b",
+          "no_space_before": true
         }
       ]
     },
@@ -2986,7 +2990,7 @@
     {
       "type": "paragraph",
       "key": "tiger_dojo_title",
-      "style": "italic"
+      "style": "bold-italic"
     },
     {
       "type": "paragraph",
@@ -3030,7 +3034,8 @@
           "text_key": "illya_line4a"
         },
         {
-          "text_key": "illya_line4b"
+          "text_key": "illya_line4b",
+          "style": "bold-italic"
         },
         {
           "text_key": "illya_line4c"
@@ -3060,7 +3065,8 @@
           "text_key": "illya_line5a"
         },
         {
-          "text_key": "illya_line5b"
+          "text_key": "illya_line5b",
+          "style": "bold-italic"
         },
         {
           "text_key": "illya_line5c"
@@ -3080,7 +3086,8 @@
           "text_key": "illya_line6a"
         },
         {
-          "text_key": "illya_line6b"
+          "text_key": "illya_line6b",
+          "style": "bold-italic"
         },
         {
           "text_key": "illya_line6c"
@@ -3106,7 +3113,7 @@
     {
       "type": "reveal_video",
       "watch_url": "https://www.youtube.com/watch?v=lYBQPh7f0U8",
-      "link_key": "watch_video_link"
+      "button_key": "btn_show_image"
     }
   ]
 }

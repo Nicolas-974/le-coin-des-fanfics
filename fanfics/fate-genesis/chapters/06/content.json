@@ -51,7 +51,8 @@
         },
         {
           "text_key": "p2a",
-          "style": "italic"
+          "style": "italic",
+          "no_space_before": true
         },
         {
           "character": "saber",
@@ -457,7 +458,12 @@
           "text_key": "shirou_line7a"
         },
         {
-          "text_key": "shirou_line7b"
+          "text": "Trace On",
+          "style": "italic"
+        },
+        {
+          "text_key": "shirou_line7b",
+          "no_space_before": true
         }
       ],
       "style": "bold"
@@ -827,7 +833,8 @@
           "img": "SDT_DoctorEggmanRender.png"
         },
         {
-          "text_key": "shirou_line22d"
+          "text_key": "shirou_line22d",
+          "no_space_before": true
         }
       ],
       "style": "bold"
@@ -973,6 +980,9 @@
           "character": "kotomine",
           "name_key": "kotomine_name",
           "img": "Kirei_Heaven's_Feel_Movie.png"
+        },
+        {
+          "text": "."
         }
       ]
     },
@@ -1064,6 +1074,9 @@
           "character": "ombre",
           "name_key": "ombre_name",
           "img": "Avenger_Angra.png"
+        },
+        {
+          "text": "."
         }
       ]
     },
@@ -1445,6 +1458,10 @@
           "text_key": "rin_line12a"
         },
         {
+          "text": "public",
+          "style": "italic"
+        },
+        {
           "text_key": "rin_line12b"
         }
       ],
@@ -1633,7 +1650,11 @@
           "text_key": "illya_line7a"
         },
         {
-          "text_key": "illya_line7b"
+          "text_key": "illya_line7b",
+          "style": "italic"
+        },
+        {
+          "text": "."
         }
       ],
       "style": "bold"
@@ -1685,6 +1706,10 @@
         {
           "text_key": "illya_line9a",
           "style": "bold"
+        },
+        {
+          "text": "Onii-chan",
+          "style": "italic"
         },
         {
           "text_key": "illya_line9b",
@@ -1882,6 +1907,10 @@
           "text_key": "sonic_line62a"
         },
         {
+          "text": "ME",
+          "style": "italic"
+        },
+        {
           "text_key": "sonic_line62b"
         }
       ],
@@ -2070,6 +2099,9 @@
           "character": "leysritt",
           "name_key": "leysritt_name",
           "img": "Leysritt_Sprite.png"
+        },
+        {
+          "text": "."
         }
       ]
     },
@@ -4349,7 +4381,8 @@
           "img": "Cubot.png"
         },
         {
-          "text_key": "p332c"
+          "text_key": "p332c",
+          "no_space_before": true
         }
       ]
     },

@@ -476,6 +476,9 @@
           "character": "p52c",
           "name_key": "p52c",
           "img": "Roxas_KHIII.png"
+        },
+        {
+          "text": "."
         }
       ]
     },
@@ -1301,6 +1304,9 @@
           "character": "heartless_shadow",
           "name_key": "heartless_shadow_name",
           "img": "Shadow_KHIII.png"
+        },
+        {
+          "text": "..."
         }
       ],
       "line_key": "bell28b"
@@ -1396,7 +1402,8 @@
           "img": "Red_Nocturne_KH.png"
         },
         {
-          "text_key": "heartless_sep1"
+          "text_key": "heartless_sep1",
+          "no_space_before": true
         },
         {
           "character": "high_soldier",
@@ -1404,7 +1411,8 @@
           "img": "High_Soldier_KHIII.png"
         },
         {
-          "text_key": "heartless_sep2"
+          "text_key": "heartless_sep2",
+          "no_space_before": true
         },
         {
           "character": "air_soldier",
@@ -1412,7 +1420,8 @@
           "img": "Air_Soldier_KHIII.png"
         },
         {
-          "text_key": "heartless_sep3"
+          "text_key": "heartless_sep3",
+          "no_space_before": true
         },
         {
           "character": "fluttering",
@@ -1420,7 +1429,8 @@
           "img": "Noctule_KHIII.png"
         },
         {
-          "text_key": "heartless_sep4"
+          "text_key": "heartless_sep4",
+          "no_space_before": true
         },
         {
           "character": "large_body",

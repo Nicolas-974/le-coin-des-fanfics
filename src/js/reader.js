@@ -1,5 +1,12 @@
 const FADE_DURATION = 200;
 
+function escapeHtml(text) {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
 export async function renderChapter(fanficId, chapterNumber) {
   const container = document.querySelector('#reader');
 
@@ -65,19 +72,39 @@ function wrapStyle(style, html) {
 }
 
 function renderParagraph(block) {
+  const classAttr = block.align === 'center' ? ' class="text-center"' : '';
+  if (block.text) {
+    return `<p${classAttr}>${wrapStyle(block.style, escapeHtml(block.text))}</p>`;
+  }
   const span = `<span data-i18n="${block.key}"></span>`;
   if (!block.style && !block.align) return `<p data-i18n="${block.key}"></p>`;
-  const classAttr = block.align === 'center' ? ' class="text-center"' : '';
   return `<p${classAttr}>${wrapStyle(block.style, span)}</p>`;
 }
 
+function isPunctuationOnly(part) {
+  if (part.no_space_before) return true;
+  return typeof part.text === 'string' && /^[.,;:!?…]+$/.test(part.text);
+}
+
+function joinParts(parts, renderFn) {
+  return parts.reduce((acc, part, i) => {
+    const rendered = renderFn(part);
+    if (i === 0) return rendered;
+    return acc + (isPunctuationOnly(part) ? '' : ' ') + rendered;
+  }, '');
+}
+
 function renderParagraphWithCharacters(block, fanficId) {
-  return `<p>${block.parts.map((part) => renderPart(part, fanficId, block.style)).join(' ')}</p>`;
+  return `<p>${joinParts(block.parts, (part) => renderPart(part, fanficId, block.style))}</p>`;
 }
 
 function renderPart(part, fanficId, blockStyle) {
   if (part.text_key) {
     const span = wrapStyle(part.style || blockStyle, `<span data-i18n="${part.text_key}"></span>`);
+    return part.break_after ? `${span}<br>` : span;
+  }
+  if (part.text) {
+    const span = wrapStyle(part.style || blockStyle, escapeHtml(part.text));
     return part.break_after ? `${span}<br>` : span;
   }
 
@@ -91,10 +118,10 @@ function renderPart(part, fanficId, blockStyle) {
 
 function renderDialogue(block, fanficId) {
   const speaker = block.speaker_parts
-    ? block.speaker_parts.map((part) => renderPart(part, fanficId, block.style || 'bold')).join(' ')
+    ? joinParts(block.speaker_parts, (part) => renderPart(part, fanficId, block.style || 'bold'))
     : wrapStyle(block.style || 'bold', `<span data-i18n="${block.speaker_key}"></span>`);
   const line = block.line_parts
-    ? `<br>${block.line_parts.map((part) => renderPart(part, fanficId)).join(' ')}`
+    ? `<br>${joinParts(block.line_parts, (part) => renderPart(part, fanficId))}`
     : block.line_key
       ? `<br><span data-i18n="${block.line_key}"></span>`
       : '';
