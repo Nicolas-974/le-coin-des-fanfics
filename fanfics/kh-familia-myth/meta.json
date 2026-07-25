@@ -12,7 +12,8 @@
     { "number": 3, "title": { "fr": "Monsterphilia", "en": "Monsterphilia" } },
     { "number": 4, "title": { "fr": "Mises à jour & Forgerons", "en": "Upgrades & Smiths" } },
     { "number": 5, "title": { "fr": "Supporter", "en": "Supporter" } },
-    { "number": 6, "title": { "fr": "Le Dieu des Foules", "en": "The God of Masses" } }
+    { "number": 6, "title": { "fr": "Le Dieu des Foules", "en": "The God of Masses" } },
+    { "number": 7, "title": { "fr": "Les Ténèbres Souterrains", "en": "The Underground Darkness" } }
   ],
   "themes": {
     "default": 0,
