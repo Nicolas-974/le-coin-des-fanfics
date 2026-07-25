@@ -517,6 +517,8 @@ body.modal-open {
   font-size: 20px;
   color: #f0f0f0;
   cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
   transition: transform 0.2s ease, color 0.3s ease;
 }
 
