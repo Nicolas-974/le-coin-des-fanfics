@@ -637,6 +637,13 @@ a.imag span.show-mobile img {
   margin: 0;
 }
 
+/* Group renders wider than the default cap allows render too small at the
+   standard width limit; give them more room individually. */
+a.imag:hover span img[src$="Real_Organization_XIII_KHIII.png"],
+a.imag span.show-mobile img[src$="Real_Organization_XIII_KHIII.png"] {
+  max-width: min(650px, 85vw);
+}
+
 @media (max-width: 768px) {
   a.imag:hover span,
   a.imag span.show-mobile {
