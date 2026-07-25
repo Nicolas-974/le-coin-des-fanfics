@@ -13,7 +13,8 @@
     { "number": 4, "title": { "fr": "Mises à jour & Forgerons", "en": "Upgrades & Smiths" } },
     { "number": 5, "title": { "fr": "Supporter", "en": "Supporter" } },
     { "number": 6, "title": { "fr": "Le Dieu des Foules", "en": "The God of Masses" } },
-    { "number": 7, "title": { "fr": "Les Ténèbres Souterrains", "en": "The Underground Darkness" } }
+    { "number": 7, "title": { "fr": "Les Ténèbres Souterrains", "en": "The Underground Darkness" } },
+    { "number": 8, "title": { "fr": "Une Flamme Rayonnante", "en": "A Radiant Flame" } }
   ],
   "themes": {
     "default": 0,
