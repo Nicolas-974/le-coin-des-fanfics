@@ -256,6 +256,7 @@ body.modal-open {
   max-height: min(90vh, 900px);
   overflow-y: auto;
   background: var(--surface);
+  color: var(--text-color);
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 2rem;
