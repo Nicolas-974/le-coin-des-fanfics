@@ -2715,16 +2715,12 @@
     {
       "type": "dialogue",
       "speaker_key": "tsubaki14",
-      "line_parts": [
-        {
-          "text_key": "tsubaki14b",
-          "break_after": true
-        },
-        {
-          "text_key": "tsubaki14c",
-          "style": "bold"
-        }
-      ]
+      "line_key": "tsubaki14b"
+    },
+    {
+      "type": "paragraph",
+      "key": "tsubaki14c",
+      "style": "bold"
     },
     {
       "type": "paragraph",
@@ -2749,38 +2745,22 @@
     {
       "type": "dialogue",
       "speaker_key": "hephastois21",
-      "line_parts": [
-        {
-          "text_key": "hephastois21b",
-          "break_after": true
-        },
-        {
-          "text_key": "hephastois21c",
-          "style": "bold",
-          "break_after": true
-        },
-        {
-          "text_key": "hephastois21d"
-        }
-      ]
+      "line_key": "hephastois21b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "hephastois21c",
+      "line_key": "hephastois21d"
     },
     {
       "type": "dialogue",
       "speaker_key": "tsubaki17",
-      "line_parts": [
-        {
-          "text_key": "tsubaki17b",
-          "break_after": true
-        },
-        {
-          "text_key": "tsubaki17c",
-          "style": "bold",
-          "break_after": true
-        },
-        {
-          "text_key": "tsubaki17d"
-        }
-      ]
+      "line_key": "tsubaki17b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki17c",
+      "line_key": "tsubaki17d"
     },
     {
       "type": "dialogue",
@@ -2797,12 +2777,12 @@
       "line_key": "tsubaki18b"
     },
     {
+      "type": "paragraph",
+      "key": "p266"
+    },
+    {
       "type": "paragraph_with_characters",
       "parts": [
-        {
-          "text_key": "p266",
-          "break_after": true
-        },
         {
           "text_key": "p267"
         },
@@ -2810,20 +2790,24 @@
           "text_key": "p268"
         },
         {
-          "text_key": "p269",
-          "break_after": true
-        },
+          "text_key": "p269"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
         {
           "text_key": "p270"
         },
         {
-          "text_key": "p271",
-          "break_after": true
-        },
-        {
-          "text_key": "p272"
+          "text_key": "p271"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p272"
     },
     {
       "type": "dialogue",
@@ -2881,12 +2865,12 @@
       "line_key": "lili37b"
     },
     {
+      "type": "paragraph",
+      "key": "p275"
+    },
+    {
       "type": "paragraph_with_characters",
       "parts": [
-        {
-          "text_key": "p275",
-          "break_after": true
-        },
         {
           "text_key": "p276"
         },
@@ -2916,16 +2900,12 @@
     {
       "type": "dialogue",
       "speaker_key": "bell50",
-      "line_parts": [
-        {
-          "text_key": "bell50b",
-          "break_after": true
-        },
-        {
-          "text_key": "bell50c",
-          "style": "bold"
-        }
-      ]
+      "line_key": "bell50b"
+    },
+    {
+      "type": "paragraph",
+      "key": "bell50c",
+      "style": "bold"
     },
     {
       "type": "dialogue",
@@ -2933,21 +2913,13 @@
       "line_key": "sora44b"
     },
     {
-      "type": "paragraph_with_characters",
-      "parts": [
-        {
-          "text_key": "p280",
-          "break_after": true
-        },
-        {
-          "text_key": "bell51",
-          "style": "bold",
-          "break_after": true
-        },
-        {
-          "text_key": "bell51b"
-        }
-      ]
+      "type": "paragraph",
+      "key": "p280"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bell51",
+      "line_key": "bell51b"
     },
     {
       "type": "paragraph",
