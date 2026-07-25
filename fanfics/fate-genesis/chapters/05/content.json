@@ -3106,7 +3106,7 @@
     {
       "type": "reveal_video",
       "watch_url": "https://www.youtube.com/watch?v=lYBQPh7f0U8",
-      "button_key": "btn_show_image"
+      "link_key": "watch_video_link"
     }
   ]
 }

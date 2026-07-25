@@ -157,21 +157,11 @@ function repositionImage(spanEl) {
 
 export function initRevealSpoiler(root = document) {
   root.querySelectorAll('.reveal-btn').forEach((btn) => {
-    btn.addEventListener('click', () => revealContent(btn), { once: true });
+    btn.addEventListener('click', () => revealImage(btn), { once: true });
   });
 }
 
-function revealContent(btn) {
-  if (btn.dataset.watchUrl) {
-    const link = document.createElement('a');
-    link.className = 'revealed-video-link';
-    link.href = btn.dataset.watchUrl;
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
-    link.textContent = '▶ Regarder sur YouTube';
-    btn.replaceWith(link);
-    return;
-  }
+function revealImage(btn) {
   const img = document.createElement('img');
   img.className = 'revealed-img';
   img.src = btn.dataset.img;
