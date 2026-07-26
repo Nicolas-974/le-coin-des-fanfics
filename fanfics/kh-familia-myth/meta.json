@@ -18,7 +18,8 @@
     { "number": 9, "title": { "fr": "Ce n'est jamais Simple et Facile avec Sora", "en": "It's Never Simple and Clean with Sora" } },
     { "number": 10, "title": { "fr": "Effet de Lien", "en": "A Link's Effects" } },
     { "number": 11, "title": { "fr": "Une Bagarre Mouvementée", "en": "A Rowdy Rumble" } },
-    { "number": 12, "title": { "fr": "Foi", "en": "Faith" } }
+    { "number": 12, "title": { "fr": "Foi", "en": "Faith" } },
+    { "number": 13, "title": { "fr": "Plongée Profonde dans le Donjon", "en": "Dungeon Dive Distance" } }
   ],
   "themes": {
     "default": 0,
