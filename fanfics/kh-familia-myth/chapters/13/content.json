@@ -1579,8 +1579,12 @@
       "line_key": "shakti_thought4b"
     },
     {
-      "type": "paragraph",
-      "key": "p98"
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p98_start" },
+        { "character": "hephaestus", "name_key": "hephaestus_name", "img": "Hephaistos.png" },
+        { "text_key": "p98_end" }
+      ]
     },
     {
       "type": "dialogue",
