@@ -676,7 +676,7 @@
     {
       "type": "dialogue",
       "speaker_key": "hephaestus_thought",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "hephaestus_thoughtb"
     },
     {
@@ -818,7 +818,7 @@
     {
       "type": "dialogue",
       "speaker_key": "ganesha_thought1",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "ganesha_thought1b"
     },
     {
@@ -832,7 +832,7 @@
     {
       "type": "dialogue",
       "speaker_key": "ganesha_thought_1c",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "ganesha_thought_1bb"
     },
     {
@@ -853,7 +853,7 @@
     {
       "type": "dialogue",
       "speaker_key": "ganesha_thought2",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "ganesha_thought2b"
     },
     {
@@ -909,7 +909,7 @@
     {
       "type": "dialogue",
       "speaker_key": "ganesha_thought4",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "ganesha_thought4b"
     },
     {
@@ -1161,7 +1161,7 @@
     {
       "type": "dialogue",
       "speaker_key": "bete_thought1",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "bete_thought1b"
     },
     {
@@ -1517,7 +1517,7 @@
     {
       "type": "dialogue",
       "speaker_key": "miach_thought1",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "miach_thought1b"
     },
     {
@@ -2336,7 +2336,7 @@
     {
       "type": "dialogue",
       "speaker_key": "sora_thought1",
-      "style": "italic",
+      "style": "bold-italic",
       "line_parts": [
         {
           "text_key": "sora_thought1b"

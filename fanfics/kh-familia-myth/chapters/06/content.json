@@ -380,7 +380,8 @@
           "img": "Clayton_KH.png"
         },
         {
-          "text_key": "p25_end"
+          "text_key": "p25_end",
+          "no_space_before": true
         }
       ]
     },

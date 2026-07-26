@@ -266,7 +266,8 @@
           "img": "Lefiya_Viridis_-_Sword_Oratoria_Anime_BD.png"
         },
         {
-          "text_key": "sora8a"
+          "text_key": "sora8a",
+          "no_space_before": true
         }
       ],
       "line_key": "sora8b"
@@ -427,7 +428,7 @@
     {
       "type": "dialogue",
       "speaker_key": "sora_thought1",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "sora_thought1b"
     },
     {
@@ -520,7 +521,8 @@
           "img": "Soldier_KHIII.png"
         },
         {
-          "text_key": "p82b"
+          "text_key": "p82b",
+          "no_space_before": true
         },
         {
           "character": "high_soldier",
@@ -571,7 +573,7 @@
     {
       "type": "dialogue",
       "speaker_key": "bell_thought5",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "bell_thought5b"
     },
     {
@@ -602,7 +604,7 @@
     {
       "type": "dialogue",
       "speaker_key": "bell_thought6",
-      "style": "italic",
+      "style": "bold-italic",
       "line_parts": [
         {
           "text_key": "bell_thought6b"
@@ -636,7 +638,7 @@
     {
       "type": "dialogue",
       "speaker_key": "bell_thought8",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "bell_thought8b"
     },
     {
@@ -717,7 +719,7 @@
     {
       "type": "dialogue",
       "speaker_key": "bell_thought9",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "bell_thought9b"
     },
     {
@@ -1155,7 +1157,7 @@
     {
       "type": "dialogue",
       "speaker_key": "bell_thought10",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "bell_thought10b"
     },
     {
@@ -1623,7 +1625,7 @@
     {
       "type": "dialogue",
       "speaker_key": "hephaestus_thought1",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "hephaestus_thought1b"
     },
     {
@@ -1864,7 +1866,7 @@
     {
       "type": "dialogue",
       "speaker_key": "hephaestus_thought2",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "hephaestus_thought2b"
     },
     {
@@ -1978,7 +1980,7 @@
     {
       "type": "dialogue",
       "speaker_key": "hephaestus_thought3",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "hephaestus_thought3b"
     },
     {
@@ -2126,7 +2128,7 @@
     {
       "type": "dialogue",
       "speaker_key": "ganesha_thought1",
-      "style": "italic",
+      "style": "bold-italic",
       "line_key": "ganesha_thought1b"
     },
     {
@@ -2370,7 +2372,8 @@
           "img": "tione.png"
         },
         {
-          "text_key": "p284b"
+          "text_key": "p284b",
+          "no_space_before": true
         },
         {
           "character": "tiona",
@@ -2378,7 +2381,8 @@
           "img": "tiona.png"
         },
         {
-          "text_key": "p284c"
+          "text_key": "p284c",
+          "no_space_before": true
         },
         {
           "character": "ais",
@@ -2412,7 +2416,8 @@
           "img": "Bete_Danmemo_Full_Werewolf.png"
         },
         {
-          "text_key": "p288b"
+          "text_key": "p288b",
+          "no_space_before": true
         }
       ]
     },
