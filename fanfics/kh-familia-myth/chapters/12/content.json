@@ -159,16 +159,13 @@
       "key": "p8"
     },
     {
-      "type": "paragraph_with_characters",
-      "parts": [
-        {
-          "text_key": "freya3",
-          "break_after": true
-        },
-        {
-          "text_key": "freya3b"
-        }
-      ]
+      "type": "paragraph",
+      "key": "freya3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "freya3b"
     },
     {
       "type": "dialogue",
@@ -616,16 +613,13 @@
       "key": "p39"
     },
     {
-      "type": "paragraph_with_characters",
-      "parts": [
-        {
-          "text_key": "lili_thought1",
-          "break_after": true
-        },
-        {
-          "text_key": "p40"
-        }
-      ]
+      "type": "paragraph",
+      "key": "lili_thought1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p40"
     },
     {
       "type": "paragraph",
@@ -636,16 +630,13 @@
       "key": "p42"
     },
     {
-      "type": "paragraph_with_characters",
-      "parts": [
-        {
-          "text_key": "lili_thought2",
-          "break_after": true
-        },
-        {
-          "text_key": "p43"
-        }
-      ]
+      "type": "paragraph",
+      "key": "lili_thought2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p43"
     },
     {
       "type": "paragraph",

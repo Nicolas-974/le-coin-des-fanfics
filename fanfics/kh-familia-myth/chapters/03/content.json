@@ -3947,9 +3947,13 @@
       "key": "p369"
     },
     {
-      "type": "dialogue",
-      "speaker_key": "lefiya8",
-      "line_key": "lefiya8b"
+      "type": "paragraph",
+      "key": "lefiya8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "lefiya8b"
     },
     {
       "type": "paragraph_with_characters",
@@ -3992,14 +3996,22 @@
       "key": "p377"
     },
     {
-      "type": "dialogue",
-      "speaker_key": "lefiya10",
-      "line_key": "lefiya10b"
+      "type": "paragraph",
+      "key": "lefiya10",
+      "style": "bold"
     },
     {
-      "type": "dialogue",
-      "speaker_key": "lefiya11",
-      "line_key": "lefiya11b"
+      "type": "paragraph",
+      "key": "lefiya10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "lefiya11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "lefiya11b"
     },
     {
       "type": "paragraph_with_characters",

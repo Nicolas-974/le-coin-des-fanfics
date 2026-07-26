@@ -1878,16 +1878,13 @@
       "key": "p150"
     },
     {
-      "type": "paragraph_with_characters",
-      "parts": [
-        {
-          "text_key": "allen1",
-          "break_after": true
-        },
-        {
-          "text_key": "allen1b"
-        }
-      ]
+      "type": "paragraph",
+      "key": "allen1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "allen1b"
     },
     {
       "type": "paragraph",
@@ -2021,16 +2018,13 @@
       "line_key": "freya_member1b"
     },
     {
-      "type": "paragraph_with_characters",
-      "parts": [
-        {
-          "text_key": "allen2",
-          "break_after": true
-        },
-        {
-          "text_key": "allen2b"
-        }
-      ]
+      "type": "paragraph",
+      "key": "allen2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "allen2b"
     },
     {
       "type": "paragraph",

@@ -1249,9 +1249,13 @@
       "key": "p102"
     },
     {
-      "type": "dialogue",
-      "speaker_key": "hephaestus2",
-      "line_key": "hephaestus2b"
+      "type": "paragraph",
+      "key": "hephaestus2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "hephaestus2b"
     },
     {
       "type": "paragraph_with_characters",
