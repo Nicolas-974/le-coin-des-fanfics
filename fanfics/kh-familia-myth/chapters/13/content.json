@@ -465,9 +465,9 @@
       "key": "p16"
     },
     {
-      "type": "paragraph",
-      "key": "tsubaki1",
-      "style": "bold"
+      "type": "dialogue",
+      "speaker_key": "tsubaki1",
+      "line_key": "tsubaki1b"
     },
     {
       "type": "paragraph",
