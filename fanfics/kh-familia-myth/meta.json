@@ -16,7 +16,8 @@
     { "number": 7, "title": { "fr": "Les Ténèbres Souterrains", "en": "The Underground Darkness" } },
     { "number": 8, "title": { "fr": "Une Flamme Rayonnante", "en": "A Radiant Flame" } },
     { "number": 9, "title": { "fr": "Ce n'est jamais Simple et Facile avec Sora", "en": "It's Never Simple and Clean with Sora" } },
-    { "number": 10, "title": { "fr": "Effet de Lien", "en": "A Link's Effects" } }
+    { "number": 10, "title": { "fr": "Effet de Lien", "en": "A Link's Effects" } },
+    { "number": 11, "title": { "fr": "Une Bagarre Mouvementée", "en": "A Rowdy Rumble" } }
   ],
   "themes": {
     "default": 0,
