@@ -650,8 +650,12 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "tsubaki_thought2",
       "style": "italic",
+      "speaker_parts": [
+        { "text_key": "tsubaki_thought2_start" },
+        { "character": "hephaestus", "name_key": "hephaestus_name", "img": "Hephaistos.png" },
+        { "text_key": "tsubaki_thought2_end" }
+      ],
       "line_key": "tsubaki_thought2b"
     },
     {
@@ -1579,12 +1583,8 @@
       "line_key": "shakti_thought4b"
     },
     {
-      "type": "paragraph_with_characters",
-      "parts": [
-        { "text_key": "p98_start" },
-        { "character": "hephaestus", "name_key": "hephaestus_name", "img": "Hephaistos.png" },
-        { "text_key": "p98_end" }
-      ]
+      "type": "paragraph",
+      "key": "p98"
     },
     {
       "type": "dialogue",
