@@ -2983,6 +2983,162 @@
       "type": "dialogue",
       "speaker_key": "sora88",
       "line_key": "sora88b"
+    },
+    {
+      "type": "audio",
+      "src": "DanMachi I OST - Bell kun, Kimitte Yatsu wa.mp3",
+      "title_key": "audio_ginen"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki56",
+      "line_key": "tsubaki56b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki57",
+      "line_key": "tsubaki57b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora89",
+      "line_key": "sora89b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki58",
+      "line_key": "tsubaki58b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p253"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora90",
+      "line_key": "sora90b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p254"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki59",
+      "line_key": "tsubaki59b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p255"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki60",
+      "line_key": "tsubaki60b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought7",
+      "style": "italic",
+      "line_key": "sora_thought7b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p256"
+    },
+    {
+      "type": "paragraph",
+      "key": "p257"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki61",
+      "line_key": "tsubaki61b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora91",
+      "line_key": "sora91b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti59",
+      "line_key": "shakti59b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki62",
+      "line_key": "tsubaki62b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti60",
+      "line_key": "shakti60b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti61"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora92"
+    },
+    {
+      "type": "paragraph",
+      "key": "p258"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki63",
+      "line_key": "tsubaki63b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti62",
+      "line_key": "shakti62b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti63"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki64",
+      "line_key": "tsubaki64b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p260"
+    },
+    {
+      "type": "paragraph",
+      "key": "p261"
+    },
+    {
+      "type": "paragraph",
+      "key": "p262"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki65",
+      "line_key": "tsubaki65b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p263"
+    },
+    {
+      "type": "paragraph",
+      "key": "p264"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora93",
+      "line_key": "sora93b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p265"
     }
   ]
 }
