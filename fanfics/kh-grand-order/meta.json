@@ -7,7 +7,8 @@
   "source_url": "https://www.fanfiction.net/s/14130841/1/Kingdom-Hearts-Grand-Order",
   "demoCharacter": { "img": "Sora_KHIII.png", "name": "Sora" },
   "chapters": [
-    { "number": 1, "title": { "fr": "Bienvenue dans le monde des Mages", "en": "Welcome to the World of Magecraft" } }
+    { "number": 1, "title": { "fr": "Bienvenue dans le monde des Mages", "en": "Welcome to the World of Magecraft" } },
+    { "number": 2, "title": { "fr": "Le Grand Order commence", "en": "The Grand Order Begins" } }
   ],
   "themes": {
     "default": 0,
