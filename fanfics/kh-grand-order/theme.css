@@ -27,3 +27,8 @@ body {
 .card {
   font-family: 'Games Regular', system-ui, sans-serif;
 }
+
+/* Titre "Order N" en début de chapitre */
+span[data-i18n="order_title"] {
+  font-size: 1.3em;
+}
