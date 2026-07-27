@@ -3341,6 +3341,133 @@
     {
       "type": "paragraph",
       "key": "p283"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki72",
+      "line_key": "tsubaki72b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora103",
+      "line_key": "sora103b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki73",
+      "line_key": "tsubaki73b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora104",
+      "line_key": "sora104b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p284"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki74"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora105",
+      "line_key": "sora105b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki75",
+      "line_key": "tsubaki75b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora106",
+      "line_key": "sora106b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p285"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora107",
+      "line_key": "sora107b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p286"
+    },
+    {
+      "type": "paragraph",
+      "key": "p287"
+    },
+    {
+      "type": "paragraph",
+      "key": "p288"
+    },
+    {
+      "type": "paragraph",
+      "key": "p289"
+    },
+    {
+      "type": "paragraph",
+      "key": "p290"
+    },
+    {
+      "type": "paragraph",
+      "key": "p291"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki76",
+      "line_key": "tsubaki76b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p292"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki77"
+    },
+    {
+      "type": "paragraph",
+      "key": "p293"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora108"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki78",
+      "line_key": "tsubaki78b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki_thought9",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora109",
+      "line_key": "sora109b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki_thought10",
+      "style": "italic",
+      "line_key": "tsubaki_thought10b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p295"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora110",
+      "line_key": "sora110b"
     }
   ]
 }
