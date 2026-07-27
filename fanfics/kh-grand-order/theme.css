@@ -1,0 +1,29 @@
+/* Styles spécifiques à Kingdom Hearts: Grand Order */
+:root {
+  --accent: #d4af37;
+}
+
+@font-face {
+  font-family: 'Games Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Games Regular'), url('/src/assets/fonts/Games.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Games Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Games Italic'), url('/src/assets/fonts/Games-Italic.woff') format('woff');
+}
+
+body {
+  background: linear-gradient(135deg, #0a0e27 0%, #1a1a4e 50%, #2d1b69 100%);
+  color: #f0f0f5;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Noms de personnages mentionnés (première apparition / hover) */
+.card {
+  font-family: 'Games Regular', system-ui, sans-serif;
+}

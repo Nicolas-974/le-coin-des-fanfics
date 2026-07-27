@@ -69,6 +69,41 @@
           "wikiUrl": "https://danmachi.fandom.com/"
         }
       ]
+    },
+    {
+      "id": "kh-grand-order",
+      "title": "Kingdom Hearts: Grand Order",
+      "author": "KingSora3",
+      "authorUrl": "https://www.fanfiction.net/u/2615262/KingSora3",
+      "sourceUrl": "https://www.fanfiction.net/s/14130841/1/Kingdom-Hearts-Grand-Order",
+      "translator": "Nicolas",
+      "cover": "fanfics/kh-grand-order/assets/img/cover.png",
+      "summary": {
+        "fr": "Vous connaissez tous les événements qui ont mené à la disparition de Sora après son combat acharné contre Yozora. Mais que se passerait-il si, au lieu de se retrouver dans la ville de Quadratum, il atterrissait dans la légendaire Clock Tower, où il rencontre le tristement célèbre Wizard Marshal ? Guidé par lui, Sora se retrouve dans un monde où l'humanité est au bord de l'extinction, qu'il devra sauver aux côtés du dernier Master de Chaldea.",
+        "en": "You all know the events that lead up to Sora's disappearance from his and his intense battle with Yozora. But what if instead of ending up in the city Quadratum, he ended up in the fabled Clock Tower, meeting the infamous Wizard Marshal. Guided by him, Sora ends up in a world where humanity is on the brink of destruction and must save it with Chaldea's Final Master"
+      },
+      "chapters": 0,
+      "status": "en_cours",
+      "tags": ["Kingdom Hearts", "Fate/Grand Order", "Crossover"],
+      "protagonists": [],
+      "franchises": [
+        {
+          "name": "Kingdom Hearts",
+          "description": {
+            "fr": "Saga de jeux vidéo Square Enix/Disney mêlant héros Disney et univers original autour des Keyblades et du pouvoir du cœur.",
+            "en": "Square Enix/Disney video game saga blending Disney heroes with an original story about Keyblades and the power of the heart."
+          },
+          "wikiUrl": "https://kingdomhearts.fandom.com/"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "description": {
+            "fr": "Jeu mobile Type-Moon dans lequel les Masters de l'organisation Chaldea invoquent des Servants légendaires pour sauver l'humanité à travers l'Histoire.",
+            "en": "Type-Moon mobile game in which Chaldea's Masters summon legendary Servants to save humanity across history."
+          },
+          "wikiUrl": "https://typemoon.fandom.com/wiki/Fate/Grand_Order"
+        }
+      ]
     }
   ]
 }
