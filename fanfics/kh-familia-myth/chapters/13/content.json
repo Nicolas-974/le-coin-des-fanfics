@@ -3139,6 +3139,208 @@
     {
       "type": "paragraph",
       "key": "p265"
+    },
+    {
+      "type": "paragraph",
+      "key": "p266"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti64",
+      "line_key": "shakti64b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki66",
+      "line_key": "tsubaki66b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p267"
+    },
+    {
+      "type": "paragraph",
+      "key": "p268"
+    },
+    {
+      "type": "paragraph",
+      "key": "p269"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought8",
+      "style": "italic",
+      "line_key": "sora_thought8b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "unclear_voice1",
+      "line_key": "unclear_voice1b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p271"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki67",
+      "line_key": "tsubaki67b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti65",
+      "line_key": "shakti65b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora94",
+      "line_key": "sora94b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora95"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti66",
+      "line_key": "shakti66b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki68",
+      "line_key": "tsubaki68b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p272"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki69"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora96",
+      "line_key": "sora96b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki70",
+      "line_key": "tsubaki70b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora97",
+      "line_key": "sora97b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p274"
+    },
+    {
+      "type": "paragraph",
+      "key": "p275"
+    },
+    {
+      "type": "paragraph",
+      "key": "p276"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora98",
+      "line_key": "sora98b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki71",
+      "line_key": "tsubaki71b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti67",
+      "line_key": "shakti67b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p277"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti68",
+      "line_key": "shakti68b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora99",
+      "line_key": "sora99b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p278"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti69",
+      "line_key": "shakti69b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti70"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora100",
+      "line_key": "sora100b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti71",
+      "line_key": "shakti71b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p279"
+    },
+    {
+      "type": "paragraph",
+      "key": "p280"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought9",
+      "style": "italic",
+      "line_key": "sora_thought9b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought10",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p281"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora101",
+      "line_key": "sora101b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti72",
+      "line_key": "shakti72b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p282"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora102"
+    },
+    {
+      "type": "paragraph",
+      "key": "p283"
     }
   ]
 }
