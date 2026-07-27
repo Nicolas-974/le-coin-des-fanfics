@@ -1908,6 +1908,216 @@
     {
       "type": "paragraph",
       "key": "p127"
+    },
+    {
+      "type": "audio",
+      "src": "Kingdom Hearts Ⅲ OST - Vim and Vigor.mp3",
+      "title_key": "audio_vim_and_vigor"
+    },
+    {
+      "type": "paragraph",
+      "key": "p128"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora47",
+      "line_key": "sora47b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p129"
+    },
+    {
+      "type": "paragraph",
+      "key": "p130"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki22",
+      "line_key": "tsubaki22b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p131"
+    },
+    {
+      "type": "paragraph",
+      "key": "p132"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti37",
+      "line_key": "shakti37b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki23",
+      "line_key": "tsubaki23b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p133"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora48",
+      "line_key": "sora48b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p134"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki24",
+      "line_key": "tsubaki24b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki25"
+    },
+    {
+      "type": "paragraph",
+      "key": "p135"
+    },
+    {
+      "type": "paragraph",
+      "key": "p136"
+    },
+    {
+      "type": "paragraph",
+      "key": "p137"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki_thought3",
+      "style": "italic",
+      "line_key": "tsubaki_thought3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p138"
+    },
+    {
+      "type": "paragraph",
+      "key": "p139"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti38",
+      "line_key": "shakti38b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki26",
+      "line_key": "tsubaki26b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p140"
+    },
+    {
+      "type": "paragraph",
+      "key": "p141"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti_thought6",
+      "style": "italic",
+      "line_key": "shakti_thought6b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki27",
+      "line_key": "tsubaki27b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora49",
+      "line_key": "sora49b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p142"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora50"
+    },
+    {
+      "type": "paragraph",
+      "key": "p143"
+    },
+    {
+      "type": "paragraph",
+      "key": "p144"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora51"
+    },
+    {
+      "type": "paragraph",
+      "key": "p145"
+    },
+    {
+      "type": "paragraph",
+      "key": "p146"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki_thought4",
+      "style": "italic",
+      "line_key": "tsubaki_thought4b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki_thought5",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p147"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti39",
+      "line_key": "shakti39b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora52",
+      "line_key": "sora52b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p148"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora53"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti40",
+      "line_key": "shakti40b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki28",
+      "line_key": "tsubaki28b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p149"
+    },
+    {
+      "type": "paragraph",
+      "key": "p150"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora54"
     }
   ]
 }
