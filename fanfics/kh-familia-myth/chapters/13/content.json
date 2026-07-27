@@ -3641,6 +3641,31 @@
     { "type": "paragraph", "key": "a_n_end28", "style": "bold" },
     { "type": "separator" },
     { "type": "paragraph", "key": "a_n_end29", "style": "bold" },
+    { "type": "separator" },
+    { "type": "paragraph", "key": "p310" },
+    { "type": "paragraph", "key": "p311" },
+    { "type": "paragraph", "key": "p312" },
+    {
+      "type": "reveal_image",
+      "img": "Ottar_-_DanMachi_Anime_1.png",
+      "button_key": "btn_show_image_ottar"
+    },
+    { "type": "paragraph", "key": "p313" },
+    { "type": "paragraph", "key": "p314" },
+    { "type": "paragraph", "key": "p315" },
+    { "type": "paragraph", "key": "p316" },
+    { "type": "paragraph", "key": "p317" },
+    { "type": "paragraph", "key": "p318" },
+    { "type": "paragraph", "key": "p319" },
+    { "type": "paragraph", "key": "p320" },
+    { "type": "paragraph", "key": "p321" },
+    { "type": "paragraph", "key": "p322" },
+    { "type": "paragraph", "key": "p323" },
+    { "type": "paragraph", "key": "p324" },
+    { "type": "paragraph", "key": "p325" },
+    { "type": "paragraph", "key": "p326" },
+    { "type": "separator" },
+    { "type": "paragraph", "key": "a_n_end30", "style": "bold" },
     { "type": "separator" }
   ]
 }

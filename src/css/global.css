@@ -767,6 +767,11 @@ a.imag span.show-mobile img[src$="Real_Organization_XIII_KHIII.png"] {
   margin: 0 auto;
 }
 
+/* Slightly larger than the default reveal-image cap for this specific portrait. */
+.revealed-img[src$="Ottar_-_DanMachi_Anime_1.png"] {
+  max-height: 600px;
+}
+
 .revealed-video-link {
   display: inline-block;
   background: var(--accent);
