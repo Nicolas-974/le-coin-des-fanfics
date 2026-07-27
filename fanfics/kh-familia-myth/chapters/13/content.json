@@ -1817,8 +1817,12 @@
       "key": "p118"
     },
     {
-      "type": "paragraph",
-      "key": "p119"
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p119_start" },
+        { "character": "bete", "name_key": "bete_name", "img": "Bete_Danmemo_Full_Werewolf.png" },
+        { "text_key": "p119_end" }
+      ]
     },
     {
       "type": "paragraph",
