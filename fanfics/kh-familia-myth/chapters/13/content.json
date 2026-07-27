@@ -2299,6 +2299,172 @@
     {
       "type": "paragraph",
       "key": "p172"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora63",
+      "line_key": "sora63b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti45",
+      "line_key": "shakti45b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki33",
+      "line_key": "tsubaki33b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p173"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora64",
+      "line_key": "sora64b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki34",
+      "line_key": "tsubaki34b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki35"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora65",
+      "line_key": "sora65b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p174"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki36",
+      "line_key": "tsubaki36b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora66",
+      "line_key": "sora66b"
+    },
+    {
+      "type": "audio",
+      "src": "Kingdom Hearts 358_2 Days OST - Fight and Away.mp3",
+      "title_key": "audio_fight_and_away"
+    },
+    {
+      "type": "paragraph",
+      "key": "p175"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti46",
+      "line_key": "shakti46b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora67",
+      "line_key": "sora67b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki37",
+      "line_key": "tsubaki37b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p176"
+    },
+    {
+      "type": "paragraph",
+      "key": "p177"
+    },
+    {
+      "type": "paragraph",
+      "key": "p178"
+    },
+    {
+      "type": "paragraph",
+      "key": "p179"
+    },
+    {
+      "type": "paragraph",
+      "key": "p180"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora68",
+      "line_key": "sora68b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p181"
+    },
+    {
+      "type": "paragraph",
+      "key": "gummiphone_scan1",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "gummiphone_scan2",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "gummiphone_scan3",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "gummiphone_scan4",
+      "style": "bold-italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora69",
+      "line_key": "sora69b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p182"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora_thought3",
+      "style": "italic",
+      "line_key": "sora_thought3b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p183"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora70",
+      "line_key": "sora70b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p184"
+    },
+    {
+      "type": "paragraph",
+      "key": "p185"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora71",
+      "line_key": "sora71b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p186"
     }
   ]
 }
