@@ -1690,6 +1690,220 @@
       "type": "dialogue",
       "speaker_key": "tsubaki17",
       "line_key": "tsubaki17b"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "break_line1",
+      "style": "bold",
+      "align": "center"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph",
+      "key": "p110"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora37",
+      "line_key": "sora37b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p111"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti27",
+      "line_key": "shakti27b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora38",
+      "line_key": "sora38b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti28",
+      "line_key": "shakti28b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti29",
+      "line_key": "shakti29b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora39",
+      "line_key": "sora39b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p112"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora40"
+    },
+    {
+      "type": "paragraph",
+      "key": "p113"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti30",
+      "line_key": "shakti30b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora41",
+      "line_key": "sora41b"
+    },
+    {
+      "type": "audio",
+      "src": "Danmachi I OST -  Souguu.mp3",
+      "title_key": "audio_souguu"
+    },
+    {
+      "type": "paragraph",
+      "key": "p114"
+    },
+    {
+      "type": "paragraph",
+      "key": "p115"
+    },
+    {
+      "type": "paragraph",
+      "key": "p116"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti31",
+      "line_key": "shakti31b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora42",
+      "line_key": "sora42b"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        { "text_key": "p117_start" },
+        { "character": "roxas", "name_key": "roxas_name", "img": "Roxas_KHIII.png" },
+        { "text_key": "p117_end" }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_parts": [
+        { "text_key": "sora43_start" },
+        { "character": "infernal_engine", "name_key": "infernal_engine_name", "img": "Infernal_Engine_KHD.png" },
+        { "text_key": "sora43_end" }
+      ],
+      "line_key": "sora43b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti32",
+      "line_key": "shakti32b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p118"
+    },
+    {
+      "type": "paragraph",
+      "key": "p119"
+    },
+    {
+      "type": "paragraph",
+      "key": "p120"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti33",
+      "line_key": "shakti33b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p121"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki18",
+      "line_key": "tsubaki18b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p122"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki19",
+      "line_key": "tsubaki19b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora44",
+      "line_key": "sora44b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p123"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora45"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti34",
+      "line_key": "shakti34b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p124"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti35"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki20",
+      "line_key": "tsubaki20b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shakti36",
+      "line_key": "shakti36b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p125"
+    },
+    {
+      "type": "paragraph",
+      "key": "p126"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tsubaki21",
+      "line_key": "tsubaki21b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sora46",
+      "line_key": "sora46b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p127"
     }
   ]
 }
