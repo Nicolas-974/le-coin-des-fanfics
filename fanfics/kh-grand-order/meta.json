@@ -9,7 +9,8 @@
   "chapters": [
     { "number": 1, "title": { "fr": "Bienvenue dans le monde des Mages", "en": "Welcome to the World of Magecraft" } },
     { "number": 2, "title": { "fr": "Le Grand Order commence", "en": "The Grand Order Begins" } },
-    { "number": 3, "title": { "fr": "Singularité d’Orléans – Les Vierges de Lumière et de Ténèbres", "en": "Orleans Singularity-The Maidens of Light and Darkness" } }
+    { "number": 3, "title": { "fr": "Singularité d’Orléans – Les Vierges de Lumière et de Ténèbres", "en": "Orleans Singularity-The Maidens of Light and Darkness" } },
+    { "number": 4, "title": { "fr": "Singularité d’Orléans – Les Ténèbres attaque", "en": "Orleans Singularity- The Shadows Attack" } }
   ],
   "themes": {
     "default": 0,
