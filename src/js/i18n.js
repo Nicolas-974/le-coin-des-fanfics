@@ -86,6 +86,9 @@ export function applyTranslations() {
   document.querySelectorAll('[data-i18n]').forEach((el) => {
     renderInlineText(el, i18next.t(el.dataset.i18n));
   });
+  document.querySelectorAll('[data-href-en]').forEach((el) => {
+    el.href = currentLang === 'en' ? el.dataset.hrefEn : el.dataset.hrefFr;
+  });
 }
 
 export async function switchLanguage(fanficId, chapterNumber, lang) {

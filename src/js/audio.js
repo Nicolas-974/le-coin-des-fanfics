@@ -1,8 +1,11 @@
+import { getCurrentLang } from './i18n.js';
+
 let currentAudio = null;
+let players = [];
 
 export function initAudioPlayers() {
   const zones = Array.from(document.querySelectorAll('.audio-zone'));
-  const players = zones.map((zone) => setupPlayer(zone)).filter(Boolean);
+  players = zones.map((zone) => setupPlayer(zone)).filter(Boolean);
 
   players.forEach(({ audio }) => {
     audio.addEventListener('play', () => {
@@ -13,11 +16,28 @@ export function initAudioPlayers() {
   });
 }
 
+// Certains morceaux ont une version différente selon la langue (ex: chanson
+// Disney doublée en FR vs. version originale en EN) via data-src-en.
+function sourceForLang(playerEl, lang) {
+  return lang === 'en' && playerEl.dataset.srcEn ? playerEl.dataset.srcEn : playerEl.dataset.src;
+}
+
+export function updateAudioLanguage(lang) {
+  players.forEach(({ audio, playerEl }) => {
+    if (!playerEl.dataset.srcEn) return;
+    const newSrc = new URL(sourceForLang(playerEl, lang), window.location.href).href;
+    if (audio.src === newSrc) return;
+    audio.pause();
+    audio.currentTime = 0;
+    audio.src = newSrc;
+  });
+}
+
 function setupPlayer(zone) {
   const playerEl = zone.querySelector('.custom-player');
   if (!playerEl) return null;
 
-  const audio = new Audio(playerEl.dataset.src);
+  const audio = new Audio(sourceForLang(playerEl, getCurrentLang()));
   audio.loop = true;
 
   const playPauseBtn = playerEl.querySelector('.play-pause');
@@ -67,7 +87,7 @@ function setupPlayer(zone) {
     if (progress) progress.value = '0';
   });
 
-  return { audio };
+  return { audio, playerEl };
 }
 
 function togglePlayback(audio) {

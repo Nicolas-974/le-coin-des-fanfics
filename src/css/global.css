@@ -135,6 +135,10 @@ hr {
   text-align: left;
 }
 
+.credit-note p + p {
+  margin-top: 0.75rem;
+}
+
 #catalog {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
@@ -784,6 +788,24 @@ a.imag span.show-mobile img[src$="Real_Organization_XIII_KHIII.png"] {
 }
 
 .revealed-video-link:hover {
+  opacity: 0.85;
+}
+
+/* Bouton vers l'audio/vidéo d'origine (YouTube), à la place d'un fichier hébergé */
+.audio-link-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  transition: opacity 0.15s ease;
+}
+
+.audio-link-btn:hover {
   opacity: 0.85;
 }
 

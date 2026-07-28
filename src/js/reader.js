@@ -37,6 +37,8 @@ function renderBlock(block, fanficId) {
       return renderDialogue(block, fanficId);
     case 'audio':
       return renderAudio(block, fanficId);
+    case 'audio_link':
+      return renderAudioLink(block);
     case 'reveal_image':
       return renderRevealImage(block, fanficId);
     case 'reveal_video':
@@ -110,12 +112,7 @@ function renderPart(part, fanficId, blockStyle) {
     return part.break_after ? `${span}<br>` : span;
   }
 
-  return `
-    <a class="imag card" data-character="${part.character}">
-      <i data-i18n="${part.name_key}"></i>
-      <span><img src="/fanfics/${fanficId}/assets/img/${part.img}" alt="" /></span>
-    </a>
-  `;
+  return `<a class="imag card" data-character="${part.character}"><i data-i18n="${part.name_key}"></i><span><img src="/fanfics/${fanficId}/assets/img/${part.img}" alt="" /></span></a>`;
 }
 
 function renderDialogue(block, fanficId) {
@@ -131,9 +128,12 @@ function renderDialogue(block, fanficId) {
 }
 
 function renderAudio(block, fanficId) {
+  const srcEnAttr = block.src_en
+    ? ` data-src-en="/fanfics/${fanficId}/assets/audio/${block.src_en}"`
+    : '';
   return `
     <div class="audio-zone">
-      <div class="custom-player" data-src="/fanfics/${fanficId}/assets/audio/${block.src}">
+      <div class="custom-player" data-src="/fanfics/${fanficId}/assets/audio/${block.src}"${srcEnAttr}>
         <button class="play-pause" type="button" aria-label="Lecture">▶️</button>
         <input class="progress" type="range" value="0" step="1" />
         <input class="volume" type="range" min="0" max="1" step="0.01" value="1" />
@@ -141,6 +141,18 @@ function renderAudio(block, fanficId) {
           <span class="audio-title" data-i18n="${block.title_key}"></span>
         </div>
       </div>
+    </div>
+  `;
+}
+
+// Bouton vers la vidéo YouTube d'origine, plutôt qu'un fichier audio hébergé
+// directement (droits d'auteur sur les chansons Disney/officielles).
+function renderAudioLink(block) {
+  const urlFr = block.url;
+  const urlEn = block.url_en || block.url;
+  return `
+    <div class="audio-zone">
+      <a class="audio-link-btn" href="${urlFr}" data-href-fr="${urlFr}" data-href-en="${urlEn}" target="_blank" rel="noopener noreferrer" data-i18n="${block.button_key}"></a>
     </div>
   `;
 }

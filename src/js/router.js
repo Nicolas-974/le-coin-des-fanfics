@@ -1,6 +1,6 @@
 import { renderChapter } from './reader.js';
 import { initI18n, applyTranslations, getCurrentLang, switchLanguage } from './i18n.js';
-import { stopCurrentAudio, initAudioPlayers } from './audio.js';
+import { stopCurrentAudio, initAudioPlayers, updateAudioLanguage } from './audio.js';
 import { initHoverImages, initRevealSpoiler, initThemePanel } from './widget.js';
 import { initHelpButton } from './help.js';
 
@@ -53,6 +53,7 @@ export async function initRouter(fanficId) {
     event.stopPropagation();
     const nextLang = getCurrentLang() === 'fr' ? 'en' : 'fr';
     await switchLanguage(fanficId, getChapterFromUrl(), nextLang);
+    updateAudioLanguage(nextLang);
     renderChapterNav(fanficId);
   });
 }
