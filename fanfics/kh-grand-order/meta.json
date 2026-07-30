@@ -13,7 +13,8 @@
     { "number": 4, "title": { "fr": "Singularité d’Orléans – Les Ténèbres attaque", "en": "Orleans Singularity- The Shadows Attack" } },
     { "number": 5, "title": { "fr": "Singularité d’Orléans – Personne n’est laissé pour compte", "en": "Orleans Singularity - Nobody Gets Left Behind" } },
     { "number": 6, "title": { "fr": "Singularité d’Orléans – La Bataille Finale Commence", "en": "Orleans Singularity - The Final Battle Begins" } },
-    { "number": 7, "title": { "fr": "Singularité d’Orléans – La Bataille Finale touche à sa fin", "en": "Orleans Singularity - The Final Battle Ends" } }
+    { "number": 7, "title": { "fr": "Singularité d’Orléans – La Bataille Finale touche à sa fin", "en": "Orleans Singularity - The Final Battle Ends" } },
+    { "number": 8, "title": { "fr": "Recueil d’Interludes 1", "en": "Interlude Collection 1" } }
   ],
   "themes": {
     "default": 0,
