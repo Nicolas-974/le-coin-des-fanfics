@@ -4063,8 +4063,38 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "j_p64",
-      "style": "bold"
+      "style": "bold",
+      "speaker_parts": [
+        {
+          "text_key": "j_p64a"
+        },
+        {
+          "character": "largebody",
+          "name_key": "largebody_name",
+          "img": "Large_Body_KHIII.png"
+        },
+        {
+          "text_key": "j_p64b",
+          "no_space_before": true
+        },
+        {
+          "character": "airsoldier",
+          "name_key": "airsoldier_name",
+          "img": "Air_Soldier_KHIII.png"
+        },
+        {
+          "text_key": "j_p64c"
+        },
+        {
+          "character": "soldier",
+          "name_key": "soldier_name",
+          "img": "Soldier_KHIII.png"
+        },
+        {
+          "text_key": "j_p64d",
+          "no_space_before": true
+        }
+      ]
     },
     {
       "type": "paragraph",

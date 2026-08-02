@@ -1030,7 +1030,6 @@
   "j_p62": "Sora serra les poings avec force en voyant ce combat insensé. Peu importe qui était derrière tout cela, il ou elle avait déclenché cette guerre pour précipiter la chute de l’Empire romain, en poussant ses propres citoyens à s’entretuer dans une bataille sanglante.",
   "j_p63": "Mash : Ce n’est pas tout.",
   "j_p63_note": "Ajouta Mash, les yeux plissés en scrutant l’horizon. Elle reconnut des créatures familières qu’elle avait étudiées dans le bestiaire des Sans-cœur, attaquant les deux armées.",
-  "j_p64": "Mash : Je vois aussi des Sans-cœur attaquer les deux camps. Il y a des Rondouillards, des Soldats volants et des Soldats… et… attendez, regardez le petit groupe ! Quelqu’un les dirige tout en éliminant à la fois les Sans-cœur et les soldats ennemis !",
   "j_p65": "Les garçons tournèrent leur attention vers la droite, où le plus petit groupe tentait de repousser l’assaut adverse. Au centre de ce groupe, une jeune femme se démarquait nettement, à tel point qu’il était presque impossible de ne pas la remarquer. Sa robe rouge et blanche, au vaste ourlet flottant, criait son statut à tous ceux dans un rayon de cent kilomètres, lui donnant l’allure d’une noble plutôt que d’une combattante.",
   "j_p66": "Et pourtant, elle était bien là, en plein cœur de la mêlée, maniant une immense épée ondulée rouge et noire, bien plus grande qu’elle. Et de façon stupéfiante, à chaque coup, elle envoyait valser les soldats ennemis tout en détruisant les Sans-cœur.",
   "j_p67": "Malgré sa petite taille, elle faisait preuve d’une force impressionnante. Pas une seule mèche dorée ne semblait sortir de son chignon parfaitement coiffé.",
@@ -1190,5 +1189,12 @@
   "l_note6": "C’est d’ailleurs à cause de ça que, pendant ma réécriture, j’ai décidé d’introduire non seulement le Charme du Servant de Ritsuka (niveau lore, ça explique pourquoi il peut invoquer n’importe lequel de ses Servants pendant ses combats), mais aussi les MATERIA ! Eh oui ! Une version différente des Materia de Final Fantasy VII a été introduite dans l’univers de Grand Order ! Et grâce au pouvoir des Materia, Ritsuka peut désormais utiliser la magie ! À la base, je voulais lui faire utiliser une arme, mais j’ai finalement changé d’avis. Il a déjà les Codes Mystiques de Magiecraft et les Materia, donc pas besoin d’arme en plus.",
   "l_note7": "Et il y aura encore plein d’autres influences Final Fantasy à venir dans cette fic, donc restez à l’écoute.",
   "l_note8": "Comme vous l’avez lu, Olga peut désormais utiliser la magie de l’univers de Kingdom Hearts. Elle aura définitivement un rôle plus actif en tant que directrice. Elle a encore beaucoup de conflits intérieurs à régler, mais elle va les mettre de côté pour faire ce qu’elle a à faire.",
-  "l_note9": "C’est tout ce que j’avais à dire, profitez bien de ce chapitre et des suivants."
+  "l_note9": "C’est tout ce que j’avais à dire, profitez bien de ce chapitre et des suivants.",
+  "largebody_name": "Rondouillard",
+  "airsoldier_name": "Soldat volant",
+  "soldier_name": "Soldat",
+  "j_p64a": "Mash : Je vois aussi des Sans-cœur attaquer les deux camps. Il y a des",
+  "j_p64b": ",",
+  "j_p64c": "et des",
+  "j_p64d": "… et… attendez, regardez le petit groupe ! Quelqu’un les dirige tout en éliminant à la fois les Sans-cœur et les soldats ennemis !"
 }

@@ -1030,7 +1030,6 @@
   "j_p62": "Sora clenched his fists tightly as he watched the senseless battle take place. Whoever is behind this, they instigated this war to bring about the end of the Roman Empire by having its own people kill each other in a violent battle.",
   "j_p63": "Mash : That’s not all.",
   "j_p63_note": "Mash continued her report, her eyes narrowed as she saw what looked to be familiar creatures she read about in the Heartless bestiary attacking both armies.",
-  "j_p64": "Mash : I can also see Heartless engaging both armies. It looks like Large Bodies, Air Soldiers and Soldiers and…wait, look at the smaller group! Someone is leading them and taking out both the Heartless and enemy soldiers!",
   "j_p65": "The boys directed their attention to the group on the right, even as they tried to push back against the enemy forces. Front and center of them was a young woman, who was almost impossible to miss now that they laid eyes on her. Her red and white dress with a large flowing hem was loud enough to broadcast her presence to basically everyone in a hundred-kilometer radius, but it gave her the appearance of a royal noble, not a warrior.",
   "j_p66": "Yet there she was, right in the middle of the fray, swinging a wavy red and black sword that was taller than her. Even more amazingly, with each swing she easily knocked an enemy soldier aside, sending them flying back and destroying the Heartless.",
   "j_p67": "For one as small as her, she appeared to be incredibly strong. All without even a single golden hair coming out of place from the carefully-made bun on the back of her head.",
@@ -1190,5 +1189,12 @@
   "l_note6": "Because of that, during my rewrite I decided to introduce not only Ritsuka’s Servant Charm (Lore-wise to help explain why Ritsuka can summon any of his Servants during his battles) but also the MATERIA! That’s right! A different version of Final Fantasy VII’s Materia has been introduced in the Grand Order world! And with the power of materia, Ritsuka can use magic! I was originally going to have him use a weapon but I decided not to. He got Magecraft Mystic Codes and Materia, so no need for him to have a weapon.",
   "l_note7": "And there’s plenty more Final Fantasy influences coming for this fic, so stay tuned.",
   "l_note8": "As you’ve read, Olga can now use the magic of the Kingdom Hearts universe. She will definitely have a more active role as the director. She still has a lot of inner conflict to deal with, but she’ll put those to the side and do what she’s supposed to do.",
-  "l_note9": "That’s all I gotta say, enjoy this and the other chapters."
+  "l_note9": "That’s all I gotta say, enjoy this and the other chapters.",
+  "largebody_name": "Large Body",
+  "airsoldier_name": "Air Soldier",
+  "soldier_name": "Soldier",
+  "j_p64a": "Mash : I can also see Heartless engaging both armies. It looks like",
+  "j_p64b": ",",
+  "j_p64c": "and",
+  "j_p64d": " and…wait, look at the smaller group! Someone is leading them and taking out both the Heartless and enemy soldiers!"
 }
