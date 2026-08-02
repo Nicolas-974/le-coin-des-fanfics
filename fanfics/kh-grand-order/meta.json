@@ -14,7 +14,8 @@
     { "number": 5, "title": { "fr": "Singularité d’Orléans – Personne n’est laissé pour compte", "en": "Orleans Singularity - Nobody Gets Left Behind" } },
     { "number": 6, "title": { "fr": "Singularité d’Orléans – La Bataille Finale Commence", "en": "Orleans Singularity - The Final Battle Begins" } },
     { "number": 7, "title": { "fr": "Singularité d’Orléans – La Bataille Finale touche à sa fin", "en": "Orleans Singularity - The Final Battle Ends" } },
-    { "number": 8, "title": { "fr": "Recueil d’Interludes 1", "en": "Interlude Collection 1" } }
+    { "number": 8, "title": { "fr": "Recueil d’Interludes 1", "en": "Interlude Collection 1" } },
+    { "number": 9, "title": { "fr": "Singularité de Septem – En route pour Septem", "en": "Onward to Septem" } }
   ],
   "themes": {
     "default": 0,
