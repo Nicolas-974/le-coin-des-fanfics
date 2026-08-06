@@ -16,7 +16,8 @@
     { "number": 7, "title": { "fr": "Singularité d’Orléans – La Bataille Finale touche à sa fin", "en": "Orleans Singularity - The Final Battle Ends" } },
     { "number": 8, "title": { "fr": "Recueil d’Interludes 1", "en": "Interlude Collection 1" } },
     { "number": 9, "title": { "fr": "Singularité de Septem – En route pour Septem", "en": "Onward to Septem" } },
-    { "number": 10, "title": { "fr": "Singularité de Septem – À Rome, fais comme les Romains", "en": "Septem - When in Rome, do as Romans do" } }
+    { "number": 10, "title": { "fr": "Singularité de Septem – À Rome, fais comme les Romains", "en": "Septem - When in Rome, do as Romans do" } },
+    { "number": 11, "title": { "fr": "Singularité de Septem – La Bataille pour la Gaule", "en": "Septem - The Battle for Gaul" } }
   ],
   "themes": {
     "default": 0,
