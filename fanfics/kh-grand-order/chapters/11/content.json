@@ -1634,6 +1634,9 @@
       "style": "italic"
     },
     {
+      "type": "separator"
+    },
+    {
       "type": "paragraph",
       "key": "h_p1",
       "style": "italic"
@@ -2082,6 +2085,9 @@
     {
       "type": "paragraph",
       "key": "i_p19"
+    },
+    {
+      "type": "separator"
     },
     {
       "type": "paragraph",
