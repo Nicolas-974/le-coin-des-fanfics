@@ -2547,14 +2547,10 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "k_d12",
-      "style": "bold"
-    },
-    {
-      "type": "paragraph_with_characters",
-      "parts": [
+      "style": "bold",
+      "speaker_parts": [
         {
-          "text_key": "k_p7"
+          "text_key": "k_d12"
         },
         {
           "character": "caesar",
@@ -2562,9 +2558,14 @@
           "img": "SaberGOCaesarstage2.png"
         },
         {
-          "text_key": "k_p7b"
+          "text_key": "k_d12b",
+          "no_space_before": true
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "key": "k_p7"
     },
     {
       "type": "dialogue",

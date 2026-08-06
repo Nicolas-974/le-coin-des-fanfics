@@ -672,9 +672,8 @@
   "k_p6": "For some odd reason, a spot light shines down on him from the heavens which makes the others blink in astonishment at that. First Nero, now him? The Chaldeans had to wonder if Roman Emperors did something like that.",
   "k_d11": "??? : I am, in many ways, an emperor of Rome though they called me a dictator due to my excellent skills! Arguably, I am one of its greatest heroes and a descendant of the goddess Venus, herself!",
   "k_d11_note": "He placed a hand to his chest, proudly boasting.",
-  "k_d12": "??? : Yes! I am none other than Gaius Julius Caesar!",
-  "k_p7": "\"...\" After being quiet for a couple of seconds, still processing his words. Once it was fully processed, they stared at",
-  "k_p7b": "with disbelief.",
+  "k_d12": "??? : Yes! I am none other than",
+  "k_p7": "\"...\" After being quiet for a couple of seconds, still processing his words. Once it was fully processed, they stared at Caesar with disbelief.",
   "k_d13": "Nero : Caesar?!",
   "k_d13_note": "Nero shouted, her expression one of utter disbelief.",
   "k_d14": "Nero : The…the ruler who preceded our first emperor!?",
@@ -920,5 +919,6 @@
   "n_reveal_btn1": "Click Me",
   "note1": "Author’s Note: Well, that’s two Roman Emperors down. I bet you guys weren’t expecting Alexander and Zhuge Liang (Lord El-Melloi II) to make an appearance this early on. Obviously, this is in part due to Sora and the Heartless’ presence changing events that’s different from the main canon, with the early demise of Caligula being one. The next chapter will have the Chaldeans make their way back to the capital to plan their next but then take an unexpected mini detour to an island where they meet a certain goddess and a very cartoony cat. Right now, it’s going through some clean ups and fixes, so it won’t take long for it to be uploaded.",
   "note2": "As I’m sure you read I introduced a new Keyblade in Sora’s arsenal, one based on the famous Cú Chulainn. I know I haven’t shown the full capabilities of it, but I’ll show it in the next chapter.",
-  "note3": "Hope you guys enjoy."
+  "note3": "Hope you guys enjoy.",
+  "k_d12b": "!"
 }

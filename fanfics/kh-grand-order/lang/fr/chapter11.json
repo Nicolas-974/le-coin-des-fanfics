@@ -672,9 +672,8 @@
   "k_p6": "Pour une raison étrange, un projecteur descendit du ciel et éclaira l’homme, faisant cligner des yeux les autres sous l’effet de surprise. Après Nero, voilà que lui aussi avait ce genre de mise en scène ? Les membres de Chaldea se demandaient sérieusement si tous les empereurs romains faisaient ça.",
   "k_d11": "??? : Je suis, à bien des égards, un empereur de Rome, bien qu’on m’ait qualifié de dictateur à cause de mes compétences exceptionnelles ! On me considère comme l’un de ses plus grands héros, descendant de la déesse Vénus elle-même !",
   "k_d11_note": "Déclara-t-il en posant la main sur sa poitrine avec fierté.",
-  "k_d12": "??? : Oui ! Je suis nul autre que Gaius Julius Caesar !",
-  "k_p7": "… Un silence s’installa pendant quelques secondes, chacun digérant encore ses paroles. Une fois la révélation complètement assimilée, tous dévisagèrent",
-  "k_p7b": "avec incrédulité.",
+  "k_d12": "??? : Oui ! Je suis nul autre que",
+  "k_p7": "… Un silence s’installa pendant quelques secondes, chacun digérant encore ses paroles. Une fois la révélation complètement assimilée, tous dévisagèrent César avec incrédulité.",
   "k_d13": "Nero : César ?!",
   "k_d13_note": "S’écria Nero, l’air complètement stupéfaite.",
   "k_d14": "Nero : Le… le dirigeant qui a précédé notre premier empereur !?",
@@ -920,5 +919,6 @@
   "n_reveal_btn1": "Cliquez ici",
   "note1": "Note de l’auteur : Eh bien, voilà deux Empereurs romains de moins. Je parie que vous ne vous attendiez pas à voir Alexandre et Zhuge Liang (Lord El-Melloi II) apparaître aussi tôt. Évidemment, c’est en partie dû à la présence de Sora et des Sans-cœur qui change le cours des événements par rapport au canon original, la mort précoce de Caligula en étant un exemple. Le prochain chapitre verra les Chaldéens rentrer à la capitale pour préparer leur prochaine étape, avant de faire un détour inattendu vers une île où ils rencontreront une certaine déesse et un chat très cartoonesque. Il est actuellement en cours de relecture et de correction, donc ça ne devrait pas prendre longtemps avant sa publication.",
   "note2": "Comme vous avez sûrement pu le lire, j’ai introduit une nouvelle Keyblade dans l’arsenal de Sora, basée sur le célèbre Cú Chulainn. Je sais que je n’en ai pas encore montré toutes les capacités, mais je le ferai dans le prochain chapitre.",
-  "note3": "J’espère que vous avez apprécié."
+  "note3": "J’espère que vous avez apprécié.",
+  "k_d12b": " !"
 }
