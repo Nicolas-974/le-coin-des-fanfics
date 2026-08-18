@@ -1,4 +1,4 @@
-import { renderChapter } from './reader.js';
+import { renderChapter, showLoader, hideLoader } from './reader.js';
 import { initI18n, applyTranslations, getCurrentLang, switchLanguage } from './i18n.js';
 import { stopCurrentAudio, initAudioPlayers, updateAudioLanguage } from './audio.js';
 import { initHoverImages, initRevealSpoiler, initThemePanel } from './widget.js';
@@ -6,25 +6,30 @@ import { initHelpButton } from './help.js';
 
 export async function loadChapter(fanficId, chapterNumber, { updateHistory = true } = {}) {
   stopCurrentAudio();
+  showLoader();
 
-  await Promise.all([
-    renderChapter(fanficId, chapterNumber),
-    initI18n(fanficId, chapterNumber, getCurrentLang()),
-  ]);
+  try {
+    await Promise.all([
+      renderChapter(fanficId, chapterNumber),
+      initI18n(fanficId, chapterNumber, getCurrentLang()),
+    ]);
 
-  applyTranslations();
-  initAudioPlayers();
-  initHoverImages();
-  initRevealSpoiler();
-  syncChapterNav(chapterNumber);
+    applyTranslations();
+    initAudioPlayers();
+    initHoverImages();
+    initRevealSpoiler();
+    syncChapterNav(chapterNumber);
 
-  if (updateHistory) {
-    const url = new URL(window.location.href);
-    url.searchParams.set('chapter', chapterNumber);
-    history.pushState({ chapter: chapterNumber }, '', url);
+    if (updateHistory) {
+      const url = new URL(window.location.href);
+      url.searchParams.set('chapter', chapterNumber);
+      history.pushState({ chapter: chapterNumber }, '', url);
+    }
+
+    preloadNextChapter(fanficId, chapterNumber);
+  } finally {
+    hideLoader();
   }
-
-  preloadNextChapter(fanficId, chapterNumber);
 }
 
 function preloadNextChapter(fanficId, chapterNumber) {
@@ -52,9 +57,16 @@ export async function initRouter(fanficId) {
   langBtn?.addEventListener('click', async (event) => {
     event.stopPropagation();
     const nextLang = getCurrentLang() === 'fr' ? 'en' : 'fr';
-    await switchLanguage(fanficId, getChapterFromUrl(), nextLang);
-    updateAudioLanguage(nextLang);
-    renderChapterNav(fanficId);
+    langBtn.disabled = true;
+    showLoader();
+    try {
+      await switchLanguage(fanficId, getChapterFromUrl(), nextLang);
+      updateAudioLanguage(nextLang);
+      renderChapterNav(fanficId);
+    } finally {
+      hideLoader();
+      langBtn.disabled = false;
+    }
   });
 }
 

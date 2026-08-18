@@ -74,10 +74,21 @@ function setupPlayer(zone) {
     if (playPauseBtn) playPauseBtn.textContent = '⏸️';
   });
 
+  // Piste encore en train de se télécharger : on affiche un petit spinner
+  // à la place de l'icône pause/lecture le temps que ça charge.
+  audio.addEventListener('waiting', () => {
+    playPauseBtn?.classList.add('is-buffering');
+  });
+
+  audio.addEventListener('playing', () => {
+    playPauseBtn?.classList.remove('is-buffering');
+  });
+
   const reset = () => {
     zone.classList.remove('audio-fixed');
     titleWrapper?.classList.add('hidden');
     title?.classList.remove('scroll');
+    playPauseBtn?.classList.remove('is-buffering');
     if (playPauseBtn) playPauseBtn.textContent = '▶️';
   };
 

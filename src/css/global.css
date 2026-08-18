@@ -80,6 +80,37 @@ main {
   opacity: 0;
 }
 
+/* Indicateur de chargement plein écran (changement de chapitre / traduction) */
+.page-loader {
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 3500;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+
+.page-loader.is-visible {
+  opacity: 1;
+}
+
+.spinner {
+  width: 2.4rem;
+  height: 2.4rem;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .chapter-title {
   text-align: center;
   font-size: 1.3em;
@@ -534,6 +565,12 @@ body.modal-open {
   transform: scale(1.2);
 }
 
+.panel-icon:disabled {
+  opacity: 0.4;
+  cursor: wait;
+  pointer-events: none;
+}
+
 #toast {
   position: fixed;
   bottom: 20px;
@@ -691,6 +728,27 @@ a.imag span.show-mobile img[src$="Real_Organization_XIII_KHIII.png"] {
 
 .custom-player .play-pause:hover {
   background: #45a049;
+}
+
+/* Piste audio en cours de mise en mémoire tampon (chargement lent) */
+.custom-player .play-pause.is-buffering {
+  color: transparent;
+  position: relative;
+  cursor: wait;
+}
+
+.custom-player .play-pause.is-buffering::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1rem;
+  height: 1rem;
+  margin: -0.5rem 0 0 -0.5rem;
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
 }
 
 .custom-player .progress {

@@ -1,4 +1,31 @@
 const FADE_DURATION = 200;
+const LOADER_DELAY = 150;
+
+let loaderEl = null;
+let loaderTimer = null;
+
+// Le spinner n'apparaît qu'après un court délai, pour ne pas clignoter
+// inutilement lors des changements de chapitre déjà préchargés.
+export function showLoader() {
+  clearTimeout(loaderTimer);
+  loaderTimer = setTimeout(() => {
+    ensureLoader().classList.add('is-visible');
+  }, LOADER_DELAY);
+}
+
+export function hideLoader() {
+  clearTimeout(loaderTimer);
+  loaderEl?.classList.remove('is-visible');
+}
+
+function ensureLoader() {
+  if (loaderEl) return loaderEl;
+  loaderEl = document.createElement('div');
+  loaderEl.className = 'page-loader';
+  loaderEl.innerHTML = '<div class="spinner"></div>';
+  document.body.appendChild(loaderEl);
+  return loaderEl;
+}
 
 function escapeHtml(text) {
   return text
