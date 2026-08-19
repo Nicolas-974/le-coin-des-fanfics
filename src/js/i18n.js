@@ -45,11 +45,11 @@ export async function switchSiteLanguage(lang) {
 }
 
 // Certaines traductions contiennent des balises inline littérales (<br>, <i>, <b>,
-// <a href="...">) pour mettre en forme un mot au milieu d'une phrase (ex: nom de
-// sort, lien externe). On les convertit en vrais éléments DOM sans jamais passer
+// <u>, <a href="...">) pour mettre en forme un mot au milieu d'une phrase (ex: nom
+// de sort, lien externe). On les convertit en vrais éléments DOM sans jamais passer
 // par innerHTML brut. Le href d'un lien vient uniquement de la balise elle-même
 // (capturée par la regex), jamais interprété comme du HTML additionnel.
-const INLINE_TAG_REGEX = /<br>|<\/?i>|<\/?b>|<a href="([^"]*)">|<\/a>/g;
+const INLINE_TAG_REGEX = /<br>|<\/?i>|<\/?b>|<\/?u>|<a href="([^"]*)">|<\/a>/g;
 
 function renderInlineText(el, text) {
   if (typeof text !== 'string') text = '';
@@ -67,12 +67,12 @@ function renderInlineText(el, text) {
     const tag = match[0];
     if (tag === '<br>') {
       parent.appendChild(document.createElement('br'));
-    } else if (tag === '<i>' || tag === '<b>') {
-      const node = document.createElement(tag === '<i>' ? 'i' : 'b');
+    } else if (tag === '<i>' || tag === '<b>' || tag === '<u>') {
+      const node = document.createElement(tag.slice(1, -1));
       parent.appendChild(node);
       stack.push(node);
       parent = node;
-    } else if ((tag === '</i>' || tag === '</b>') && stack.length > 1) {
+    } else if ((tag === '</i>' || tag === '</b>' || tag === '</u>') && stack.length > 1) {
       stack.pop();
       parent = stack[stack.length - 1];
     } else if (tag.startsWith('<a href="')) {
