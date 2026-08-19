@@ -1,0 +1,2625 @@
+{
+  "meta": {
+    "fanfic": "fate-genesis",
+    "chapter": 7,
+    "title_key": "chapter_title"
+  },
+  "content": [
+    {
+      "type": "audio",
+      "src": "Fate_Hollow Ataraxia OST - Whisper of Darkness.mp3",
+      "title_key": "audio_title1"
+    },
+    {
+      "type": "dialogue",
+      "style": "bold",
+      "speaker_parts": [
+        {
+          "text_key": "d1a"
+        },
+        {
+          "character": "eggman",
+          "name_key": "eggman_name",
+          "img": "SDT_DoctorEggmanRender.png"
+        },
+        {
+          "text_key": "d1b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p1a"
+        },
+        {
+          "character": "kotomine",
+          "name_key": "kotomine_name",
+          "img": "Kirei_Heaven's_Feel_Movie.png"
+        },
+        {
+          "text_key": "p1b"
+        },
+        {
+          "character": "archer",
+          "name_key": "archer_name",
+          "img": "Archer_Heaven's_Feel_Movie.png"
+        },
+        {
+          "text_key": "p1c"
+        },
+        {
+          "character": "lancer",
+          "name_key": "lancer_name",
+          "img": "LancerCuChuGOStage1.png"
+        },
+        {
+          "text_key": "p1d",
+          "no_space_before": true
+        },
+        {
+          "character": "rin",
+          "name_key": "rin_name",
+          "img": "rin2.png"
+        },
+        {
+          "text_key": "p1e"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p2"
+    },
+    {
+      "type": "paragraph",
+      "key": "p3"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p4a"
+        },
+        {
+          "character": "illyasviel",
+          "name_key": "illyasviel_name",
+          "img": "Illyasviel_ufo_art.png"
+        },
+        {
+          "text_key": "p4b",
+          "no_space_before": true
+        },
+        {
+          "character": "irisviel",
+          "name_key": "irisviel_name",
+          "img": "Iri_ufotable_Fate_Zero_Character_Sheet_2.png"
+        },
+        {
+          "text_key": "p4c",
+          "no_space_before": true
+        },
+        {
+          "character": "caster",
+          "name_key": "caster_name",
+          "img": "caster.png"
+        },
+        {
+          "text_key": "p4d",
+          "no_space_before": true
+        },
+        {
+          "character": "zouken",
+          "name_key": "zouken_name",
+          "img": "Matou_zouken.png"
+        },
+        {
+          "text_key": "p4e",
+          "no_space_before": true
+        },
+        {
+          "character": "shinji",
+          "name_key": "shinji_name",
+          "img": "Matou_shinji.png"
+        },
+        {
+          "text_key": "p4f"
+        },
+        {
+          "character": "shirou",
+          "name_key": "shirou_name",
+          "img": "shirou_emiya__render__7__by_wtfbooomsh_dfv8y3m-fullview.png"
+        },
+        {
+          "text_key": "p4g",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p5"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_d3",
+      "style": "bold",
+      "line_key": "kotomine_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_d4",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d1",
+      "style": "bold",
+      "line_key": "rin_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p6a"
+        },
+        {
+          "character": "sonic",
+          "name_key": "sonic_name",
+          "img": "SXSG_Sonic.png"
+        },
+        {
+          "text_key": "p6b"
+        },
+        {
+          "character": "tails",
+          "name_key": "tails_name",
+          "img": "SRCTails.png"
+        },
+        {
+          "text_key": "p6c",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d1",
+      "style": "bold",
+      "line_key": "sonic_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d3",
+      "style": "bold",
+      "line_key": "rin_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p7"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p8"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d1",
+      "style": "bold",
+      "line_key": "tails_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d1",
+      "style": "bold",
+      "line_key": "illya_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d3",
+      "style": "bold",
+      "line_key": "tails_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d1",
+      "style": "bold",
+      "line_parts": [
+        {
+          "text_key": "saber_d1_note"
+        },
+        {
+          "character": "saber",
+          "name_key": "saber_name",
+          "img": "saber_casual.png"
+        },
+        {
+          "text_key": "saber_d1_note_b",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "style": "italic",
+      "speaker_parts": [
+        {
+          "text_key": "saber_d3a"
+        },
+        {
+          "character": "kiritsugu",
+          "name_key": "kiritsugu_name",
+          "img": "Emiya_kiritsugu.png"
+        },
+        {
+          "text_key": "saber_d3b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d5",
+      "style": "bold",
+      "line_key": "rin_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d6",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p9"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d6",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d3",
+      "style": "bold",
+      "line_key": "illya_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d3",
+      "style": "bold",
+      "line_key": "sonic_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d5",
+      "style": "bold",
+      "line_key": "saber_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p10"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d1",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p11"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d1",
+      "style": "bold",
+      "line_key": "archer_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d2",
+      "style": "bold",
+      "line_key": "shirou_d2_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d3",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d5",
+      "style": "bold",
+      "line_key": "sonic_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p12"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p13"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p14"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d7",
+      "style": "bold",
+      "line_key": "rin_d7_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d7",
+      "style": "bold",
+      "line_key": "saber_d7_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p15"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d9",
+      "style": "bold",
+      "line_key": "rin_d9_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d10",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d8",
+      "style": "bold",
+      "line_key": "tails_d8_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p16"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d11",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p17"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p18"
+    },
+    {
+      "type": "paragraph",
+      "key": "p19"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d3",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p20"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d12",
+      "style": "bold",
+      "line_key": "rin_d12_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d13",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "BGM Unmei no Uzu - 運命の渦 - Fate_stay night OST [KATE].mp3",
+      "title_key": "audio_title2"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p21a"
+        },
+        {
+          "character": "stuart",
+          "name_key": "stuart_name",
+          "img": "Mister_Stewart_Sonic_X_profile.png"
+        },
+        {
+          "text_key": "p21b"
+        },
+        {
+          "character": "twice",
+          "name_key": "twice_name",
+          "img": "Twice.png"
+        },
+        {
+          "text_key": "p21c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p22a"
+        },
+        {
+          "character": "saber",
+          "name_key": "saber_altname_name",
+          "img": "Saber_Accel_Zero_Order.png"
+        },
+        {
+          "text_key": "p22b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p23a"
+        },
+        {
+          "character": "irisviel",
+          "name_key": "irisviel_name",
+          "img": "Iri_ufotable_Fate_Zero_Character_Sheet_2.png"
+        },
+        {
+          "text_key": "p23b",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p24"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d1",
+      "style": "bold",
+      "line_key": "stuart_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d1",
+      "style": "bold",
+      "line_key": "twice_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p25"
+    },
+    {
+      "type": "paragraph",
+      "key": "p26"
+    },
+    {
+      "type": "paragraph",
+      "key": "p27"
+    },
+    {
+      "type": "paragraph",
+      "key": "p28"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d3",
+      "style": "bold",
+      "line_key": "twice_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p29"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d2",
+      "style": "bold",
+      "line_key": "stuart_d2_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p30"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p31"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p32"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d7",
+      "style": "bold",
+      "line_key": "twice_d7_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d4",
+      "style": "bold",
+      "line_key": "stuart_d4_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p33"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p34a"
+        },
+        {
+          "character": "kuzuki",
+          "name_key": "kuzuki_name",
+          "img": "Souichiroumugshot.png"
+        },
+        {
+          "text_key": "p34b",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p35a"
+        },
+        {
+          "character": "tokiomi",
+          "name_key": "tokiomi_name",
+          "img": "Tohsaka_tokiomi.png"
+        },
+        {
+          "text_key": "p35b",
+          "no_space_before": true
+        },
+        {
+          "character": "aoi",
+          "name_key": "aoi_name",
+          "img": "Tohsaka_aoi-0.png"
+        },
+        {
+          "text_key": "p35c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p36a"
+        },
+        {
+          "character": "sakura",
+          "name_key": "sakura_name",
+          "img": "Sakura_Heaven's_Feel_Movie_3_(uniform).png"
+        },
+        {
+          "text_key": "p36b",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p37"
+    },
+    {
+      "type": "paragraph",
+      "key": "p38"
+    },
+    {
+      "type": "dialogue",
+      "style": "bold",
+      "speaker_parts": [
+        {
+          "text_key": "stuart_d5a"
+        },
+        {
+          "character": "bazett",
+          "name_key": "bazett_name",
+          "img": "Bazett_Takashi_Takeuchi_character_select.png"
+        },
+        {
+          "text_key": "stuart_d5b",
+          "no_space_before": true
+        }
+      ],
+      "line_key": "stuart_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p39"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p40"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d10",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d7",
+      "style": "bold",
+      "line_key": "stuart_d7_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d11",
+      "style": "bold",
+      "line_key": "twice_d11_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "twice_d12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d9",
+      "style": "bold",
+      "line_key": "stuart_d9_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p41"
+    },
+    {
+      "type": "paragraph",
+      "key": "p42"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "stuart_d11",
+      "style": "italic",
+      "line_key": "stuart_d11_note"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d12",
+      "style": "bold-italic",
+      "line_key": "sonic_d12_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p44"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d12b",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p45"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "voix_d1",
+      "style": "bold",
+      "line_key": "voix_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d13",
+      "style": "italic",
+      "line_key": "sonic_d13_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p46"
+    },
+    {
+      "type": "paragraph",
+      "key": "p47"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d14",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p48"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d15",
+      "style": "bold",
+      "line_key": "sonic_d15_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d16",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p49"
+    },
+    {
+      "type": "paragraph",
+      "key": "p50"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d17",
+      "style": "bold",
+      "line_key": "sonic_d17_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p51"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d18",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "femme_d1",
+      "style": "bold",
+      "line_key": "femme_d1_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p52"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d19",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p53"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "femme_d2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p54"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d20",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p55"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d21",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "femme_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p56"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "femme_d4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d22",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p57"
+    },
+    {
+      "type": "dialogue",
+      "style": "italic",
+      "speaker_parts": [
+        {
+          "text_key": "sonic_d_amy_a"
+        },
+        {
+          "character": "amy",
+          "name_key": "amy_name",
+          "img": "SRCAmy.png"
+        },
+        {
+          "text_key": "sonic_d_amy_b",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fatestay night [Réalta Nua] (PS Vita) OST - Confrontation (2012).mp3",
+      "title_key": "audio_title3"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d1",
+      "style": "bold",
+      "line_key": "bazett_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d1",
+      "style": "bold",
+      "line_key": "amy_d1_note"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p58a"
+        },
+        {
+          "character": "ombre_ch7",
+          "name_key": "ombre_ch7_name",
+          "img": "AvengerAngraStage1.jpg"
+        },
+        {
+          "text_key": "p58b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p59"
+    },
+    {
+      "type": "paragraph",
+      "key": "p60"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d2",
+      "style": "bold",
+      "line_key": "amy_d2_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p61"
+    },
+    {
+      "type": "paragraph",
+      "key": "p62"
+    },
+    {
+      "type": "paragraph",
+      "key": "p63"
+    },
+    {
+      "type": "paragraph",
+      "key": "p64"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d4",
+      "style": "bold",
+      "line_key": "amy_d4_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p65"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d5",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d4",
+      "style": "bold",
+      "line_key": "bazett_d4_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p66"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d5",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d7",
+      "style": "bold",
+      "line_key": "amy_d7_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d6",
+      "style": "bold",
+      "line_key": "bazett_d6_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p67"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p68"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d9",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "mystere_d1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p69"
+    },
+    {
+      "type": "reveal_image",
+      "img": "Gilgamesh_Heaven's_Feel_Movie.png",
+      "button_key": "btn_show_image"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night [Réalta Nua] (PS Vita) OST - The King of Gold (2012).mp3",
+      "title_key": "audio_title4"
+    },
+    {
+      "type": "paragraph",
+      "key": "p70"
+    },
+    {
+      "type": "paragraph",
+      "key": "p71"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d1",
+      "style": "bold",
+      "line_key": "gilgamesh_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d2",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p72"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p73"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p74"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p75"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p76"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d5",
+      "style": "bold",
+      "line_key": "gilgamesh_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p77"
+    },
+    {
+      "type": "paragraph",
+      "key": "p78"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d7",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p79"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p80"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p81"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d11",
+      "style": "bold",
+      "line_key": "amy_d11_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p82"
+    },
+    {
+      "type": "paragraph",
+      "key": "p83"
+    },
+    {
+      "type": "paragraph",
+      "key": "p84"
+    },
+    {
+      "type": "paragraph",
+      "key": "p85"
+    },
+    {
+      "type": "paragraph",
+      "key": "p86"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d10",
+      "style": "bold",
+      "line_key": "gilgamesh_d10_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d11",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d12",
+      "style": "italic",
+      "line_key": "gilgamesh_d12_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d13",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p87"
+    },
+    {
+      "type": "paragraph",
+      "key": "p88"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d13",
+      "style": "italic",
+      "line_key": "bazett_d13_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d14",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p90"
+    },
+    {
+      "type": "paragraph",
+      "key": "p91"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d14",
+      "style": "bold",
+      "line_key": "gilgamesh_d14_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p92"
+    },
+    {
+      "type": "paragraph",
+      "key": "p_davy_intro",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p93"
+    },
+    {
+      "type": "paragraph",
+      "key": "p94",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p95",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p96",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p97",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p98",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p99",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p100"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d15",
+      "style": "bold",
+      "line_key": "gilgamesh_d15_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d16",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p101"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d12",
+      "style": "bold",
+      "line_key": "amy_d12_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d9",
+      "style": "bold",
+      "line_key": "bazett_d9_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d10",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d13",
+      "style": "bold",
+      "line_key": "amy_d13_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d14",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d11",
+      "style": "bold",
+      "line_key": "bazett_d11_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "bazett_d12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d15",
+      "style": "bold",
+      "line_key": "amy_d15_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d17",
+      "style": "bold",
+      "line_key": "gilgamesh_d17_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p102",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p103"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d18",
+      "style": "bold",
+      "line_key": "gilgamesh_d18_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p104"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d19",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p105a"
+        },
+        {
+          "character": "orbot",
+          "name_key": "orbot_name",
+          "img": "Sonic-Colours-Orbot.png"
+        },
+        {
+          "text_key": "p105b"
+        },
+        {
+          "character": "cubot",
+          "name_key": "cubot_name",
+          "img": "Cubot.png"
+        },
+        {
+          "text_key": "p105c"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d1",
+      "style": "bold",
+      "line_key": "orbot_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d1",
+      "style": "bold",
+      "line_key": "cubot_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d3",
+      "style": "bold",
+      "line_key": "orbot_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d3",
+      "style": "bold",
+      "line_key": "cubot_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p106"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p107"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "amy_d16",
+      "style": "bold",
+      "line_key": "amy_d16_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d6",
+      "style": "bold",
+      "line_key": "orbot_d6_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d5",
+      "style": "bold",
+      "line_key": "cubot_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p108"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d20",
+      "style": "bold",
+      "line_key": "gilgamesh_d20_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d21",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d7",
+      "style": "bold",
+      "line_key": "orbot_d7_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p109"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d22",
+      "style": "bold",
+      "line_key": "gilgamesh_d22_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p110"
+    },
+    {
+      "type": "paragraph",
+      "key": "p111"
+    },
+    {
+      "type": "paragraph",
+      "key": "p112"
+    },
+    {
+      "type": "paragraph",
+      "key": "p113"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d23",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p114"
+    },
+    {
+      "type": "paragraph",
+      "key": "p115"
+    },
+    {
+      "type": "paragraph",
+      "key": "p116"
+    },
+    {
+      "type": "paragraph",
+      "key": "p117"
+    },
+    {
+      "type": "paragraph",
+      "key": "p118"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d24",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p119"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_d5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p120"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "gilgamesh_d25",
+      "style": "bold"
+    },
+    {
+      "type": "audio",
+      "src": "Fuji-nee Theme.mp3",
+      "title_key": "audio_title5"
+    },
+    {
+      "type": "paragraph",
+      "key": "p121",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p122",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p123",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p124",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p125",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_d6",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p126",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rep_d1",
+      "style": "bold-italic",
+      "line_key": "rep_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rep_d2",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p127",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "kotomine_d7",
+      "style": "bold-italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p128"
+    },
+    {
+      "type": "paragraph",
+      "key": "p129"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d7",
+      "style": "bold",
+      "line_key": "cubot_d7_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d8",
+      "style": "bold",
+      "line_key": "orbot_d8_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d9",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p130"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d10",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p131",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p132"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d8",
+      "style": "bold",
+      "line_key": "cubot_d8_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d11",
+      "style": "bold",
+      "line_key": "orbot_d11_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p133"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d9",
+      "style": "bold",
+      "line_key": "cubot_d9_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "cubot_d10",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d12",
+      "style": "bold",
+      "line_key": "orbot_d12_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "orbot_d13",
+      "style": "bold"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night [Réalta Nua] (PS Vita) OST - A Pleasant Scenery (2012).mp3",
+      "title_key": "audio_title6"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p134"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d1",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p135"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d2",
+      "style": "bold",
+      "line_key": "illya_d2_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d3",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d4",
+      "style": "bold",
+      "line_key": "saber_d4_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p136"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p137"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p138"
+    },
+    {
+      "type": "paragraph",
+      "key": "p139"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "tails_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p140"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p141"
+    },
+    {
+      "type": "audio",
+      "src": "BGM Uraraka na Shirabe - うららかな調べ - Fate_stay night OST [KATE].mp3",
+      "title_key": "audio_title7"
+    },
+    {
+      "type": "paragraph",
+      "key": "p142"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d4",
+      "style": "bold",
+      "line_key": "shirou_d4_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d5",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d5",
+      "style": "bold",
+      "line_key": "saber_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p143"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d23",
+      "style": "bold",
+      "line_key": "sonic_d23_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d24",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d1",
+      "style": "bold",
+      "line_key": "archer_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d25",
+      "style": "bold",
+      "line_key": "sonic_d25_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p144"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d26",
+      "style": "bold",
+      "line_key": "sonic_d26_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d27",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d6",
+      "style": "italic",
+      "line_key": "shirou_d6_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d7",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d4",
+      "style": "bold",
+      "line_key": "rin_d4_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d5",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d28",
+      "style": "bold",
+      "line_key": "sonic_d28_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d29",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d6",
+      "style": "bold",
+      "line_key": "rin_d6_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "rin_d7",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d2",
+      "style": "bold",
+      "line_key": "archer_d2_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d3b",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p145"
+    },
+    {
+      "type": "paragraph",
+      "key": "p146"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d30",
+      "style": "bold",
+      "line_key": "sonic_d30_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "shirou_d8",
+      "style": "bold",
+      "line_key": "shirou_d8_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p147"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d31",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d7",
+      "style": "bold",
+      "line_key": "saber_d7_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p148"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "sonic_d32",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d7",
+      "style": "bold",
+      "line_key": "illya_d7_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d8",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "text_key": "p149a"
+        },
+        {
+          "character": "gilles",
+          "name_key": "gilles_name",
+          "img": "ZeroCaster.png"
+        },
+        {
+          "text_key": "p149b",
+          "no_space_before": true
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d8",
+      "style": "italic",
+      "line_key": "saber_d8_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "saber_d9",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p150"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d4",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "archer_d5",
+      "style": "italic"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d2",
+      "style": "italic",
+      "line_key": "lancer_d2_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d3",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p151"
+    },
+    {
+      "type": "paragraph",
+      "key": "p152b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p153b"
+    },
+    {
+      "type": "paragraph",
+      "key": "p154b"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d4",
+      "style": "italic"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "paragraph_with_characters",
+      "parts": [
+        {
+          "character": "knuckles",
+          "name_key": "knuckles_name",
+          "img": "Frontiers_Knuckles.png"
+        },
+        {
+          "text_key": "p155b"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "key": "p156"
+    },
+    {
+      "type": "paragraph",
+      "key": "p157"
+    },
+    {
+      "type": "paragraph",
+      "key": "p158"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d1",
+      "style": "italic",
+      "line_key": "knuckles_d1_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d2",
+      "style": "italic"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night [Réalta Nua] (PS Vita) OST - Breakthrough (2012).mp3",
+      "title_key": "audio_title8"
+    },
+    {
+      "type": "paragraph",
+      "key": "p159"
+    },
+    {
+      "type": "paragraph",
+      "key": "p160"
+    },
+    {
+      "type": "paragraph",
+      "key": "p161"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d5",
+      "style": "bold",
+      "line_key": "lancer_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d6",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p162"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d7",
+      "style": "bold",
+      "line_key": "lancer_d7_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d3",
+      "style": "bold",
+      "line_key": "knuckles_d3_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d4",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p163"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d9",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d5",
+      "style": "bold",
+      "line_key": "knuckles_d5_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d6",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d10",
+      "style": "bold",
+      "line_key": "lancer_d10_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d11",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d7",
+      "style": "bold",
+      "line_key": "knuckles_d7_note"
+    },
+    {
+      "type": "audio",
+      "src": "The Wicked Wild - Sonic and the Secret Rings [OST].mp3",
+      "title_key": "audio_title9"
+    },
+    {
+      "type": "paragraph",
+      "key": "p164"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d12",
+      "style": "italic",
+      "line_key": "lancer_d12_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d13",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p165"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d8",
+      "style": "italic",
+      "line_key": "knuckles_d8_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d9",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p166"
+    },
+    {
+      "type": "paragraph",
+      "key": "p167"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d10",
+      "style": "bold",
+      "line_key": "knuckles_d10_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p168"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d14",
+      "style": "bold",
+      "line_key": "lancer_d14_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p169"
+    },
+    {
+      "type": "paragraph",
+      "key": "p170"
+    },
+    {
+      "type": "paragraph",
+      "key": "p171"
+    },
+    {
+      "type": "paragraph",
+      "key": "p172"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d15",
+      "style": "bold",
+      "line_key": "lancer_d15_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d16",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p173"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d17",
+      "style": "bold",
+      "line_key": "lancer_d17_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "lancer_d18",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p174"
+    },
+    {
+      "type": "paragraph",
+      "key": "p175"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d11",
+      "style": "bold",
+      "line_key": "knuckles_d11_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d12",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p176"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d13",
+      "style": "italic",
+      "line_key": "knuckles_d13_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d14",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p177"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d15",
+      "style": "italic",
+      "line_key": "knuckles_d15_note"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "knuckles_d16",
+      "style": "italic"
+    },
+    {
+      "type": "paragraph",
+      "key": "p178"
+    },
+    {
+      "type": "paragraph",
+      "key": "p179"
+    },
+    {
+      "type": "paragraph",
+      "key": "p180"
+    },
+    {
+      "type": "paragraph",
+      "key": "p181"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "caster_d1",
+      "style": "italic",
+      "line_key": "caster_d1_note"
+    },
+    {
+      "type": "paragraph",
+      "key": "p182",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p183",
+      "style": "bold-italic"
+    },
+    {
+      "type": "audio",
+      "src": "Fate_stay night [Réalta Nua] (PS Vita) OST - Theme of Tiger Dojo (2012).mp3",
+      "title_key": "audio_title10"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d1",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d9",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d2",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d10",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d3",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p184",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d11",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d4",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d12",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d5",
+      "style": "bold"
+    },
+    {
+      "type": "paragraph",
+      "key": "p185",
+      "style": "italic"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d13",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "style": "bold",
+      "speaker_parts": [
+        {
+          "text_key": "taiga_d6a"
+        },
+        {
+          "character": "sonic_black_knight",
+          "name_key": "sonic_black_knight_name",
+          "img": "71fMOM7+wtL._AC_SL1500_.jpg"
+        },
+        {
+          "text_key": "taiga_d6b"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d14",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d7",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d15",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d8",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "illya_d16",
+      "style": "bold"
+    },
+    {
+      "type": "dialogue",
+      "speaker_key": "taiga_d9",
+      "style": "bold"
+    }
+  ]
+}

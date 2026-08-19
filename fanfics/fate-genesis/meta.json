@@ -12,7 +12,8 @@
     { "number": 3, "title": { "fr": "Kick the Rock!", "en": "Kick the Rock!" } },
     { "number": 4, "title": { "fr": "To The Beginning", "en": "To The Beginning" } },
     { "number": 5, "title": { "fr": "The SuperNatural", "en": "The SuperNatural" } },
-    { "number": 6, "title": { "fr": "Winter Trees in the Distant View", "en": "Winter Trees in the Distant View" } }
+    { "number": 6, "title": { "fr": "Winter Trees in the Distant View", "en": "Winter Trees in the Distant View" } },
+    { "number": 7, "title": { "fr": "The Wicked Wild", "en": "The Wicked Wild" } }
   ],
   "themes": {
     "default": 0,
