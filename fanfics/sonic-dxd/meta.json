@@ -1,0 +1,19 @@
+{
+  "id": "sonic-dxd",
+  "title": "Sonic DxD",
+  "author": "Bakuganman",
+  "original_language": "en",
+  "translated_by": "Nicolas",
+  "source_url": "https://www.fanfiction.net/s/13503927/1/Sonic-DxD",
+  "chapters": [
+    { "number": 0, "title": { "fr": "Prologue", "en": "Prologue" } }
+  ],
+  "themes": {
+    "default": 0,
+    "backgrounds": [
+      { "css": "linear-gradient(to right, #1E90FF, #8B0000)", "name": "Fusion Sonic/DxD", "textColor": "#f5f5f5" },
+      { "css": "linear-gradient(135deg, #1E90FF 0%, #0B0C2A 50%, #8B0000 100%)", "name": "Occult Research Club", "textColor": "#f5f5f5" },
+      { "css": "linear-gradient(to right, #2B0000, #000000)", "name": "Ailes Déchues", "textColor": "#f5f5f5" }
+    ]
+  }
+}

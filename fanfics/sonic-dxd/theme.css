@@ -1,0 +1,29 @@
+/* Styles spécifiques à Sonic DxD (non gérés par le cycle de thèmes JS) */
+:root {
+  --accent: #8b0000;
+}
+
+@font-face {
+  font-family: 'Games Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Games Regular'), url('/src/assets/fonts/Games.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Games Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Games Italic'), url('/src/assets/fonts/Games-Italic.woff') format('woff');
+}
+
+body {
+  background: linear-gradient(to right, #1e90ff, #8b0000);
+  color: #f5f5f5;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Noms de personnages mentionnés (première apparition / hover) */
+.card {
+  font-family: 'Games Regular', system-ui, sans-serif;
+}

@@ -104,6 +104,41 @@
           "wikiUrl": "https://typemoon.fandom.com/wiki/Fate/Grand_Order"
         }
       ]
+    },
+    {
+      "id": "sonic-dxd",
+      "title": "Sonic DxD",
+      "author": "Bakuganman",
+      "authorUrl": "https://www.fanfiction.net/u/8473954/Bakuganman",
+      "sourceUrl": "https://www.fanfiction.net/s/13503927/1/Sonic-DxD",
+      "translator": "Nicolas",
+      "cover": "fanfics/sonic-dxd/assets/img/cover.jpg",
+      "summary": {
+        "fr": "Suite à un accident avec les Émeraudes du Chaos, Sonic se retrouve transporté dans une autre dimension, un monde où Démons et Dieux sont monnaie courante. Devenu ami avec le Club de Recherches sur l'Occulte, il devra compter sur eux pour récupérer les Émeraudes et rentrer chez lui... avant que des démons assoiffés de pouvoir, ou un certain « egg-man », ne mettent la main dessus les premiers...",
+        "en": "After an accident with the Chaos Emeralds, Sonic is transported to another dimension, in a world where Demons and Gods are common. Befriending the Occult Research Club, it's up to them to help Sonic recover the Emeralds and send him home... before power-hungry demons or a certain egg-man finds them first..."
+      },
+      "chapters": 1,
+      "status": "en_cours",
+      "tags": ["Sonic", "Highschool DxD", "Crossover"],
+      "protagonists": [],
+      "franchises": [
+        {
+          "name": "Sonic the Hedgehog",
+          "description": {
+            "fr": "Série de jeux vidéo culte de SEGA suivant les aventures d'un hérisson bleu ultra-rapide affrontant le Dr Eggman.",
+            "en": "SEGA's iconic video game series following a lightning-fast blue hedgehog battling Dr. Eggman."
+          },
+          "wikiUrl": "https://sonic.fandom.com/wiki/Sonic_the_Hedgehog"
+        },
+        {
+          "name": "High School DxD",
+          "description": {
+            "fr": "Light novel et anime japonais suivant Issei Hyodo, réincarné en démon, membre du Club de Recherches sur l'Occulte dirigé par la princesse démone Rias Gremory.",
+            "en": "Japanese light novel and anime following Issei Hyodo, reincarnated as a devil and member of the Occult Research Club led by devil princess Rias Gremory."
+          },
+          "wikiUrl": "https://highschooldxd.fandom.com/wiki/Main_Page"
+        }
+      ]
     }
   ]
 }

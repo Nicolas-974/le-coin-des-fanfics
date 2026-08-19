@@ -1,7 +1,7 @@
 import { renderChapter, showLoader, hideLoader } from './reader.js';
 import { initI18n, applyTranslations, getCurrentLang, switchLanguage } from './i18n.js';
 import { stopCurrentAudio, initAudioPlayers, updateAudioLanguage } from './audio.js';
-import { initHoverImages, initRevealSpoiler, initThemePanel } from './widget.js';
+import { initHoverImages, initRevealSpoiler, initRevealGroup, initThemePanel } from './widget.js';
 import { initHelpButton } from './help.js';
 
 export async function loadChapter(fanficId, chapterNumber, { updateHistory = true } = {}) {
@@ -18,6 +18,7 @@ export async function loadChapter(fanficId, chapterNumber, { updateHistory = tru
     initAudioPlayers();
     initHoverImages();
     initRevealSpoiler();
+    initRevealGroup();
     syncChapterNav(chapterNumber);
 
     if (updateHistory) {
@@ -72,7 +73,8 @@ export async function initRouter(fanficId) {
 
 export function getChapterFromUrl() {
   const params = new URLSearchParams(window.location.search);
-  return Number(params.get('chapter')) || 1;
+  const raw = params.get('chapter');
+  return raw === null ? 1 : Number(raw);
 }
 
 let chaptersMeta = [];

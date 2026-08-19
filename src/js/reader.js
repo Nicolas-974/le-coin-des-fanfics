@@ -70,6 +70,8 @@ function renderBlock(block, fanficId) {
       return renderRevealImage(block, fanficId);
     case 'reveal_video':
       return renderRevealVideo(block);
+    case 'reveal_group':
+      return renderRevealGroup(block, fanficId);
     case 'stat_box':
       return renderStatBox(block);
     case 'info_box':
@@ -158,9 +160,12 @@ function renderAudio(block, fanficId) {
   const srcEnAttr = block.src_en
     ? ` data-src-en="/fanfics/${fanficId}/assets/audio/${block.src_en}"`
     : '';
+  // Par défaut la piste boucle en continu (ambiance) ; block.loop:false pour
+  // les pistes qui ne doivent jouer qu'une fois (ex: générique/OP).
+  const loopAttr = block.loop === false ? ` data-loop="false"` : '';
   return `
     <div class="audio-zone">
-      <div class="custom-player" data-src="/fanfics/${fanficId}/assets/audio/${block.src}"${srcEnAttr}>
+      <div class="custom-player" data-src="/fanfics/${fanficId}/assets/audio/${block.src}"${srcEnAttr}${loopAttr}>
         <button class="play-pause" type="button" aria-label="Lecture">▶️</button>
         <input class="progress" type="range" value="0" step="1" />
         <input class="volume" type="range" min="0" max="1" step="0.01" value="1" />
@@ -196,6 +201,18 @@ function renderRevealVideo(block) {
   return `
     <div class="reveal-image">
       <a class="revealed-video-link" href="${block.watch_url}" target="_blank" rel="noopener noreferrer" data-i18n="${block.link_key}"></a>
+    </div>
+  `;
+}
+
+// Bloc de contenu masqué par défaut (ex: générique/OP en tête de chapitre),
+// révélé en entier au clic sur un bouton plutôt qu'une simple image.
+function renderRevealGroup(block, fanficId) {
+  const inner = block.items.map((item) => renderBlock(item, fanficId)).join('');
+  return `
+    <div class="reveal-group">
+      <button class="reveal-group-btn" type="button" data-i18n="${block.button_key}"></button>
+      <div class="reveal-group-content hidden">${inner}</div>
     </div>
   `;
 }

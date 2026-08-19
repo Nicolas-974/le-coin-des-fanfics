@@ -38,7 +38,7 @@ function setupPlayer(zone) {
   if (!playerEl) return null;
 
   const audio = new Audio(sourceForLang(playerEl, getCurrentLang()));
-  audio.loop = true;
+  audio.loop = playerEl.dataset.loop !== 'false';
 
   const playPauseBtn = playerEl.querySelector('.play-pause');
   const progress = playerEl.querySelector('.progress');

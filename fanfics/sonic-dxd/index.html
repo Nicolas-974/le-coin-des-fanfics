@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sonic DxD — Le Coin des Fanfics</title>
+    <link rel="stylesheet" href="/src/css/global.css" />
+    <link rel="stylesheet" href="./theme.css" />
+  </head>
+  <body data-fanfic-id="sonic-dxd">
+    <div id="panel-hint" title="Options disponibles ici">→</div>
+
+    <div id="theme-panel" aria-expanded="false">
+      <div id="theme-handle" title="Ouvrir le panneau">««</div>
+      <div id="theme-content" role="region" aria-label="Panneau thème">
+        <a id="home-link" class="panel-icon" href="/" title="Retour à l'accueil" aria-label="Retour à l'accueil">🏠</a>
+        <button id="theme-cycle" class="panel-icon" type="button" title="Changer de thème" aria-label="Changer de thème">🎨</button>
+        <button id="lang-toggle" class="panel-icon" type="button" title="Changer de langue" aria-label="Changer de langue">🌐</button>
+        <button id="help-toggle" class="panel-icon" type="button" title="Aide" aria-label="Aide">❓</button>
+      </div>
+    </div>
+
+    <div id="toast"></div>
+
+    <main>
+      <section id="presentation">
+        <h1 data-i18n="project_title"></h1>
+      </section>
+
+      <nav id="chapter-nav-top" class="chapter-nav"></nav>
+
+      <section id="reader"></section>
+
+      <nav id="chapter-nav-bottom" class="chapter-nav"></nav>
+    </main>
+
+    <script type="module" src="/src/js/bootstrap.js"></script>
+  </body>
+</html>

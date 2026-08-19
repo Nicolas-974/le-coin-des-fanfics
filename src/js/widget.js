@@ -167,3 +167,16 @@ function revealImage(btn) {
   img.src = btn.dataset.img;
   btn.replaceWith(img);
 }
+
+export function initRevealGroup(root = document) {
+  root.querySelectorAll('.reveal-group-btn').forEach((btn) => {
+    btn.addEventListener(
+      'click',
+      () => {
+        btn.classList.add('hidden');
+        btn.nextElementSibling?.classList.remove('hidden');
+      },
+      { once: true },
+    );
+  });
+}
