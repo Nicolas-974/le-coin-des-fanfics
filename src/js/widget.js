@@ -162,10 +162,28 @@ export function initRevealSpoiler(root = document) {
 }
 
 function revealImage(btn) {
-  const img = document.createElement('img');
-  img.className = 'revealed-img';
-  img.src = btn.dataset.img;
-  btn.replaceWith(img);
+  // data-imgs (plusieurs URLs séparées par des virgules) permet de révéler
+  // plusieurs images d'un coup avec un seul bouton ; data-img reste supporté
+  // pour la démo du panneau d'aide (une seule image).
+  const urls = btn.dataset.imgs ? btn.dataset.imgs.split(',') : [btn.dataset.img];
+
+  if (urls.length === 1) {
+    const img = document.createElement('img');
+    img.className = 'revealed-img';
+    img.src = urls[0];
+    btn.replaceWith(img);
+    return;
+  }
+
+  const group = document.createElement('div');
+  group.className = 'revealed-img-group';
+  urls.forEach((url) => {
+    const img = document.createElement('img');
+    img.className = 'revealed-img';
+    img.src = url;
+    group.appendChild(img);
+  });
+  btn.replaceWith(group);
 }
 
 export function initRevealGroup(root = document) {

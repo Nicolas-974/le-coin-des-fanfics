@@ -44,9 +44,13 @@ export async function renderChapter(fanficId, chapterNumber) {
   const response = await fetch(contentUrl);
   const { meta, content } = await response.json();
 
-  const titleHtml = meta?.title_key
-    ? `<p class="chapter-title"><u data-i18n="${meta.title_key}"></u></p>`
-    : '';
+  // Certains chapitres placent le titre plus bas dans le contenu (ex: après une
+  // note d'auteur) via un bloc paragraph {variant:"chapter-title"} au lieu du
+  // rendu automatique en haut de page.
+  const titleHtml =
+    meta?.title_key && meta.title_position !== 'inline'
+      ? `<p class="chapter-title"><u data-i18n="${meta.title_key}"></u></p>`
+      : '';
   container.innerHTML = titleHtml + content.map((block) => renderBlock(block, fanficId)).join('');
 
   window.scrollTo(0, 0);
@@ -105,6 +109,9 @@ function wrapStyle(style, html) {
 }
 
 function renderParagraph(block) {
+  if (block.variant === 'chapter-title') {
+    return `<p class="chapter-title"><u data-i18n="${block.key}"></u></p>`;
+  }
   const classAttr = block.align === 'center' ? ' class="text-center"' : '';
   if (block.text) {
     return `<p${classAttr}>${wrapStyle(block.style, escapeHtml(block.text))}</p>`;
@@ -190,9 +197,13 @@ function renderAudioLink(block) {
 }
 
 function renderRevealImage(block, fanficId) {
+  // block.imgs (tableau) pour révéler plusieurs images d'un coup avec un seul
+  // bouton (ex: deux personnages dévoilés ensemble) ; sinon block.img (unique).
+  const imgs = block.imgs ?? [block.img];
+  const imgsAttr = imgs.map((img) => `/fanfics/${fanficId}/assets/img/${img}`).join(',');
   return `
     <div class="reveal-image">
-      <button class="reveal-btn" type="button" data-img="/fanfics/${fanficId}/assets/img/${block.img}" data-i18n="${block.button_key}"></button>
+      <button class="reveal-btn" type="button" data-imgs="${imgsAttr}" data-i18n="${block.button_key}"></button>
     </div>
   `;
 }
