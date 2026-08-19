@@ -16,6 +16,8 @@ Je ne suis qu'un lecteur passionné qui, au fil de ses lectures, est tombé sur 
 |---|---|---|
 | **Fate Genesis** (Sonic the Hedgehog × Fate/stay night) | [Cybertoy00](https://www.fanfiction.net/u/381645/Cybertoy00) | [FanFiction.net](https://www.fanfiction.net/s/11150281/1/Fate-Genesis) |
 | **Kingdom Hearts: Familia Myth** (Kingdom Hearts × DanMachi) | [Keybladewielder97](https://www.fanfiction.net/u/5713519/Keybladewielder97) | [FanFiction.net](https://www.fanfiction.net/s/14016032/1/Kingdom-Hearts-Familia-Myth) |
+| **Kingdom Hearts: Grand Order** (Kingdom Hearts × Fate/Grand Order) | [KingSora3](https://www.fanfiction.net/u/2615262/KingSora3) | [FanFiction.net](https://www.fanfiction.net/s/14130841/1/Kingdom-Hearts-Grand-Order) |
+| **Sonic DxD** (Sonic the Hedgehog × High School DxD) | [Bakuganman](https://www.fanfiction.net/u/8473954/Bakuganman) | [FanFiction.net](https://www.fanfiction.net/s/13503927/1/Sonic-DxD) |
 
 ---
 
