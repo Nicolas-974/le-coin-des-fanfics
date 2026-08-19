@@ -149,6 +149,6 @@ function createModalContent(fanfic, lang) {
       ${sourceLine}
     </div>
 
-    <a class="modal-read-btn" href="fanfics/${fanfic.id}/index.html">${i18next.t('start_reading')} →</a>
+    <a class="modal-read-btn" href="fanfics/${fanfic.id}/index.html${fanfic.startChapter !== undefined ? `?chapter=${fanfic.startChapter}` : ''}">${i18next.t('start_reading')} →</a>
   `;
 }
