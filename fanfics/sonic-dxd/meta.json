@@ -10,7 +10,8 @@
     { "number": 1, "title": { "fr": "Problèmes dans un nouveau monde (Partie 1)", "en": "Trouble in a New World (Part 1)" } },
     { "number": 2, "title": { "fr": "Problèmes dans un nouveau monde (Partie 2)", "en": "Trouble in a New World (Part 2)" } },
     { "number": 3, "title": { "fr": "Il faut tout un club de recherches sur l’Occulte pour attraper un hérisson (Partie 1)", "en": "It Takes an Occult Research Club to Catch a Hedgehog (Part 1)" } },
-    { "number": 4, "title": { "fr": "Il faut tout un club de recherches sur l’Occulte pour attraper un hérisson (Partie 2)", "en": "It Takes an Occult Research Club to Catch a Hedgehog (Part 2)" } }
+    { "number": 4, "title": { "fr": "Il faut tout un club de recherches sur l’Occulte pour attraper un hérisson (Partie 2)", "en": "It Takes an Occult Research Club to Catch a Hedgehog (Part 2)" } },
+    { "number": 5, "title": { "fr": "Il faut tout un club de recherches sur l’Occulte pour attraper un hérisson (Partie 3)", "en": "It Takes an Occult Research Club to Catch a Hedgehog (Part 3)" } }
   ],
   "themes": {
     "default": 0,
