@@ -84,16 +84,26 @@ const NAV_LABELS = {
   en: { prev: 'Previous', next: 'Next' },
 };
 
+const CHAPTER_LABEL_MAX_LENGTH = 24;
+
 function chapterLabel(chapter, lang) {
   const num = String(chapter.number).padStart(2, '0');
   const title = chapter.title[lang] ?? chapter.title.fr;
   return `${num}. ${title}`;
 }
 
+function truncateLabel(label, maxLength = CHAPTER_LABEL_MAX_LENGTH) {
+  if (label.length <= maxLength) return label;
+  return `${label.slice(0, maxLength).trimEnd()}…`;
+}
+
 function renderChapterNavHtml(lang) {
   const labels = NAV_LABELS[lang] ?? NAV_LABELS.fr;
   const options = chaptersMeta
-    .map((c) => `<option value="${c.number}">${chapterLabel(c, lang)}</option>`)
+    .map((c) => {
+      const label = chapterLabel(c, lang);
+      return `<option value="${c.number}" title="${label}">${truncateLabel(label)}</option>`;
+    })
     .join('');
 
   return `

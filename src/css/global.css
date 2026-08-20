@@ -1014,7 +1014,10 @@ a.imag span.show-mobile img[src$="Real_Organization_XIII_KHIII.png"] {
   border-radius: 6px;
   padding: 0.35rem 0.5rem;
   font-size: 0.9rem;
-  max-width: 240px;
+  width: 224px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .chapter-buttons {
@@ -1070,6 +1073,11 @@ a.imag span.show-mobile img[src$="Real_Organization_XIII_KHIII.png"] {
   .chapter-nav {
     flex-direction: column;
     align-items: stretch;
+  }
+
+  .chapter-select {
+    width: 100%;
+    max-width: 224px;
   }
 
   .custom-player {
