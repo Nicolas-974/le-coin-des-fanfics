@@ -126,7 +126,7 @@ function createModalContent(fanfic, lang) {
 
   return `
     <div class="modal-header">
-      <img class="modal-cover" src="${fanfic.cover}" alt="${fanfic.title}" />
+      <img class="modal-cover" src="${fanfic.cover}" alt="${fanfic.title}" loading="lazy" />
       <div class="modal-header-text">
         <span class="status">${statusLabel(fanfic.status)}</span>
         <h2>${fanfic.title}</h2>

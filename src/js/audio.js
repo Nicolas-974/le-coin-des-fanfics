@@ -37,7 +37,9 @@ function setupPlayer(zone) {
   const playerEl = zone.querySelector('.custom-player');
   if (!playerEl) return null;
 
-  const audio = new Audio(sourceForLang(playerEl, getCurrentLang()));
+  const audio = new Audio();
+  audio.preload = 'none';
+  audio.src = sourceForLang(playerEl, getCurrentLang());
   audio.loop = playerEl.dataset.loop !== 'false';
 
   const playPauseBtn = playerEl.querySelector('.play-pause');

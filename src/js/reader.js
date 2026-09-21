@@ -148,7 +148,7 @@ function renderPart(part, fanficId, blockStyle) {
     return part.break_after ? `${span}<br>` : span;
   }
 
-  return `<a class="imag card" data-character="${part.character}"><i data-i18n="${part.name_key}"></i><span><img src="/fanfics/${fanficId}/assets/img/${part.img}" alt="" /></span></a>`;
+  return `<a class="imag card" data-character="${part.character}"><i data-i18n="${part.name_key}"></i><span><img src="/fanfics/${fanficId}/assets/img/${part.img}" alt="" loading="lazy" decoding="async" /></span></a>`;
 }
 
 function renderDialogue(block, fanficId) {
