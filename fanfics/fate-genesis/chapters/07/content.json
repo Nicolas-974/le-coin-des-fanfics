@@ -204,13 +204,13 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "rin_d3",
+      "speaker_key": "rin_d14",
       "style": "bold",
       "line_key": "rin_d3_note"
     },
     {
       "type": "dialogue",
-      "speaker_key": "rin_d4",
+      "speaker_key": "rin_d15",
       "style": "bold"
     },
     {
@@ -239,18 +239,18 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "illya_d1",
+      "speaker_key": "illya_d17",
       "style": "bold",
       "line_key": "illya_d1_note"
     },
     {
       "type": "dialogue",
-      "speaker_key": "illya_d2",
+      "speaker_key": "illya_d18",
       "style": "bold"
     },
     {
       "type": "dialogue",
-      "speaker_key": "tails_d3",
+      "speaker_key": "tails_d10",
       "style": "bold",
       "line_key": "tails_d3_note"
     },
@@ -302,18 +302,18 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "saber_d4",
+      "speaker_key": "saber_d10",
       "style": "bold"
     },
     {
       "type": "dialogue",
-      "speaker_key": "rin_d5",
+      "speaker_key": "rin_d16",
       "style": "bold",
-      "line_key": "rin_d5_note"
+      "line_key": "rin_d16_note"
     },
     {
       "type": "dialogue",
-      "speaker_key": "rin_d6",
+      "speaker_key": "rin_d17",
       "style": "bold"
     },
     {
@@ -332,13 +332,13 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "illya_d3",
+      "speaker_key": "illya_d19",
       "style": "bold",
       "line_key": "illya_d3_note"
     },
     {
       "type": "dialogue",
-      "speaker_key": "illya_d4",
+      "speaker_key": "illya_d20",
       "style": "bold"
     },
     {
@@ -349,13 +349,13 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "saber_d5",
+      "speaker_key": "saber_d11",
       "style": "bold",
-      "line_key": "saber_d5_note"
+      "line_key": "saber_d11_note"
     },
     {
       "type": "dialogue",
-      "speaker_key": "saber_d6",
+      "speaker_key": "saber_d12",
       "style": "bold"
     },
     {
@@ -378,13 +378,13 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "archer_d1",
+      "speaker_key": "archer_d6",
       "style": "bold",
-      "line_key": "archer_d1_note"
+      "line_key": "archer_d6_note"
     },
     {
       "type": "dialogue",
-      "speaker_key": "archer_d2",
+      "speaker_key": "archer_d7",
       "style": "bold"
     },
     {
@@ -433,7 +433,7 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "rin_d7",
+      "speaker_key": "rin_d18",
       "style": "bold",
       "line_key": "rin_d7_note"
     },
@@ -444,9 +444,9 @@
     },
     {
       "type": "dialogue",
-      "speaker_key": "saber_d7",
+      "speaker_key": "saber_d13",
       "style": "bold",
-      "line_key": "saber_d7_note"
+      "line_key": "saber_d13_note"
     },
     {
       "type": "paragraph",
